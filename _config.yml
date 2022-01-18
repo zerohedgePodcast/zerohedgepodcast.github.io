@@ -1,7 +1,7 @@
 highlighter: rouge
 plugins:
   - jekyll-feed
-title: Zero Hedge Podcast
+title: ZeroHedge Podcast
 description: Welcome to the Matrix
-author: Zero Hedge
+author: ZeroHedge Podcast
 permalink: /:year/:month/:day/:title:output_ext
