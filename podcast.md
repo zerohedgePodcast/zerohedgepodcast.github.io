@@ -8,7 +8,7 @@ title: Podcast
   <item>
     <title>{{ post.title }}</title>
     <description>{{ post.desc }}</description>
-    <pubDate>{{ post.date | date: '%F' }}</pubDate>
+    <pubDate>{{ post.datetime }}</pubDate>
     <enclosure url="https://zerohedgepodcast.github.io/_posts/audio/{{ post.audio }}.mp3"
                type="audio/mpeg" length="{{ post.duration }}"/>
     <itunes:duration>{{ post.duration }}</itunes:duration>
