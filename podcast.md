@@ -10,7 +10,7 @@ title: Podcast
     <description>{{ post.desc }}</description>
     <pubDate>{{ post.date | date: '%F' }}</pubDate>
     <enclosure url="https://zerohedgepodcast.github.io/_posts/audio/{{ post.audio }}.mp3"
-               type="audio/mpeg" length={{ post.duration }}/>
+               type="audio/mpeg" length="{{ post.duration }}"/>
     <itunes:duration>{{ post.duration }}</itunes:duration>
     <guid isPermaLink="false">dzpodtop10</guid>
   </item>
