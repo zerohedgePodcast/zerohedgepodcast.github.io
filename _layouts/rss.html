@@ -1,18 +1,22 @@
-<pre style="word-wrap: break-word; white-space: pre-wrap;">
-  <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-      xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-      <title>ZeroHedge Podcast</title>
-      <itunes:owner>
-          <itunes:zerohedgePodcast@outlook.com</itunes:email>
-      </itunes:owner>
-      <itunes:author>ZeroHedge Podcast</itunes:author>
-      <description>An automated podcast turning ZeroHedge articles into audio format.</description>
-      <itunes:image href="https://zerohedgepodcast.github.io/assets/img/zerohedge_icon.jpg"/>
-      <language>en-us</language>
-      <link>https://zerohedgepodcast.github.io/</link>
-      {{ content }}
-    </channel>
-  </rss>
-</pre>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ZeroHedge Podcast</title>
+    <itunes:owner>
+      <itunes:email>zerohedgePodcast@outlook.com</itunes:email>
+      <itunes:name>ZeroHedge Podcast</itunes:name>
+    </itunes:owner>
+    <itunes:author>ZeroHedge Podcast</itunes:author>
+    <description>An automated podcast turning ZeroHedge articles into audio format.</description>
+    <itunes:image href="https://zerohedgepodcast.github.io/assets/img/zerohedge_icon.jpg"/>
+    <language>en-us</language>
+    <link>https://zerohedgepodcast.github.io/</link>
+    <itunes:type>serial</itunes:type>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    {{ content }}
+  </channel>
+</rss>
