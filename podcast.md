@@ -3,7 +3,6 @@ layout: rss
 title: Podcast
 ---
 
-## Podcast
 {% for post in site.categories.podcast %}
   <item>
     <title>{{ post.title }}</title>
