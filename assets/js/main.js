@@ -130,12 +130,13 @@
 
         date.textContent = relativeTimeFormat.format(-daysSinceDate, 'day');
 
-        if (!isSinglePostPage() && daysSinceDate < 4) {
-          date.parentElement.classList.add(
-            'published-recently',
-            'confetti-please'
-          );
-        }
+/**        if (!isSinglePostPage() && daysSinceDate < 4) {
+ *         date.parentElement.classList.add(
+ *           'published-recently',
+ *           'confetti-please'
+ *         );
+ *       }
+ */
       }
     });
   }
