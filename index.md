@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Recent podcasts
+## Recent Podcast Episodes
 
 <ul class="posts">
   {% for post in site.categories.podcast limit:6 %}
