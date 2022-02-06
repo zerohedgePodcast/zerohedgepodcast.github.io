@@ -16,4 +16,4 @@ title: Home
   {% endfor %}
 </ul>
 
-[See all podcasts](/podcast)
+[See all podcast episodes](/posts)

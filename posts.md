@@ -6,7 +6,7 @@ title: Posts
 ## Posts
 
 <ul class="posts">
-  {% for post in site.categories.posts %}
+  {% for post in site.categories.podcast %}
     <li class="post">
       <a href="{{ post.url }}">{{ post.title }}</a>
       <time class="publish-date" datetime="{{ post.date | date: '%F' }}">
