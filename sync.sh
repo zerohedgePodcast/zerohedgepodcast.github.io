@@ -1,12 +1,13 @@
 #!/bin/bash
 
 # Confirm with user
-read -n 1 -p "Push to GitHub? (enter or ctrl+c):" input
-
-
-#Copy (sync?) files from /mnt/
-printf "\033[0;32mCopying files...\033[0m\n"
-
+if (( $# < 2 )); then
+	read -n 1 -p "Push to GitHub? (enter or ctrl+c):" input
+else
+	if (( $2 != "auto" )); then
+		read -n 1 -p "Push to GitHub? (enter or ctrl+c):" input
+	fi
+fi
 
 #Perform git commit/push
 
