@@ -13,18 +13,21 @@ fi
 
 # If a command fails then the deploy stops
 set -e
+if [[ `git status --porcelain` ]]; then
+	printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+	# Add changes to git
+	git add -A
 
-# Add changes to git
-git add -A
+	# Commit changes
+	msg="rebuilding site $(date)"
+	if [ -n "$*" ]; then
+		msg="$*"
+	fi
+	git commit -m "$msg"
 
-# Commit changes
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
+	# Push source
+	git push
+else
+	printf "\033[0;32mNo changes to deploy...\033[0m\n"
 fi
-git commit -m "$msg"
-
-# Push source
-git push
