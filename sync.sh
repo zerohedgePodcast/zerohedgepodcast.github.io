@@ -11,9 +11,11 @@ fi
 
 #Perform git commit/push
 
-# If a command fails then the deploy stops
-set -e
+
 if [[ `git status --porcelain` ]]; then
+	# If a command fails then the deploy stops
+	set -e
+	
 	printf "\033[0;32mDeploying updates to GitHub B)\033[0m\n"
 
 	# Add changes to git
