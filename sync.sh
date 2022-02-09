@@ -16,7 +16,7 @@ if [[ `git status --porcelain` ]]; then
 	# If a command fails then the deploy stops
 	set -e
 	
-	printf "\033[0;32mDeploying updates to GitHub B)\033[0m\n"
+	printf "\033[0;32m$(date): Deploying updates to GitHub B)\033[0m\n"
 
 	# Add changes to git
 	git add -A
@@ -31,5 +31,5 @@ if [[ `git status --porcelain` ]]; then
 	# Push source
 	git push
 else
-	printf "\033[0;32mNo changes to deploy ;)\033[0m\n"
+	printf "\033[0;32m$(date): No changes to deploy on ;)\033[0m\n"
 fi
