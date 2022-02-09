@@ -31,5 +31,5 @@ if [[ `git status --porcelain` ]]; then
 	# Push source
 	git push
 else
-	printf "\033[0;32m$(date): No changes to deploy on ;)\033[0m\n"
+	printf "\033[0;32m$(date): No changes to deploy ;)\033[0m\n"
 fi
