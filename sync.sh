@@ -30,6 +30,7 @@ if [[ `git status --porcelain` ]]; then
 
 	# Push source
 	git push
+	# git push https://YOUR_GIT_USERNAME@github.com/YOUR_GIT_USERNAME/yourGitFileName.git
 else
 	printf "\033[0;32m$(date): No changes to deploy ;)\033[0m\n"
 fi
