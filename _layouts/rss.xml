@@ -11,7 +11,7 @@
     </itunes:owner>
     <itunes:author>ZeroHedge Podcast</itunes:author>
     <description>An automated podcast turning ZeroHedge articles into audio format.</description>
-    <itunes:image href="https://zerohedgepodcast.github.io/assets/img/zerohedge_icon.jpg"/>
+    <itunes:image href="https://zerohedgepodcast.github.io/assets/img/zerohedge_icon_400x400.jpg"/>
     <language>en-us</language>
     <link>https://zerohedgepodcast.github.io/</link>
     <itunes:type>serial</itunes:type>
