@@ -10,7 +10,7 @@ title: Home
     <li class="post">
       <a href="{{ post.url }}">{{ post.title }}</a>
       <time class="publish-date" datetime="{{ post.date | date: '%F' }}">
-        {{ post.datetime | date: "%H:%M:%S %B %-d, %Y" }}
+        {{ post.datetime | date: "%X %B %-d, %Y" }}
       </time>
     </li>
   {% endfor %}
