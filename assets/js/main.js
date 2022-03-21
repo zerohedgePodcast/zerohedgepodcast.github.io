@@ -130,14 +130,6 @@
         const daysSinceDate = Math.floor(timeSinceDateInMs / oneDayInMs);
 
         date.textContent = relativeTimeFormat.format(-daysSinceDate, 'day');
-
-/**        if (!isSinglePostPage() && daysSinceDate < 4) {
- *         date.parentElement.classList.add(
- *           'published-recently',
- *           'confetti-please'
- *         );
- *       }
- */
       }
     });
   }
