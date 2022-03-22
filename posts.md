@@ -9,8 +9,8 @@ title: Posts
   {% for post in site.categories.podcast %}
     <li class="post">
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <time class="publish-date" datetime="{{ post.date | date: '%F' }}">
-        {{ post.date | date: "%B %-d, %Y" }}
+      <time class="publish-date" datetime="{{ post.date | date: '%F-%H-%M-%S' }}">
+        {{ post.date | date: "%B %-d, %Y %X" }}
       </time>
     </li>
   {% endfor %}
