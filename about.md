@@ -3,4 +3,4 @@ layout: default
 title: About me
 ---
 
-## Hey there! I’m Zero Hedge Podcast
+## Hello there!  I’m Zerohedge Podcast.  Producing free, automated podcast episodes for you to enjoy.
