@@ -24,7 +24,6 @@ layout: null
 		<itunes:category text="Daily News"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
-
 		{% for post in site.categories.podcast %}
 		<item>
 			<title>{{ post.title }}</title>
