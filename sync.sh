@@ -29,9 +29,9 @@ if [[ `git status --porcelain` ]]; then
 	git commit -m "$msg"
 
 	# Push source
-	git config http.version HTTP/1.1
+	#git config http.version HTTP/1.1
 	git push -v
-	git config --unset http.version
+	#git config --unset http.version
 	# git push https://YOUR_GIT_USERNAME@github.com/YOUR_GIT_USERNAME/yourGitFileName.git
 else
 	printf "\033[0;32m$(date): No changes to deploy ;)\033[0m\n"
