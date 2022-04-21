@@ -4,4 +4,4 @@ plugins:
 title: ZeroHedge Podcast
 description: Welcome to the Matrix
 author: ZeroHedge Podcast
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:categories/:year/:month/:day/:title:output_ext
