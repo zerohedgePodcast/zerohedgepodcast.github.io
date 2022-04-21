@@ -15,10 +15,7 @@ layout: null
 			<itunes:name>ZeroHedge Podcast</itunes:name>
 		</itunes:owner>
 		<itunes:author>ZeroHedge Podcast</itunes:author>
-		<description>
-			<p>An automated podcast turning ZeroHedge articles into audio format.</p>
-			<p>tags: Zerohedge, Zero Hedge, News, Daily News, World News, Crypto, Gold, Silver, Money, Politics</p>
-		</description>
+		<description>An automated podcast turning ZeroHedge articles into audio format.</description>
 		<itunes:image href="https://zerohedgepodcast.github.io/assets/img/zerohedge_icon_400x400.jpg"/>
 		<language>en-us</language>
 		<link>https://zerohedgepodcast.github.io/</link>
@@ -26,7 +23,6 @@ layout: null
 		<itunes:category text="News">
 		<itunes:category text="Daily News"/>
 		</itunes:category>
-		<itunes:keywords>Zerohedge Zero Hedge Zerohedge New DailyNews WorldNews Crypto Gold Silver Money Politics</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.categories.podcast %}
 		<item>
