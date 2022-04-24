@@ -18,7 +18,7 @@ if test -n "$(git status --porcelain)"; then
 	set -e
 	
 	#printf "\033[0;32m$(date): Deploying updates to GitHub B)\033[0m\n"
-	printf "$(date): Deploying updates to GitHub B)\n"
+	printf "$(date): Deploying updates to GitHub\n"
 
 	# Add changes to git
 	git add -A
@@ -35,6 +35,7 @@ if test -n "$(git status --porcelain)"; then
 	git push -v
 	#git config --unset http.version
 
+	printf "$(date): Updates Deployed B)\n"
 else
 	if [[ 'git diff --stat origin/main main' ]]; then
 		printf "$(date): PUSHing updates to GitHub\n"
