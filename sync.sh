@@ -37,7 +37,7 @@ if test -n "$(git status --porcelain)"; then
 
 else
 	if [[ 'git diff --stat origin/main main' ]]; then
-		printf "$(date): Pushing updates to GitHub\n"
+		printf "$(date): PUSHing updates to GitHub\n"
 		git push -v
 	else
 		#printf "\033[0;32m$(date): No changes to deploy ;)\033[0m\n"
