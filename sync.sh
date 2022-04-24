@@ -35,7 +35,7 @@ if test -n "$(git status --porcelain)"; then
 	git push -v
 	#git config --unset http.version
 
-	printf "$(date): Updates Deployed B)\n"
+	printf "$Updates Deployed B)\n"
 else
 	if [[ 'git diff --stat origin/main main' ]]; then
 		printf "$(date): PUSHing updates to GitHub\n"
