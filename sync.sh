@@ -14,7 +14,6 @@ fi
 
 #if [[ 'git status --porcelain' ]]; then
 if test -n "$(git status --porcelain)"; then
-#if [[ 'git diff-index --quiet HEAD --' ]] || ; then
 	# If a command fails then the deploy stops
 	set -e
 	
