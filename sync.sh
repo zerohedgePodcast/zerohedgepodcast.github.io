@@ -12,11 +12,13 @@ fi
 #Perform git commit/push
 
 
-if [[ `git status --porcelain` ]]; then
+#if [[ 'git status --porcelain' ]]; then
+if [[ 'git diff-index --quiet HEAD --' ]]; then
 	# If a command fails then the deploy stops
 	set -e
 	
-	printf "\033[0;32m$(date): Deploying updates to GitHub B)\033[0m\n"
+	#printf "\033[0;32m$(date): Deploying updates to GitHub B)\033[0m\n"
+	printf "$(date): Deploying updates to GitHub B)\n"
 
 	# Add changes to git
 	git add -A
@@ -29,10 +31,16 @@ if [[ `git status --porcelain` ]]; then
 	git commit -m "$msg"
 
 	# Push source
-	git config http.version HTTP/1.1
+	#git config http.version HTTP/1.1
 	git push -v
-	git config --unset http.version
+	#git config --unset http.version
 
 else
-	printf "\033[0;32m$(date): No changes to deploy ;)\033[0m\n"
+	if [[ 'git diff --stat origin/main main' ]]; then
+		printf "$(date): Pushing updates to GitHub\n"
+		git push -v
+	else
+		#printf "\033[0;32m$(date): No changes to deploy ;)\033[0m\n"
+		printf "$(date): No changes to deploy ;)\n"
+	fi
 fi
