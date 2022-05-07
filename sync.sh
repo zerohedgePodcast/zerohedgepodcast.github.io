@@ -38,11 +38,11 @@ if test -n "$(git status --porcelain)"; then
 	printf "$Updates Deployed B)\n"
 else
 	#If there are commited changes that need to be pushed
-	if [ -n "$(git cherry)" ]; then
-		printf "$(date): PUSHing updates to GitHub\n"
-		git push -v
-	else
+	if [[ -z "$(git cherry)" ]]; then
 		#printf "\033[0;32m$(date): No changes to deploy ;)\033[0m\n"
 		printf "$(date): No changes to deploy\n"
+	else
+		printf "$(date): PUSHing updates to GitHub\n"
+		git push -v
 	fi
 fi
