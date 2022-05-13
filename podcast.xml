@@ -24,7 +24,10 @@ layout: null
 		<link>https://zerohedgepodcast.github.io/</link>
 		<itunes:type>serial</itunes:type>
 		<itunes:category text="News">
-		<itunes:category text="Daily News"/>
+			<itunes:category text="Daily News"/>
+		</itunes:category>
+		<itunes:category text="Business">
+			<itunes:category text="Investing"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.tags.podcast %}
