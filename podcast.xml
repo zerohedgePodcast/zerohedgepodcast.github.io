@@ -23,10 +23,14 @@ layout: null
 		<language>en-us</language>
 		<link>https://zerohedgepodcast.github.io/podcast.xml</link>
 		<itunes:type>episodic</itunes:type>
-		<itunes:category text="News">
+		<itunes:category text="News &amp; Politics">
 			<itunes:category text="Daily News"/>
+			<itunes:category text="News"/>
+			<itunes:category text="Politics"/>
 		</itunes:category>
-		<itunes:category text="Business">
+		<itunes:category text="Business &amp; Technology">
+			<itunes:category text="Economics"/>
+			<itunes:category text="Finance"/>
 			<itunes:category text="Investing"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>

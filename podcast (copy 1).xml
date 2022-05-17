@@ -21,13 +21,17 @@ layout: null
 		</description>
 		<itunes:image href="https://zerohedgepodcast.github.io/assets/img/zerohedge_icon_400x400.jpg"/>
 		<language>en-us</language>
-		<link>https://zerohedgepodcast.github.io/</link>
-		<itunes:type>serial</itunes:type>
+		<link>https://zerohedgepodcast.github.io/podcast.xml</link>
+		<itunes:type>episodic</itunes:type>
 		<itunes:category text="News">
-		<itunes:category text="Daily News"/>
+			<itunes:category text="Daily News"/>
+			<itunes:category text="Politics"/>
+		</itunes:category>
+		<itunes:category text="Business">
+			<itunes:category text="Investing"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
-		{% for post in site.categories.podcast %}
+		{% for post in site.tags.podcast %}
 		<item>
 			<title>{{ post.title }}</title>
 			<dc:creator>ZeroHedge Podcast</dc:creator>
