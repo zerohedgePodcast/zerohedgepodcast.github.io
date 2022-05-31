@@ -43,7 +43,7 @@ layout: null
 			<pubDate>{{ post.datetime }}</pubDate>
 			<enclosure url="https://zerohedgepodcast.github.io/assets/audio/{{ post.audio }}.mp3"
 				type="audio/mpeg" length="{{ post.length }}"/>
-			<guid isPermaLink="false">{{ post.audio }}</guid>
+			<guid isPermaLink="false">{{ post.guid }}</guid>
 		</item>
 		{% endfor %}
 	</channel>
