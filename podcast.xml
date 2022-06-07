@@ -44,9 +44,9 @@ layout: null
 			<enclosure url="https://zerohedgepodcast.github.io/assets/audio/{{ post.audio }}.mp3"
 				type="audio/mpeg" length="{{ post.length }}"/>
 			<guid isPermaLink="false">{{ post.audio }}</guid>
-			{% unless post.order == 0 %}
+			{% if post.order > 0 %}
 				<itunes:order> {{post.order}} </itunes:order>
-			{% endunless %}
+			{% endif %}
 		</item>
 		{% endfor %}
 	</channel>
