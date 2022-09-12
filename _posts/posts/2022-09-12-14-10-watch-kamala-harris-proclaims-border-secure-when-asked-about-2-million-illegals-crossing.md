@@ -9,7 +9,7 @@ length: 128
 datetime: Mon, 12 Sep 2022 14:10:00 +0000
 tags: podcast
 guid: watch-kamala-harris-proclaims-border-secure-when-asked-about-2-million-illegals-crossing-0
-order: 0
+order: 2
 ---
 With a straight face...
 
