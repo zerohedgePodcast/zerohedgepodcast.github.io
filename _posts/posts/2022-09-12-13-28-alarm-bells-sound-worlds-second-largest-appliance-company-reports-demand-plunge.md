@@ -9,7 +9,7 @@ length: 150
 datetime: Mon, 12 Sep 2022 13:28:00 +0000
 tags: podcast
 guid: alarm-bells-sound-worlds-second-largest-appliance-company-reports-demand-plunge-0
-order: 0
+order: 1
 ---
 &quot;High retailer inventory levels have amplified the impact of the slowdown in consumer demand.&quot; 
 
