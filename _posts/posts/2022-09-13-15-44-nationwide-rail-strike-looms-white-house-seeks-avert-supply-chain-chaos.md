@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Nationwide Rail Strike Looms As White House Seeks To Avert Supply Chain Chaos "
-audio: nationwide-rail-strike-looms-white-house-seeks-avert-supply-chain-chaos-0
+title: "White House Readies 'Emergency Decree' As Nationwide Rail Strike Looms"
+audio: nationwide-rail-strike-looms-white-house-seeks-avert-supply-chain-chaos-1
 category: political
-desc: "&quot;No coal is going to move until these guys go back to work.&quot;"
-duration: 00:03:18
-length: 198
-datetime: Tue, 13 Sep 2022 13:25:00 +0000
+desc: "The administration is trying to understand what supply chains could be disrupted the most -- and how to utilize other forms of transportation to ensure commodities and consumer goods continue to flow across the country. "
+duration: 00:04:18
+length: 258
+datetime: Tue, 13 Sep 2022 15:44:00 +0000
 tags: podcast
 guid: nationwide-rail-strike-looms-white-house-seeks-avert-supply-chain-chaos-0
 order: 0
 ---
-&quot;No coal is going to move until these guys go back to work.&quot;
+The administration is trying to understand what supply chains could be disrupted the most -- and how to utilize other forms of transportation to ensure commodities and consumer goods continue to flow across the country. 
 
 Link: [https://www.zerohedge.com/political/nationwide-rail-strike-looms-white-house-seeks-avert-supply-chain-chaos](https://www.zerohedge.com/political/nationwide-rail-strike-looms-white-house-seeks-avert-supply-chain-chaos)
 
