@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;This Is A Full-Blown Political Purge&quot;: Tucker Carlson Obtains DOJ Subpoenas Targeting Trump Allies"
-audio: full-blown-political-purge-tucker-carlson-obtains-doj-subpoenas-targeting-trump-allies-0
+audio: full-blown-political-purge-tucker-carlson-obtains-doj-subpoenas-targeting-trump-allies-1
 category: political
 desc: "&quot;... the point of this is to suppress political dissent, to hobble an entire political party and to keep any of these people from ever participating in American politics again...&quot;"
 duration: 00:05:50
 length: 350
-datetime: Tue, 13 Sep 2022 13:06:00 +0000
+datetime: Tue, 13 Sep 2022 17:33:00 +0000
 tags: podcast
 guid: full-blown-political-purge-tucker-carlson-obtains-doj-subpoenas-targeting-trump-allies-0
-order: 1
+order: 0
 ---
 &quot;... the point of this is to suppress political dissent, to hobble an entire political party and to keep any of these people from ever participating in American politics again...&quot;
 

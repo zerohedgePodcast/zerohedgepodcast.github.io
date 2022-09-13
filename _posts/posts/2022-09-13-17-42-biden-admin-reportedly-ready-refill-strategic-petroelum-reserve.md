@@ -9,7 +9,7 @@ length: 82
 datetime: Tue, 13 Sep 2022 17:42:00 +0000
 tags: podcast
 guid: biden-admin-reportedly-ready-refill-strategic-petroelum-reserve-0
-order: 2
+order: 1
 ---
 This may well be the dumbest thing to ever come out of this administration...
 
