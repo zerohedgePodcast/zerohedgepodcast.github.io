@@ -9,7 +9,7 @@ length: 225
 datetime: Mon, 12 Sep 2022 18:01:00 +0000
 tags: podcast
 guid: ukraines-zelensky-takes-swipe-trump-0
-order: 1
+order: 0
 ---
 Trump had observed that as a strategist Putin is &quot;genius&quot; &amp; &quot;very savvy.&quot;
 

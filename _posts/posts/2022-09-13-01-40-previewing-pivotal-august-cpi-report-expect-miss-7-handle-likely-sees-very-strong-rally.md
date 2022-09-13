@@ -9,7 +9,7 @@ length: 605
 datetime: Tue, 13 Sep 2022 01:40:00 +0000
 tags: podcast
 guid: previewing-pivotal-august-cpi-report-expect-miss-7-handle-likely-sees-very-strong-rally-0
-order: 2
+order: 1
 ---
 The Fed's 75bps rate hike may be in the bag, but the question is what happens after.
 
