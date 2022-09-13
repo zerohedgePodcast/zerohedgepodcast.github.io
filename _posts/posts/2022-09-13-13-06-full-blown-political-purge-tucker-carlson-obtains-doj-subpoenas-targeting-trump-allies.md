@@ -9,7 +9,7 @@ length: 350
 datetime: Tue, 13 Sep 2022 13:06:00 +0000
 tags: podcast
 guid: full-blown-political-purge-tucker-carlson-obtains-doj-subpoenas-targeting-trump-allies-0
-order: 0
+order: 2
 ---
 &quot;... the point of this is to suppress political dissent, to hobble an entire political party and to keep any of these people from ever participating in American politics again...&quot;
 
