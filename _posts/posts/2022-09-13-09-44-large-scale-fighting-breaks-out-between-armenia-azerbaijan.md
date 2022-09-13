@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Armenia Requests Russian Military Assistance As Fighting Breaks Out With Azerbaijan"
-audio: large-scale-fighting-breaks-out-between-armenia-azerbaijan-1
+audio: large-scale-fighting-breaks-out-between-armenia-azerbaijan-2
 category: geopolitical
 desc: "&quot;If Russia accepts, we could see a 2nd NATO-Russia proxy war explode.&quot;"
 duration: 00:05:57
 length: 357
-datetime: Tue, 13 Sep 2022 03:05:00 +0000
+datetime: Tue, 13 Sep 2022 09:44:00 +0000
 tags: podcast
 guid: large-scale-fighting-breaks-out-between-armenia-azerbaijan-0
-order: 2
+order: 0
 ---
 &quot;If Russia accepts, we could see a 2nd NATO-Russia proxy war explode.&quot;
 
