@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Large-Scale Fighting Breaks Out Between Armenia &amp; Azerbaijan"
-audio: large-scale-fighting-breaks-out-between-armenia-azerbaijan-0
+title: "Armenia Requests Russian Military Assistance As Fighting Breaks Out With Azerbaijan"
+audio: large-scale-fighting-breaks-out-between-armenia-azerbaijan-1
 category: geopolitical
-desc: "Intensive overnight shelling targets Armenia proper..."
-duration: 00:03:01
-length: 181
-datetime: Mon, 12 Sep 2022 23:00:00 +0000
+desc: "&quot;If Russia accepts, we could see a 2nd NATO-Russia proxy war explode.&quot;"
+duration: 00:05:57
+length: 357
+datetime: Tue, 13 Sep 2022 03:05:00 +0000
 tags: podcast
 guid: large-scale-fighting-breaks-out-between-armenia-azerbaijan-0
-order: 0
+order: 2
 ---
-Intensive overnight shelling targets Armenia proper...
+&quot;If Russia accepts, we could see a 2nd NATO-Russia proxy war explode.&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/large-scale-fighting-breaks-out-between-armenia-azerbaijan](https://www.zerohedge.com/geopolitical/large-scale-fighting-breaks-out-between-armenia-azerbaijan)
 
