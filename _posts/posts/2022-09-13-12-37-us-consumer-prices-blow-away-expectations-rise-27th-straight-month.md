@@ -9,7 +9,7 @@ length: 97
 datetime: Tue, 13 Sep 2022 12:37:00 +0000
 tags: podcast
 guid: us-consumer-prices-blow-away-expectations-rise-27th-straight-month-0
-order: 0
+order: 1
 ---
 ...for the 17th straight month, Americans' wages lost ground relative to the cost of living.
 
