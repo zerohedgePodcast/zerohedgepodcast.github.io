@@ -9,7 +9,7 @@ length: 417
 datetime: Tue, 13 Sep 2022 19:22:00 +0000
 tags: podcast
 guid: one-bank-surveys-epic-carnage-faster-we-crash-sooner-fed-can-pivot-0
-order: 2
+order: 0
 ---
 Let's just get it over with.
 
