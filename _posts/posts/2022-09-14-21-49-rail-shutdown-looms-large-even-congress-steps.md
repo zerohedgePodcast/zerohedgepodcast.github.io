@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Amtrak Canceling All Long-Distance Trains Ahead Of &quot;Potentially Disastrous&quot; Rail Strike"
-audio: rail-shutdown-looms-large-even-congress-steps-2
+title: "Bernie Sanders Blocks Proposal Which Would Avoid Rail Strike"
+audio: rail-shutdown-looms-large-even-congress-steps-3
 category: political
-desc: "&quot;If all 7,000 long-distance freight trains available in the US stopped running, the country would need an extra 460,000 long-haul trucks daily to make up for the lost capacity&quot;"
-duration: 00:11:45
-length: 705
-datetime: Wed, 14 Sep 2022 19:40:00 +0000
+desc: "&quot;Bernie wants a strike...&quot;"
+duration: 00:14:10
+length: 850
+datetime: Wed, 14 Sep 2022 21:49:00 +0000
 tags: podcast
 guid: rail-shutdown-looms-large-even-congress-steps-0
 order: 2
 ---
-&quot;If all 7,000 long-distance freight trains available in the US stopped running, the country would need an extra 460,000 long-haul trucks daily to make up for the lost capacity&quot;
+&quot;Bernie wants a strike...&quot;
 
 Link: [https://www.zerohedge.com/political/rail-shutdown-looms-large-even-congress-steps](https://www.zerohedge.com/political/rail-shutdown-looms-large-even-congress-steps)
 
