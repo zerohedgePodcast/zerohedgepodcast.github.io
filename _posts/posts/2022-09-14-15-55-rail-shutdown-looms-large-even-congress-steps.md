@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Rail Shutdown Looms Large Even As Congress Steps In "
-audio: rail-shutdown-looms-large-even-congress-steps-0
+title: "Rail Union With 4,900 Members Rejects Tentative Agreement As Shutdown Looms"
+audio: rail-shutdown-looms-large-even-congress-steps-1
 category: political
-desc: "&quot;We are hearing several rail carriers are tentatively planning to wind down shipments.&quot; "
-duration: 00:06:11
-length: 371
-datetime: Wed, 14 Sep 2022 14:05:00 +0000
+desc: "&quot;The Tentative Agreement has been rejected and the strike authorization vote was approved by IAM District 19 members.&quot;"
+duration: 00:07:50
+length: 470
+datetime: Wed, 14 Sep 2022 15:55:00 +0000
 tags: podcast
 guid: rail-shutdown-looms-large-even-congress-steps-0
 order: 0
 ---
-&quot;We are hearing several rail carriers are tentatively planning to wind down shipments.&quot; 
+&quot;The Tentative Agreement has been rejected and the strike authorization vote was approved by IAM District 19 members.&quot;
 
 Link: [https://www.zerohedge.com/political/rail-shutdown-looms-large-even-congress-steps](https://www.zerohedge.com/political/rail-shutdown-looms-large-even-congress-steps)
 
