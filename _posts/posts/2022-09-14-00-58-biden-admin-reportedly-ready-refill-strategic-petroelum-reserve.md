@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Biden Admin Reportedly Ready To Refill Strategic Petroelum Reserve"
-audio: biden-admin-reportedly-ready-refill-strategic-petroelum-reserve-0
+title: "Biden Admin Reportedly Ready To Refill Strategic Petroleum Reserve At $80/BBL"
+audio: biden-admin-reportedly-ready-refill-strategic-petroelum-reserve-1
 category: energy
 desc: "This may well be the dumbest thing to ever come out of this administration..."
-duration: 00:01:22
-length: 82
-datetime: Tue, 13 Sep 2022 17:42:00 +0000
+duration: 00:01:33
+length: 93
+datetime: Wed, 14 Sep 2022 00:58:00 +0000
 tags: podcast
 guid: biden-admin-reportedly-ready-refill-strategic-petroelum-reserve-0
-order: 1
+order: 0
 ---
 This may well be the dumbest thing to ever come out of this administration...
 
