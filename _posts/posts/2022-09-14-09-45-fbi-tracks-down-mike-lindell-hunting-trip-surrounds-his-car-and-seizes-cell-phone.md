@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "FBI Tracks Down Mike Lindell On Hunting Trip, Surrounds His Car And Seizes Cell Phone"
-audio: fbi-tracks-down-mike-lindell-hunting-trip-surrounds-his-car-and-seizes-cell-phone-0
+audio: fbi-tracks-down-mike-lindell-hunting-trip-surrounds-his-car-and-seizes-cell-phone-1
 category: political
 desc: "&quot;Cars pulled up in front of us, to the side of us and behind us...&quot;"
 duration: 00:01:49
 length: 109
-datetime: Wed, 14 Sep 2022 00:30:00 +0000
+datetime: Wed, 14 Sep 2022 09:45:00 +0000
 tags: podcast
 guid: fbi-tracks-down-mike-lindell-hunting-trip-surrounds-his-car-and-seizes-cell-phone-0
-order: 1
+order: 0
 ---
 &quot;Cars pulled up in front of us, to the side of us and behind us...&quot;
 
