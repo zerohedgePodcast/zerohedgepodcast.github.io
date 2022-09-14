@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Rail Union With 4,900 Members Rejects Tentative Agreement As Shutdown Looms"
-audio: rail-shutdown-looms-large-even-congress-steps-1
+title: "Amtrak Canceling All Long-Distance Trains Ahead Of &quot;Potentially Disastrous&quot; Rail Strike"
+audio: rail-shutdown-looms-large-even-congress-steps-2
 category: political
-desc: "&quot;The Tentative Agreement has been rejected and the strike authorization vote was approved by IAM District 19 members.&quot;"
-duration: 00:07:50
-length: 470
-datetime: Wed, 14 Sep 2022 15:55:00 +0000
+desc: "&quot;If all 7,000 long-distance freight trains available in the US stopped running, the country would need an extra 460,000 long-haul trucks daily to make up for the lost capacity&quot;"
+duration: 00:11:45
+length: 705
+datetime: Wed, 14 Sep 2022 19:40:00 +0000
 tags: podcast
 guid: rail-shutdown-looms-large-even-congress-steps-0
-order: 0
+order: 2
 ---
-&quot;The Tentative Agreement has been rejected and the strike authorization vote was approved by IAM District 19 members.&quot;
+&quot;If all 7,000 long-distance freight trains available in the US stopped running, the country would need an extra 460,000 long-haul trucks daily to make up for the lost capacity&quot;
 
 Link: [https://www.zerohedge.com/political/rail-shutdown-looms-large-even-congress-steps](https://www.zerohedge.com/political/rail-shutdown-looms-large-even-congress-steps)
 
