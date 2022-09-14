@@ -9,7 +9,7 @@ length: 150
 datetime: Wed, 14 Sep 2022 12:50:00 +0000
 tags: podcast
 guid: watch-dem-rep-says-we-gotta-kill-maga-extremists-0
-order: 0
+order: 2
 ---
 America needs to &quot;move out of this age of stupidity&quot;...
 
