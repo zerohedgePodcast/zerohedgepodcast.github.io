@@ -9,7 +9,7 @@ length: 105
 datetime: Thu, 15 Sep 2022 10:31:00 +0000
 tags: podcast
 guid: railroads-and-unions-reach-tentative-agreement-avert-rail-strike-0
-order: 0
+order: 1
 ---
 &quot;The tentative agreement reached tonight is an important win for our economy and the American people.&quot;
 
