@@ -9,7 +9,7 @@ length: 262
 datetime: Thu, 15 Sep 2022 15:20:00 +0000
 tags: podcast
 guid: i-got-bad-news-you-mike-lindell-speaks-out-after-fbi-seizes-phone-0
-order: 2
+order: 1
 ---
 &quot;The government weaponized the FBI, trying to scare me, trying to scare other people, but it didn't change a thing...&quot;
 
