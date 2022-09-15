@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Prologue To Third World War&quot;: Kremlin Reacts To Security Guarantees For Ukraine"
-audio: prologue-3rd-world-war-kremlin-reacts-security-guarantees-ukraine-0
+audio: prologue-3rd-world-war-kremlin-reacts-security-guarantees-ukraine-1
 category: geopolitical
 desc: "Nuclear holocaust..."
 duration: 00:03:16
 length: 196
-datetime: Wed, 14 Sep 2022 12:10:00 +0000
+datetime: Thu, 15 Sep 2022 07:10:00 +0000
 tags: podcast
 guid: prologue-3rd-world-war-kremlin-reacts-security-guarantees-ukraine-0
-order: 1
+order: 0
 ---
 Nuclear holocaust...
 

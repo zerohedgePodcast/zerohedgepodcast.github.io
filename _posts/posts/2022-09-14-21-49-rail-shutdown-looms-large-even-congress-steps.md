@@ -9,7 +9,7 @@ length: 850
 datetime: Wed, 14 Sep 2022 21:49:00 +0000
 tags: podcast
 guid: rail-shutdown-looms-large-even-congress-steps-0
-order: 2
+order: 0
 ---
 &quot;Bernie wants a strike...&quot;
 
