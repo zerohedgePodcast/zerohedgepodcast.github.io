@@ -9,7 +9,7 @@ length: 306
 datetime: Thu, 15 Sep 2022 14:05:00 +0000
 tags: podcast
 guid: putin-tells-xi-us-push-unipolar-world-turning-ugly-china-has-concerns-over-ukraine-0
-order: 2
+order: 1
 ---
 American hegemony remains &quot;absolutely unacceptable to the vast majority of nations on the planet.&quot;
 
