@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "FedEx Plunges To 2-Year-Lows After Withdrawing Earnings Guidance"
-audio: fedex-plunges-2-year-lows-after-withdrawing-earnings-guidance-0
+title: "We're Going Into A Worldwide Recession, FedEx CEO Warns &quot;Numbers Don't Portend Very Well&quot;"
+audio: fedex-plunges-2-year-lows-after-withdrawing-earnings-guidance-1
 category: markets
-desc: "&quot;Global volumes declined as macroeconomic trends significantly worsened later in the quarter, both internationally and in the U.S...&quot;"
-duration: 00:02:41
-length: 161
-datetime: Thu, 15 Sep 2022 20:41:00 +0000
+desc: "&quot;We are a reflection of everybody else's business, especially the high-value economy in the world&quot;"
+duration: 00:04:13
+length: 253
+datetime: Fri, 16 Sep 2022 11:25:00 +0000
 tags: podcast
 guid: fedex-plunges-2-year-lows-after-withdrawing-earnings-guidance-0
 order: 0
 ---
-&quot;Global volumes declined as macroeconomic trends significantly worsened later in the quarter, both internationally and in the U.S...&quot;
+&quot;We are a reflection of everybody else's business, especially the high-value economy in the world&quot;
 
 Link: [https://www.zerohedge.com/markets/fedex-plunges-2-year-lows-after-withdrawing-earnings-guidance](https://www.zerohedge.com/markets/fedex-plunges-2-year-lows-after-withdrawing-earnings-guidance)
 

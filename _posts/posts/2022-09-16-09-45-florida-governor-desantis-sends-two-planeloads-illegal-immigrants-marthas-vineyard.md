@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Florida Governor DeSantis Sends Two Planeloads Of Illegal Immigrants To Martha's Vineyard"
-audio: florida-governor-desantis-sends-two-planeloads-illegal-immigrants-marthas-vineyard-0
+audio: florida-governor-desantis-sends-two-planeloads-illegal-immigrants-marthas-vineyard-1
 category: markets
 desc: "Massachusetts Gov. Charlie Baker said the migrants were being provided with &quot;short-term shelter&quot;. Wait until a couple more planeloads arrive..."
 duration: 00:01:55
 length: 115
-datetime: Thu, 15 Sep 2022 17:45:00 +0000
+datetime: Fri, 16 Sep 2022 09:45:00 +0000
 tags: podcast
 guid: florida-governor-desantis-sends-two-planeloads-illegal-immigrants-marthas-vineyard-0
-order: 1
+order: 0
 ---
 Massachusetts Gov. Charlie Baker said the migrants were being provided with &quot;short-term shelter&quot;. Wait until a couple more planeloads arrive...
 
