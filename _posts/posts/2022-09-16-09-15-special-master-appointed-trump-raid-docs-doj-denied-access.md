@@ -9,7 +9,7 @@ length: 86
 datetime: Fri, 16 Sep 2022 09:15:00 +0000
 tags: podcast
 guid: special-master-appointed-trump-raid-docs-doj-denied-access-0
-order: 0
+order: 1
 ---
 &quot;The court does not find it appropriate to accept the government's conclusions on these important and disputed issues without further review by a neutral third party in an expedited and orderly fashion...&quot;
 
