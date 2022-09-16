@@ -9,7 +9,7 @@ length: 253
 datetime: Fri, 16 Sep 2022 11:25:00 +0000
 tags: podcast
 guid: fedex-plunges-2-year-lows-after-withdrawing-earnings-guidance-0
-order: 2
+order: 1
 ---
 &quot;We are a reflection of everybody else's business, especially the high-value economy in the world&quot;
 

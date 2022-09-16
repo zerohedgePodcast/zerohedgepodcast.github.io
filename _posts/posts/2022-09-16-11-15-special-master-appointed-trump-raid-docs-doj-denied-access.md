@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "DOJ Denied Access To Trump Raid Docs After Judge Appoints Special Master"
-audio: special-master-appointed-trump-raid-docs-doj-denied-access-1
+audio: special-master-appointed-trump-raid-docs-doj-denied-access-2
 category: political
-desc: "&quot;The court does not find it appropriate to accept the government's conclusions on these important and disputed issues without further review by a neutral third party in an expedited and orderly fashion...&quot;"
+desc: "&quot;The court does not find it appropriate to accept the government's conclusions...&quot;"
 duration: 00:01:26
 length: 86
-datetime: Fri, 16 Sep 2022 09:15:00 +0000
+datetime: Fri, 16 Sep 2022 11:15:00 +0000
 tags: podcast
 guid: special-master-appointed-trump-raid-docs-doj-denied-access-0
-order: 1
+order: 0
 ---
-&quot;The court does not find it appropriate to accept the government's conclusions on these important and disputed issues without further review by a neutral third party in an expedited and orderly fashion...&quot;
+&quot;The court does not find it appropriate to accept the government's conclusions...&quot;
 
 Link: [https://www.zerohedge.com/political/special-master-appointed-trump-raid-docs-doj-denied-access](https://www.zerohedge.com/political/special-master-appointed-trump-raid-docs-doj-denied-access)
 
