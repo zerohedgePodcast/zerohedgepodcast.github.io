@@ -9,7 +9,7 @@ length: 481
 datetime: Sat, 17 Sep 2022 01:00:00 +0000
 tags: podcast
 guid: violence-california-reaches-epidemic-levels-our-society-rapidly-deteriorates-all-around-0
-order: 0
+order: 1
 ---
 ...this is the end result of literally decades of cultural rot, and what is happening in California is going to happen to the rest of the nation if we do not take urgent action to turn things around.
 
