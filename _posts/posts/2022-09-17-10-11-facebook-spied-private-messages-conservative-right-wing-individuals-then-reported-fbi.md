@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Facebook Spied On Private Messages Of &quot;Conservative Right-Wing Individuals&quot;, Then Reported To FBI For Domestic Terrorism"
-audio: facebook-spied-private-messages-conservative-right-wing-individuals-then-reported-fbi-0
+audio: facebook-spied-private-messages-conservative-right-wing-individuals-then-reported-fbi-1
 category: political
 desc: "&quot;It was done outside the legal process and without probable cause...&quot;"
 duration: 00:06:00
 length: 360
-datetime: Fri, 16 Sep 2022 15:07:00 +0000
+datetime: Sat, 17 Sep 2022 10:11:00 +0000
 tags: podcast
 guid: facebook-spied-private-messages-conservative-right-wing-individuals-then-reported-fbi-0
-order: 1
+order: 0
 ---
 &quot;It was done outside the legal process and without probable cause...&quot;
 
