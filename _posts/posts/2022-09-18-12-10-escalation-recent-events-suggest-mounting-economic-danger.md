@@ -9,7 +9,7 @@ length: 503
 datetime: Sun, 18 Sep 2022 12:10:00 +0000
 tags: podcast
 guid: escalation-recent-events-suggest-mounting-economic-danger-0
-order: 0
+order: 2
 ---
 There are many other trends which factor into the crash environment but the below factors are the most recent and hold the biggest potential for causing a domino effect globally.
 

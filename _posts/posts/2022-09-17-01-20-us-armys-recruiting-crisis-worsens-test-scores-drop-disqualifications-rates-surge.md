@@ -9,7 +9,7 @@ length: 164
 datetime: Sat, 17 Sep 2022 01:20:00 +0000
 tags: podcast
 guid: us-armys-recruiting-crisis-worsens-test-scores-drop-disqualifications-rates-surge-0
-order: 1
+order: 0
 ---
 The challenges of today's youth put combat preparedness in question as liberal war hawks... 
 

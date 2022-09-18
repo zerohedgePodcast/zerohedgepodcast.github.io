@@ -9,7 +9,7 @@ length: 236
 datetime: Sun, 18 Sep 2022 00:00:00 +0000
 tags: podcast
 guid: fauci-misled-congress-about-gain-function-research-protected-biden-admin-former-cdc-chief-0
-order: 0
+order: 1
 ---
 ...Rand Paul is not going to be happy!
 
