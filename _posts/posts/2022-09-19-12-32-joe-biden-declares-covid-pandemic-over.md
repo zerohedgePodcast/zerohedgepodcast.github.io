@@ -9,7 +9,7 @@ length: 215
 datetime: Mon, 19 Sep 2022 12:32:00 +0000
 tags: podcast
 guid: joe-biden-declares-covid-pandemic-over-0
-order: 2
+order: 1
 ---
 ...is he a biologist? virologist? epidemiologist? doctor? scientist?
 
