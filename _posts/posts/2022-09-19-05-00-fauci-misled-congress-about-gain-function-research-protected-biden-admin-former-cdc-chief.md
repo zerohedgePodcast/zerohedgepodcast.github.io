@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Fauci &quot;Misled Congress&quot; About Gain-Of-Function Research, But 'Protected By Biden Admin'; Former CDC Chief Says"
-audio: fauci-misled-congress-about-gain-function-research-protected-biden-admin-former-cdc-chief-0
+audio: fauci-misled-congress-about-gain-function-research-protected-biden-admin-former-cdc-chief-1
 category: covid-19
 desc: "...Rand Paul is not going to be happy!"
 duration: 00:03:56
 length: 236
-datetime: Sun, 18 Sep 2022 00:00:00 +0000
+datetime: Mon, 19 Sep 2022 05:00:00 +0000
 tags: podcast
 guid: fauci-misled-congress-about-gain-function-research-protected-biden-admin-former-cdc-chief-0
-order: 1
+order: 0
 ---
 ...Rand Paul is not going to be happy!
 
