@@ -9,7 +9,7 @@ length: 565
 datetime: Mon, 19 Sep 2022 10:55:00 +0000
 tags: podcast
 guid: weakness-broadening-out-low-income-middle-income-consumers-0
-order: 0
+order: 1
 ---
 A few more trillion in market cap losses and it will come for the top 1% as well...
 
