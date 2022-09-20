@@ -9,7 +9,7 @@ length: 146
 datetime: Tue, 20 Sep 2022 15:46:00 +0000
 tags: podcast
 guid: msnbc-guest-roasted-after-calling-evangelical-prayer-hands-nazi-salute-0
-order: 2
+order: 1
 ---
 &quot;You sir are a liar...&quot;
 

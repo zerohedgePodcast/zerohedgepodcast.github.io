@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Putin To Give Major Speech On Ukraine Referendums, Possible National War Mobilization"
-audio: referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through-1
+title: "Putin's Major Wartime Speech Postponed In Highly Unusual Move"
+audio: referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through-2
 category: geopolitical
-desc: "There are reports Defense Minister Sergei Shoigu will be by Putin's side..."
-duration: 00:05:42
-length: 342
-datetime: Tue, 20 Sep 2022 14:55:00 +0000
+desc: "Two hours after failing to appear, state media says &quot;Go to sleep&quot;... "
+duration: 00:08:31
+length: 511
+datetime: Tue, 20 Sep 2022 20:00:00 +0000
 tags: podcast
 guid: referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through-0
-order: 1
+order: 2
 ---
-There are reports Defense Minister Sergei Shoigu will be by Putin's side...
+Two hours after failing to appear, state media says &quot;Go to sleep&quot;... 
 
 Link: [https://www.zerohedge.com/geopolitical/referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through](https://www.zerohedge.com/geopolitical/referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through)
 

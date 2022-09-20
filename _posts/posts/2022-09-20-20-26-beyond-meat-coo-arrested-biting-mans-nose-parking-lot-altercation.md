@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Beyond Meat COO Arrested For Biting Man's Nose In Parking Lot Altercation"
-audio: beyond-meat-coo-arrested-biting-mans-nose-parking-lot-altercation-0
+title: "Beyond Meat COO Suspended For Biting Man's Nose In Parking Lot Altercation"
+audio: beyond-meat-coo-arrested-biting-mans-nose-parking-lot-altercation-1
 category: political
 desc: "'Ripped the flesh...'"
-duration: 00:03:27
-length: 207
-datetime: Tue, 20 Sep 2022 16:05:00 +0000
+duration: 00:03:44
+length: 224
+datetime: Tue, 20 Sep 2022 20:26:00 +0000
 tags: podcast
 guid: beyond-meat-coo-arrested-biting-mans-nose-parking-lot-altercation-0
 order: 0
