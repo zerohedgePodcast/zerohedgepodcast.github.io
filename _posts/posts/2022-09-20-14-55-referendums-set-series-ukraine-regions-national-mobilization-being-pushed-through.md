@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Series Of Occupied Ukraine Regions Set Referendums As 'National Mobilization' Being Pushed Through Russia's Duma"
-audio: referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through-0
+title: "Putin To Give Major Speech On Ukraine Referendums, Possible National War Mobilization"
+audio: referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through-1
 category: geopolitical
-desc: "&quot;By what is happening and still about to happen, this week marks either the eve of our imminent victory, or the eve of nuclear war. I can't see anything third.&quot;"
-duration: 00:04:20
-length: 260
-datetime: Tue, 20 Sep 2022 12:23:00 +0000
+desc: "There are reports Defense Minister Sergei Shoigu will be by Putin's side..."
+duration: 00:05:42
+length: 342
+datetime: Tue, 20 Sep 2022 14:55:00 +0000
 tags: podcast
 guid: referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through-0
 order: 1
 ---
-&quot;By what is happening and still about to happen, this week marks either the eve of our imminent victory, or the eve of nuclear war. I can't see anything third.&quot;
+There are reports Defense Minister Sergei Shoigu will be by Putin's side...
 
 Link: [https://www.zerohedge.com/geopolitical/referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through](https://www.zerohedge.com/geopolitical/referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through)
 
