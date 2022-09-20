@@ -9,7 +9,7 @@ length: 260
 datetime: Tue, 20 Sep 2022 12:23:00 +0000
 tags: podcast
 guid: referendums-set-series-ukraine-regions-national-mobilization-being-pushed-through-0
-order: 0
+order: 1
 ---
 &quot;By what is happening and still about to happen, this week marks either the eve of our imminent victory, or the eve of nuclear war. I can't see anything third.&quot;
 
