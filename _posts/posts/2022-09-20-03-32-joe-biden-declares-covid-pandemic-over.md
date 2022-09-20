@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Biden Declares The COVID Pandemic &quot;Is Over&quot;"
-audio: joe-biden-declares-covid-pandemic-over-0
+title: "Biden Declares The COVID Pandemic &quot;Is Over&quot; Despite Continued Use In Policies &amp; Programs"
+audio: joe-biden-declares-covid-pandemic-over-1
 category: covid-19
 desc: "...is he a biologist? virologist? epidemiologist? doctor? scientist?"
-duration: 00:03:35
-length: 215
-datetime: Mon, 19 Sep 2022 12:32:00 +0000
+duration: 00:06:44
+length: 404
+datetime: Tue, 20 Sep 2022 03:32:00 +0000
 tags: podcast
 guid: joe-biden-declares-covid-pandemic-over-0
-order: 1
+order: 0
 ---
 ...is he a biologist? virologist? epidemiologist? doctor? scientist?
 

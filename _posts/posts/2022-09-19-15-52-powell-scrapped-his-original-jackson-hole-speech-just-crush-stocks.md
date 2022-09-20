@@ -9,7 +9,7 @@ length: 297
 datetime: Mon, 19 Sep 2022 15:52:00 +0000
 tags: podcast
 guid: powell-scrapped-his-original-jackson-hole-speech-just-crush-stocks-0
-order: 2
+order: 1
 ---
 &quot;The Fed would accept a recession as the price of fighting inflation.&quot;
 
