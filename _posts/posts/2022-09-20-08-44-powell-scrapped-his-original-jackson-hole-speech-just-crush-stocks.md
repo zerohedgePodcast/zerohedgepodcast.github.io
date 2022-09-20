@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Powell Scrapped His Original Jackson Hole Speech Just To Crush Stocks "
-audio: powell-scrapped-his-original-jackson-hole-speech-just-crush-stocks-0
+audio: powell-scrapped-his-original-jackson-hole-speech-just-crush-stocks-1
 category: markets
 desc: "&quot;The Fed would accept a recession as the price of fighting inflation.&quot;"
 duration: 00:04:57
 length: 297
-datetime: Mon, 19 Sep 2022 15:52:00 +0000
+datetime: Tue, 20 Sep 2022 08:44:00 +0000
 tags: podcast
 guid: powell-scrapped-his-original-jackson-hole-speech-just-crush-stocks-0
-order: 1
+order: 0
 ---
 &quot;The Fed would accept a recession as the price of fighting inflation.&quot;
 
