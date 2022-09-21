@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch Live: Biden Answers Putin's Ukraine Escalation In UN Speech"
-audio: watch-live-biden-answers-putins-ukraine-escalation-un-speech-0
+title: "Biden Rebukes Russia's &quot;Outrageous&quot; Ukraine Escalation, Says US &quot;Not Seeking A New Cold War&quot;"
+audio: watch-live-biden-answers-putins-ukraine-escalation-un-speech-1
 category: political
-desc: "White House says it takes seriously Putin's veiled nuclear weapons threat..."
-duration: 00:01:49
-length: 109
-datetime: Wed, 21 Sep 2022 14:25:00 +0000
+desc: "Overall, there was little unexpected or new in the lengthy speech..."
+duration: 00:03:01
+length: 181
+datetime: Wed, 21 Sep 2022 15:59:00 +0000
 tags: podcast
 guid: watch-live-biden-answers-putins-ukraine-escalation-un-speech-0
 order: 0
 ---
-White House says it takes seriously Putin's veiled nuclear weapons threat...
+Overall, there was little unexpected or new in the lengthy speech...
 
 Link: [https://www.zerohedge.com/political/watch-live-biden-answers-putins-ukraine-escalation-un-speech](https://www.zerohedge.com/political/watch-live-biden-answers-putins-ukraine-escalation-un-speech)
 

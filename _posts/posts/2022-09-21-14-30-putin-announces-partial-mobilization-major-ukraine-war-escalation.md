@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Putin Announces Partial Mobilization In Ukraine War Escalation, Says West Wants To &quot;Destroy Russia&quot;"
-audio: putin-announces-partial-mobilization-major-ukraine-war-escalation-0
+audio: putin-announces-partial-mobilization-major-ukraine-war-escalation-1
 category: markets
-desc: "&quot;We will definitely use all means available&quot; to defend Russian territory/ That's not a bluff.&quot;"
-duration: 00:06:33
-length: 393
-datetime: Wed, 21 Sep 2022 07:01:00 +0000
+desc: "&quot;We will definitely use all means available to defend Russian territory. That's not a bluff.&quot;"
+duration: 00:06:34
+length: 394
+datetime: Wed, 21 Sep 2022 14:30:00 +0000
 tags: podcast
 guid: putin-announces-partial-mobilization-major-ukraine-war-escalation-0
-order: 1
+order: 0
 ---
-&quot;We will definitely use all means available&quot; to defend Russian territory/ That's not a bluff.&quot;
+&quot;We will definitely use all means available to defend Russian territory. That's not a bluff.&quot;
 
 Link: [https://www.zerohedge.com/markets/putin-announces-partial-mobilization-major-ukraine-war-escalation](https://www.zerohedge.com/markets/putin-announces-partial-mobilization-major-ukraine-war-escalation)
 
