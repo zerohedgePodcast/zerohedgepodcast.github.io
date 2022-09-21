@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "&quot;Explosion&quot; Rocks BP Refinery In Ohio"
-audio: explosion-rocks-bp-refinery-ohio-0
+title: "BP Refinery In Ohio That Provides Gasoline For Midwest &quot;Shut Down&quot; After Fire"
+audio: explosion-rocks-bp-refinery-ohio-1
 category: commodities
-desc: "&quot;He told me there was just a big rumble at the refinery, lots of fire everywhere. He said it's the worst he's seen. Lots of people injured.&quot;"
-duration: 00:01:50
-length: 110
-datetime: Wed, 21 Sep 2022 02:03:00 +0000
+desc: "There's no word if the refinery will spark fuel shortages across the Midwest. "
+duration: 00:02:30
+length: 150
+datetime: Wed, 21 Sep 2022 11:20:00 +0000
 tags: podcast
 guid: explosion-rocks-bp-refinery-ohio-0
 order: 0
 ---
-&quot;He told me there was just a big rumble at the refinery, lots of fire everywhere. He said it's the worst he's seen. Lots of people injured.&quot;
+There's no word if the refinery will spark fuel shortages across the Midwest. 
 
 Link: [https://www.zerohedge.com/commodities/explosion-rocks-bp-refinery-ohio](https://www.zerohedge.com/commodities/explosion-rocks-bp-refinery-ohio)
 
