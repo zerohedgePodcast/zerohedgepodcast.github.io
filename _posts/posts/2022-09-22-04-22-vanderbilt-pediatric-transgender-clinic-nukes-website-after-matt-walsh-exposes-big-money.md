@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Vanderbilt Pediatric Transgender Clinic Nukes Website After Matt Walsh Exposes 'Big Money Maker' Motive"
-audio: vanderbilt-pediatric-transgender-clinic-nukes-website-after-matt-walsh-exposes-big-money-0
+audio: vanderbilt-pediatric-transgender-clinic-nukes-website-after-matt-walsh-exposes-big-money-1
 category: political
 desc: "&quot;They now castrate, sterilize, and mutilate minors as well as adults, while apparently taking steps to hide this activity from the public view...&quot;"
 duration: 00:04:06
 length: 246
-datetime: Wed, 21 Sep 2022 16:22:00 +0000
+datetime: Thu, 22 Sep 2022 04:22:00 +0000
 tags: podcast
 guid: vanderbilt-pediatric-transgender-clinic-nukes-website-after-matt-walsh-exposes-big-money-0
-order: 1
+order: 0
 ---
 &quot;They now castrate, sterilize, and mutilate minors as well as adults, while apparently taking steps to hide this activity from the public view...&quot;
 
