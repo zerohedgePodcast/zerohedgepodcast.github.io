@@ -9,7 +9,7 @@ length: 552
 datetime: Thu, 22 Sep 2022 20:40:00 +0000
 tags: podcast
 guid: albert-edwards-ice-age-over-replaced-great-melt-and-crushing-beta-drought-0
-order: 2
+order: 0
 ---
 &quot;Prior droughts have been due to rising inflation and/or high market valuation. The US is now at risk from both.&quot;
 
