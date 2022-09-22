@@ -9,7 +9,7 @@ length: 105
 datetime: Thu, 22 Sep 2022 08:36:00 +0000
 tags: podcast
 guid: yentervention-japans-boj-enters-fx-market-bold-action-sends-usdjpy-tumbling-0
-order: 0
+order: 1
 ---
 And so the countdown to another failed BOJ intervention has begun.
 
