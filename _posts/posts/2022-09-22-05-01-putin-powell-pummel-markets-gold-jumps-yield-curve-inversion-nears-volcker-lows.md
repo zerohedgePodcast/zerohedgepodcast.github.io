@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Putin &amp; Powell Pummel Markets; Gold Jumps, Yield-Curve Inversion Nears Volcker Lows"
-audio: putin-powell-pummel-markets-gold-jumps-yield-curve-inversion-nears-volcker-lows-0
+audio: putin-powell-pummel-markets-gold-jumps-yield-curve-inversion-nears-volcker-lows-1
 category: markets
 desc: "&quot;...the historical record cautions against premature rate-cuts...&quot;"
 duration: 00:05:51
 length: 351
-datetime: Wed, 21 Sep 2022 20:01:00 +0000
+datetime: Thu, 22 Sep 2022 05:01:00 +0000
 tags: podcast
 guid: putin-powell-pummel-markets-gold-jumps-yield-curve-inversion-nears-volcker-lows-0
-order: 1
+order: 0
 ---
 &quot;...the historical record cautions against premature rate-cuts...&quot;
 
