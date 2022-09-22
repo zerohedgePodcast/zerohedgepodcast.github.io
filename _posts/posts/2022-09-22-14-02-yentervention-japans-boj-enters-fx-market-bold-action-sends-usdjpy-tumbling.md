@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Yentervention! Japan, BOJ Enter FX Market With &quot;Bold Action&quot;, Send USDJPY Tumbling"
-audio: yentervention-japans-boj-enters-fx-market-bold-action-sends-usdjpy-tumbling-0
+title: "Yentervention! Japan &quot;Boldly&quot; Enters FX Market, Sends USDJPY Tumbling... But Not For Long"
+audio: yentervention-japans-boj-enters-fx-market-bold-action-sends-usdjpy-tumbling-1
 category: markets
 desc: "And so the countdown to another failed BOJ intervention has begun."
-duration: 00:01:45
-length: 105
-datetime: Thu, 22 Sep 2022 08:36:00 +0000
+duration: 00:04:20
+length: 260
+datetime: Thu, 22 Sep 2022 14:02:00 +0000
 tags: podcast
 guid: yentervention-japans-boj-enters-fx-market-bold-action-sends-usdjpy-tumbling-0
-order: 1
+order: 0
 ---
 And so the countdown to another failed BOJ intervention has begun.
 
