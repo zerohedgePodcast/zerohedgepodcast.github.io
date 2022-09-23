@@ -9,7 +9,7 @@ length: 414
 datetime: Fri, 23 Sep 2022 12:45:00 +0000
 tags: podcast
 guid: fed-finally-seeing-magnitude-mess-it-created-0
-order: 0
+order: 2
 ---
 ...the Fed's real incompetence is already behind us...
 
