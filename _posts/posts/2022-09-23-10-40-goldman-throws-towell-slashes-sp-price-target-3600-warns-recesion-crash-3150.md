@@ -9,7 +9,7 @@ length: 470
 datetime: Fri, 23 Sep 2022 10:40:00 +0000
 tags: podcast
 guid: goldman-throws-towell-slashes-sp-price-target-3600-warns-recesion-crash-3150-0
-order: 0
+order: 1
 ---
 &quot;a majority of equity investors have adopted the view that a hard landing scenario is inevitable and their focus is on the timing, magnitude, and duration of a potential recession and investment strategies for that outlook.&quot;
 
