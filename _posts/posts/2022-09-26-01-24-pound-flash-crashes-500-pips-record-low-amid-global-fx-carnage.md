@@ -9,7 +9,7 @@ length: 109
 datetime: Mon, 26 Sep 2022 01:24:00 +0000
 tags: podcast
 guid: pound-flash-crashes-500-pips-record-low-amid-global-fx-carnage-0
-order: 2
+order: 0
 ---
 The beginning of the end is finally here.
 

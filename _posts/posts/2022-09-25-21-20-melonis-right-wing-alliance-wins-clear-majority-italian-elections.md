@@ -9,7 +9,7 @@ length: 264
 datetime: Sun, 25 Sep 2022 21:20:00 +0000
 tags: podcast
 guid: melonis-right-wing-alliance-wins-clear-majority-italian-elections-0
-order: 1
+order: 0
 ---
 The rolling populist tide against leftist policies just claimed its biggest European scalp yet.
 
