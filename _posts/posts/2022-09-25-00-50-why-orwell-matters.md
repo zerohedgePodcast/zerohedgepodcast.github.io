@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Why Orwell Matters"
-audio: why-orwell-matters-0
+audio: why-orwell-matters-1
 category: geopolitical
 desc: "Orwell saw through, defined, and called out the depredations of freedom's enemies..."
 duration: 00:13:17
 length: 797
-datetime: Fri, 23 Sep 2022 03:00:00 +0000
+datetime: Sun, 25 Sep 2022 00:50:00 +0000
 tags: podcast
 guid: why-orwell-matters-0
 order: 0
