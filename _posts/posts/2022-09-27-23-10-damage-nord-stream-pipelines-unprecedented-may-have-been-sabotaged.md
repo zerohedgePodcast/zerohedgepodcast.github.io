@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "CIA Warned Germany Of Possible Nord Stream Pipeline Attack"
-audio: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-4
+audio: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-5
 category: commodities
 desc: "Spiegel reported, citing unnamed sources, that the CIA tipped off Berlin in the summer..."
-duration: 00:09:47
-length: 587
-datetime: Tue, 27 Sep 2022 18:45:00 +0000
+duration: 00:12:02
+length: 722
+datetime: Tue, 27 Sep 2022 23:10:00 +0000
 tags: podcast
 guid: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-0
-order: 1
+order: 2
 ---
 Spiegel reported, citing unnamed sources, that the CIA tipped off Berlin in the summer...
 

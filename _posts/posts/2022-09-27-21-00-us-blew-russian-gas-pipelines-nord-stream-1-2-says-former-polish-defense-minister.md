@@ -9,7 +9,7 @@ length: 142
 datetime: Tue, 27 Sep 2022 21:00:00 +0000
 tags: podcast
 guid: us-blew-russian-gas-pipelines-nord-stream-1-2-says-former-polish-defense-minister-0
-order: 2
+order: 1
 ---
 &quot;Thank you, USA...&quot;
 
