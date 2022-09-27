@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Wall Street Banks Facing $2 Billion Settlement For Failing To Monitor WhatsApp Use"
-audio: wall-street-banks-facing-2-billion-settlement-failing-monitor-whatsapp-use-0
+title: "16 Wall Street Banks Slapped With $1.1 Billion In Penalties For Failing To Monitor WhatsApp Use"
+audio: wall-street-banks-facing-2-billion-settlement-failing-monitor-whatsapp-use-1
 category: political
 desc: "The SEC and CTFC could release the results of the investigation as soon as Wednesday..."
-duration: 00:01:32
-length: 92
-datetime: Tue, 27 Sep 2022 17:05:00 +0000
+duration: 00:02:09
+length: 129
+datetime: Tue, 27 Sep 2022 20:26:00 +0000
 tags: podcast
 guid: wall-street-banks-facing-2-billion-settlement-failing-monitor-whatsapp-use-0
 order: 0
