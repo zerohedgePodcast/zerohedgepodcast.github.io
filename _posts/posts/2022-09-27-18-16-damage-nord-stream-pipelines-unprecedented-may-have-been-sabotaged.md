@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Blasts Detected Near Nord Stream As Images Reveal &quot;Huge Leak&quot; "
-audio: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-2
+audio: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-3
 category: commodities
 desc: "&quot;The evidence points to a violent act, rather than a technical issue.&quot;"
-duration: 00:06:50
-length: 410
-datetime: Tue, 27 Sep 2022 13:56:00 +0000
+duration: 00:08:36
+length: 516
+datetime: Tue, 27 Sep 2022 18:16:00 +0000
 tags: podcast
 guid: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-0
-order: 1
+order: 2
 ---
 &quot;The evidence points to a violent act, rather than a technical issue.&quot;
 

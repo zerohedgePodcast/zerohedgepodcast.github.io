@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Generac Shares Surge As Hurricane Ian Barrels Toward Florida "
-audio: hurricane-ian-strengthens-category-3-it-churns-toward-florida-1
+title: "2.5 Million Floridians Ordered To Evacuate Ahead Of Major Hurricane"
+audio: hurricane-ian-strengthens-category-3-it-churns-toward-florida-2
 category: weather
-desc: "Google Search trends for &quot;Generac&quot; exploded this week across Florida. "
-duration: 00:02:35
-length: 155
-datetime: Tue, 27 Sep 2022 14:11:00 +0000
+desc: "&quot;Evacuate to higher ground.&quot;"
+duration: 00:04:54
+length: 294
+datetime: Tue, 27 Sep 2022 18:04:00 +0000
 tags: podcast
 guid: hurricane-ian-strengthens-category-3-it-churns-toward-florida-0
-order: 0
+order: 1
 ---
-Google Search trends for &quot;Generac&quot; exploded this week across Florida. 
+&quot;Evacuate to higher ground.&quot;
 
 Link: [https://www.zerohedge.com/weather/hurricane-ian-strengthens-category-3-it-churns-toward-florida](https://www.zerohedge.com/weather/hurricane-ian-strengthens-category-3-it-churns-toward-florida)
 
