@@ -9,7 +9,7 @@ length: 180
 datetime: Tue, 27 Sep 2022 13:33:00 +0000
 tags: podcast
 guid: housing-bubble-has-officially-burst-case-shiller-records-first-drop-home-prices-2012-0
-order: 0
+order: 1
 ---
 The -2.3% difference between the July and August rates of annual increase in the National Composite Index was the largest deceleration in the history of the index.
 

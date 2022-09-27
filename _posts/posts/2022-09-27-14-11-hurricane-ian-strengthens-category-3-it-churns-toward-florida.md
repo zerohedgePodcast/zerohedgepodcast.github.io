@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Hurricane Ian Strengthens To Category 3 As It Churns Toward Florida "
-audio: hurricane-ian-strengthens-category-3-it-churns-toward-florida-0
+title: "Generac Shares Surge As Hurricane Ian Barrels Toward Florida "
+audio: hurricane-ian-strengthens-category-3-it-churns-toward-florida-1
 category: weather
-desc: "&quot;Just have a look at the potential storm surge a Cat 3 storm could bring to the Tampa Bay Area. All that area shaded in red is over 9 feet of water inundation.&quot; "
-duration: 00:02:13
-length: 133
-datetime: Tue, 27 Sep 2022 13:45:00 +0000
+desc: "Google Search trends for &quot;Generac&quot; exploded this week across Florida. "
+duration: 00:02:35
+length: 155
+datetime: Tue, 27 Sep 2022 14:11:00 +0000
 tags: podcast
 guid: hurricane-ian-strengthens-category-3-it-churns-toward-florida-0
 order: 0
 ---
-&quot;Just have a look at the potential storm surge a Cat 3 storm could bring to the Tampa Bay Area. All that area shaded in red is over 9 feet of water inundation.&quot; 
+Google Search trends for &quot;Generac&quot; exploded this week across Florida. 
 
 Link: [https://www.zerohedge.com/weather/hurricane-ian-strengthens-category-3-it-churns-toward-florida](https://www.zerohedge.com/weather/hurricane-ian-strengthens-category-3-it-churns-toward-florida)
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "First Images Of 'Gas Bubbles' From Nord Stream Leak In Baltic Sea"
-audio: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-1
+title: "Blasts Detected Near Nord Stream As Images Reveal &quot;Huge Leak&quot; "
+audio: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-2
 category: commodities
-desc: "&quot;The evidence points to a violent act, rather than a technical issue.&quot; "
-duration: 00:05:05
-length: 305
-datetime: Tue, 27 Sep 2022 13:10:00 +0000
+desc: "&quot;The evidence points to a violent act, rather than a technical issue.&quot;"
+duration: 00:06:50
+length: 410
+datetime: Tue, 27 Sep 2022 13:56:00 +0000
 tags: podcast
 guid: damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged-0
-order: 1
+order: 2
 ---
-&quot;The evidence points to a violent act, rather than a technical issue.&quot; 
+&quot;The evidence points to a violent act, rather than a technical issue.&quot;
 
 Link: [https://www.zerohedge.com/commodities/damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged](https://www.zerohedge.com/commodities/damage-nord-stream-pipelines-unprecedented-may-have-been-sabotaged)
 
