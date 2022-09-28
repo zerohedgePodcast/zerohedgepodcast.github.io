@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Watch: &quot;Significant Storm Surge&quot; Swamps Southwest Florida Ahead Of Hurricane Ian Landfall"
-audio: hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient-1
+title: "Ian Makes Landfall As &quot;Catastrophic&quot; Category 4 Hurricane On Southwest Florida"
+audio: hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient-2
 category: weather
 desc: "&quot;Incredible video from Sanibel Island in Florida as Hurricane Ian moves in around midday Wednesday.&quot; "
-duration: 00:06:16
-length: 376
-datetime: Wed, 28 Sep 2022 16:47:00 +0000
+duration: 00:08:09
+length: 489
+datetime: Wed, 28 Sep 2022 19:10:00 +0000
 tags: podcast
 guid: hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient-0
-order: 0
+order: 2
 ---
 &quot;Incredible video from Sanibel Island in Florida as Hurricane Ian moves in around midday Wednesday.&quot; 
 
