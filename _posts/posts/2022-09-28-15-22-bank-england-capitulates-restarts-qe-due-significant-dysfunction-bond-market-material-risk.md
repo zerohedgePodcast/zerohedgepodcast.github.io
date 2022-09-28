@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Bank Of England Capitulates: Restarts QE Due To &quot;Significant Dysfunction&quot; In Bond Market, &quot;Material Risk&quot; To Financial Stability"
-audio: bank-england-capitulates-restarts-qe-due-significant-dysfunction-bond-market-material-risk-0
+audio: bank-england-capitulates-restarts-qe-due-significant-dysfunction-bond-market-material-risk-1
 category: markets
 desc: "The Pivot has arrived!"
 duration: 00:04:36
 length: 276
-datetime: Wed, 28 Sep 2022 10:59:00 +0000
+datetime: Wed, 28 Sep 2022 15:22:00 +0000
 tags: podcast
 guid: bank-england-capitulates-restarts-qe-due-significant-dysfunction-bond-market-material-risk-0
-order: 1
+order: 0
 ---
 The Pivot has arrived!
 
