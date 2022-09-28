@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "US Urges Increased Vigilance Of EU-Bound LNG Tankers After Nord Stream Sabotage"
-audio: us-urges-increased-vigilance-eu-bound-lng-tankers-after-nord-stream-sabotage-0
+title: "Oil Rigs In Norway's North Sea Buzzed By Mysterious Drones "
+audio: us-urges-increased-vigilance-eu-bound-lng-tankers-after-nord-stream-sabotage-1
 category: geopolitical
-desc: "&quot;The circumstances of this disturbing event must now be quickly clarified and those responsible identified.&quot; "
-duration: 00:02:17
-length: 137
-datetime: Wed, 28 Sep 2022 16:45:00 +0000
+desc: "&quot;The Scandinavian country has a vast network of pipelines linking it to the continent, which experts have said are at risk of sabotage.&quot;"
+duration: 00:03:33
+length: 213
+datetime: Wed, 28 Sep 2022 18:45:00 +0000
 tags: podcast
 guid: us-urges-increased-vigilance-eu-bound-lng-tankers-after-nord-stream-sabotage-0
 order: 0
 ---
-&quot;The circumstances of this disturbing event must now be quickly clarified and those responsible identified.&quot; 
+&quot;The Scandinavian country has a vast network of pipelines linking it to the continent, which experts have said are at risk of sabotage.&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/us-urges-increased-vigilance-eu-bound-lng-tankers-after-nord-stream-sabotage](https://www.zerohedge.com/geopolitical/us-urges-increased-vigilance-eu-bound-lng-tankers-after-nord-stream-sabotage)
 
