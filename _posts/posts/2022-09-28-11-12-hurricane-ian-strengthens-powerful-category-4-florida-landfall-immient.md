@@ -9,7 +9,7 @@ length: 206
 datetime: Wed, 28 Sep 2022 11:12:00 +0000
 tags: podcast
 guid: hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient-0
-order: 2
+order: 0
 ---
 &quot;You need to evacuate now. You're going to start feeling major impacts of this storm relatively soon.&quot; 
 
