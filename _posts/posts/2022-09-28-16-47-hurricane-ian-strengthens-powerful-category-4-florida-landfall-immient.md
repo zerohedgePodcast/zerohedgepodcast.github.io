@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Hurricane Ian Strengthens To Powerful Category 4 As Florida Landfall Imminent"
-audio: hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient-0
+title: "Watch: &quot;Significant Storm Surge&quot; Swamps Southwest Florida Ahead Of Hurricane Ian Landfall"
+audio: hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient-1
 category: weather
-desc: "&quot;You need to evacuate now. You're going to start feeling major impacts of this storm relatively soon.&quot; "
-duration: 00:03:26
-length: 206
-datetime: Wed, 28 Sep 2022 11:12:00 +0000
+desc: "&quot;Incredible video from Sanibel Island in Florida as Hurricane Ian moves in around midday Wednesday.&quot; "
+duration: 00:06:16
+length: 376
+datetime: Wed, 28 Sep 2022 16:47:00 +0000
 tags: podcast
 guid: hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient-0
 order: 0
 ---
-&quot;You need to evacuate now. You're going to start feeling major impacts of this storm relatively soon.&quot; 
+&quot;Incredible video from Sanibel Island in Florida as Hurricane Ian moves in around midday Wednesday.&quot; 
 
 Link: [https://www.zerohedge.com/weather/hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient](https://www.zerohedge.com/weather/hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient)
 
