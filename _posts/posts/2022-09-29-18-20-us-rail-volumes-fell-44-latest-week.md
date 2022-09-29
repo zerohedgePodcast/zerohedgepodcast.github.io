@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "US Rail Volumes Fell 4.4% In Latest Week"
-audio: us-rail-volumes-fell-44-latest-week-0
+audio: us-rail-volumes-fell-44-latest-week-1
 category: economics
 desc: "U.S. freight-rail traffic declined 4.4% to 489,111 carloads and intermodal units in the week ending Sept. 24 compared with the same period in 2021, according to Association of American Railroads data."
 duration: 00:02:21
 length: 141
-datetime: Thu, 29 Sep 2022 18:40:00 +0000
+datetime: Thu, 29 Sep 2022 18:20:00 +0000
 tags: podcast
 guid: us-rail-volumes-fell-44-latest-week-0
 order: 0
