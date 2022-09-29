@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Germany Believes High Explosive Devices Equivalent To &quot;500 Kilograms Of TNT&quot; Used To Destroy Nord Stream"
-audio: another-nord-stream-leak-detected-swedish-coastguard-says-1
+audio: another-nord-stream-leak-detected-swedish-coastguard-says-2
 category: geopolitical
 desc: "&quot;The previously unknown estimates support the assumption that only a state actor can be behind the action.&quot;"
 duration: 00:06:22
 length: 382
-datetime: Thu, 29 Sep 2022 13:54:00 +0000
+datetime: Thu, 29 Sep 2022 20:25:00 +0000
 tags: podcast
 guid: another-nord-stream-leak-detected-swedish-coastguard-says-0
-order: 1
+order: 0
 ---
 &quot;The previously unknown estimates support the assumption that only a state actor can be behind the action.&quot;
 

@@ -9,7 +9,7 @@ length: 157
 datetime: Thu, 29 Sep 2022 20:05:00 +0000
 tags: podcast
 guid: crash-just-wont-stop-today-something-changed-0
-order: 0
+order: 2
 ---
 Before stocks would crash because yields or the dollar would spike; today stocks crashed even as yields and the dollar slumped.
 

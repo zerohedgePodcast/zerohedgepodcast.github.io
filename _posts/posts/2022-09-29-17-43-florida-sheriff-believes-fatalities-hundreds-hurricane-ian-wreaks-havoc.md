@@ -9,7 +9,7 @@ length: 273
 datetime: Thu, 29 Sep 2022 17:43:00 +0000
 tags: podcast
 guid: florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc-0
-order: 2
+order: 1
 ---
 &quot;Fort Myers Beach is leveled. I'm in disbelief and absolutely heartbroken for the people of SWFL.&quot; 
 

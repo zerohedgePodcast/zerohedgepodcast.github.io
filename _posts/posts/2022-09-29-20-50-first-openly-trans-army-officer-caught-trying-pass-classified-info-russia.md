@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "First Openly Trans Army Officer Caught Trying To Pass Classified Info To Russia"
-audio: first-openly-trans-army-officer-caught-trying-pass-classified-info-russia-0
+audio: first-openly-trans-army-officer-caught-trying-pass-classified-info-russia-1
 category: geopolitical
 desc: "Bizarre spy story for the ages... &quot;motivated by patriotism toward Russia.&quot;"
 duration: 00:03:03
 length: 183
-datetime: Thu, 29 Sep 2022 20:40:00 +0000
+datetime: Thu, 29 Sep 2022 20:50:00 +0000
 tags: podcast
 guid: first-openly-trans-army-officer-caught-trying-pass-classified-info-russia-0
 order: 0
