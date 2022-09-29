@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Florida Sheriff Believes &quot;Fatalities In The Hundreds&quot; As Hurricane Ian Wreaks Havoc  "
-audio: florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc-0
+title: "'Looks Like Atom Bomb Dropped': Hurricane Ian Levels Neighborhoods In Southwest Florida"
+audio: florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc-1
 category: weather
-desc: "&quot;I'm sick to my stomach seeing these photos of the incredible storm surge that hit Fort Myers...&quot; "
-duration: 00:02:27
-length: 147
-datetime: Thu, 29 Sep 2022 13:05:00 +0000
+desc: "&quot;Fort Myers Beach is leveled. I'm in disbelief and absolutely heartbroken for the people of SWFL.&quot; "
+duration: 00:04:33
+length: 273
+datetime: Thu, 29 Sep 2022 17:43:00 +0000
 tags: podcast
 guid: florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc-0
-order: 1
+order: 2
 ---
-&quot;I'm sick to my stomach seeing these photos of the incredible storm surge that hit Fort Myers...&quot; 
+&quot;Fort Myers Beach is leveled. I'm in disbelief and absolutely heartbroken for the people of SWFL.&quot; 
 
 Link: [https://www.zerohedge.com/weather/florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc](https://www.zerohedge.com/weather/florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc)
 

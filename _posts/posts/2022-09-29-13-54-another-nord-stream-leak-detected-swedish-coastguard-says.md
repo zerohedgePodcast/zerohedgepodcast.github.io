@@ -9,7 +9,7 @@ length: 382
 datetime: Thu, 29 Sep 2022 13:54:00 +0000
 tags: podcast
 guid: another-nord-stream-leak-detected-swedish-coastguard-says-0
-order: 2
+order: 1
 ---
 &quot;The previously unknown estimates support the assumption that only a state actor can be behind the action.&quot;
 
