@@ -9,7 +9,7 @@ length: 489
 datetime: Wed, 28 Sep 2022 19:10:00 +0000
 tags: podcast
 guid: hurricane-ian-strengthens-powerful-category-4-florida-landfall-immient-0
-order: 1
+order: 0
 ---
 &quot;Incredible video from Sanibel Island in Florida as Hurricane Ian moves in around midday Wednesday.&quot; 
 
