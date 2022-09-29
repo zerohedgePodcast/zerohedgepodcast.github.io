@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "NATO Officially Blames &quot;Sabotage&quot; For Nord Stream Damage; Fourth Leak Discovered"
-audio: another-nord-stream-leak-detected-swedish-coastguard-says-0
+title: "Germany Believes High Explosive Devices Equivalent To &quot;500 Kilograms Of TNT&quot; Used To Destroy Nord Stream"
+audio: another-nord-stream-leak-detected-swedish-coastguard-says-1
 category: geopolitical
-desc: "&quot;NATO is committed to deter and defend against hybrid attacks.&quot; "
-duration: 00:03:37
-length: 217
-datetime: Thu, 29 Sep 2022 11:34:00 +0000
+desc: "&quot;The previously unknown estimates support the assumption that only a state actor can be behind the action.&quot;"
+duration: 00:06:22
+length: 382
+datetime: Thu, 29 Sep 2022 13:54:00 +0000
 tags: podcast
 guid: another-nord-stream-leak-detected-swedish-coastguard-says-0
-order: 1
+order: 2
 ---
-&quot;NATO is committed to deter and defend against hybrid attacks.&quot; 
+&quot;The previously unknown estimates support the assumption that only a state actor can be behind the action.&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/another-nord-stream-leak-detected-swedish-coastguard-says](https://www.zerohedge.com/geopolitical/another-nord-stream-leak-detected-swedish-coastguard-says)
 
