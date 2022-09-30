@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;You Will Rent Nothing And You Will Be Happy&quot;: Rent-A-Center Crashes After Pulling Guidance Due To Collapsing &quot;Economic Conditions&quot;"
-audio: you-will-rent-nothing-and-you-will-be-happy-rent-center-crashes-after-pulling-guidance-due-0
+audio: you-will-rent-nothing-and-you-will-be-happy-rent-center-crashes-after-pulling-guidance-due-1
 category: markets
 desc: "Americans can't even afford to rent stuff any more, let alone buy."
 duration: 00:03:36
 length: 216
-datetime: Fri, 30 Sep 2022 15:40:00 +0000
+datetime: Fri, 30 Sep 2022 19:22:00 +0000
 tags: podcast
 guid: you-will-rent-nothing-and-you-will-be-happy-rent-center-crashes-after-pulling-guidance-due-0
-order: 2
+order: 0
 ---
 Americans can't even afford to rent stuff any more, let alone buy.
 
