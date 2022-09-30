@@ -9,7 +9,7 @@ length: 216
 datetime: Fri, 30 Sep 2022 15:40:00 +0000
 tags: podcast
 guid: you-will-rent-nothing-and-you-will-be-happy-rent-center-crashes-after-pulling-guidance-due-0
-order: 0
+order: 2
 ---
 Americans can't even afford to rent stuff any more, let alone buy.
 
