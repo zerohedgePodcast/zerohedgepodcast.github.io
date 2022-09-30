@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "'Looks Like Atom Bomb Dropped': Hurricane Ian Levels Neighborhoods In Southwest Florida"
-audio: florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc-1
+audio: florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc-2
 category: weather
 desc: "&quot;Fort Myers Beach is leveled. I'm in disbelief and absolutely heartbroken for the people of SWFL.&quot; "
-duration: 00:04:33
-length: 273
-datetime: Thu, 29 Sep 2022 17:43:00 +0000
+duration: 00:04:58
+length: 298
+datetime: Fri, 30 Sep 2022 08:43:00 +0000
 tags: podcast
 guid: florida-sheriff-believes-fatalities-hundreds-hurricane-ian-wreaks-havoc-0
-order: 1
+order: 0
 ---
 &quot;Fort Myers Beach is leveled. I'm in disbelief and absolutely heartbroken for the people of SWFL.&quot; 
 
