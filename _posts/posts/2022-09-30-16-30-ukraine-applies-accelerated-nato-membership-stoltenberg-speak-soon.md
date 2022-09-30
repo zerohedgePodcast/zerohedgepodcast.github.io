@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Ukraine Applies For &quot;Accelerated&quot; NATO Membership, Stoltenberg To Speak Soon"
-audio: ukraine-applies-accelerated-nato-membership-stoltenberg-speak-soon-0
+title: "&quot;Most Serious Escalation&quot; Since War's Start, NATO Says Of Annexation Move, But Putin 'Failing' On Battlefield"
+audio: ukraine-applies-accelerated-nato-membership-stoltenberg-speak-soon-1
 category: geopolitical
-desc: "&quot;We are taking our decisive step by signing Ukraine's application for accelerated accession to NATO.&quot;"
-duration: 00:02:18
-length: 138
-datetime: Fri, 30 Sep 2022 15:01:00 +0000
+desc: "US meanwhile slams Putin's blaming US for Nord Stream pipeline attacks as &quot;absurd&quot;...  "
+duration: 00:04:19
+length: 259
+datetime: Fri, 30 Sep 2022 16:30:00 +0000
 tags: podcast
 guid: ukraine-applies-accelerated-nato-membership-stoltenberg-speak-soon-0
 order: 0
 ---
-&quot;We are taking our decisive step by signing Ukraine's application for accelerated accession to NATO.&quot;
+US meanwhile slams Putin's blaming US for Nord Stream pipeline attacks as &quot;absurd&quot;...  
 
 Link: [https://www.zerohedge.com/geopolitical/ukraine-applies-accelerated-nato-membership-stoltenberg-speak-soon](https://www.zerohedge.com/geopolitical/ukraine-applies-accelerated-nato-membership-stoltenberg-speak-soon)
 
