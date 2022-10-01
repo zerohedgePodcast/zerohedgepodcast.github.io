@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "'Just Kidding': Biden Yanks Student Loan Forgiveness From 770,000 Borrowers"
-audio: psyche-biden-yanks-student-loan-forgiveness-770000-borrowers-0
+audio: psyche-biden-yanks-student-loan-forgiveness-770000-borrowers-1
 category: political
 desc: "&quot;This is a gut punch, to say the least&quot;"
 duration: 00:03:51
 length: 231
-datetime: Fri, 30 Sep 2022 19:30:00 +0000
+datetime: Fri, 30 Sep 2022 23:30:00 +0000
 tags: podcast
 guid: psyche-biden-yanks-student-loan-forgiveness-770000-borrowers-0
 order: 0
