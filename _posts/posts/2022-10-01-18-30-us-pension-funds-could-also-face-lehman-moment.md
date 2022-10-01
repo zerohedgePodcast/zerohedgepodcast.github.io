@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "U.S. Pension Funds Could Face Their Own &quot;Lehman Moment&quot;"
-audio: us-pension-funds-could-also-face-lehman-moment-0
+audio: us-pension-funds-could-also-face-lehman-moment-1
 category: markets
 desc: "I discussed this and numerous other topics regarding the state of the economy and the country in an interview last night."
 duration: 00:04:54
 length: 294
-datetime: Sat, 01 Oct 2022 15:30:00 +0000
+datetime: Sat, 01 Oct 2022 18:30:00 +0000
 tags: podcast
 guid: us-pension-funds-could-also-face-lehman-moment-0
 order: 0
