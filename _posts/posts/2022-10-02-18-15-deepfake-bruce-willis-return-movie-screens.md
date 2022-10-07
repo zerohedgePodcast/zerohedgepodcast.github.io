@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Deepfake Bruce Willis To Return To Movie Screens "
-audio: deepfake-bruce-willis-return-movie-screens-0
+title: "Bruce Willis Denies He Sold Rights To 'Digital Face' "
+audio: deepfake-bruce-willis-return-movie-screens-1
 category: technology
-desc: "'Yippie kai-AI'"
-duration: 00:01:46
-length: 106
-datetime: Sat, 01 Oct 2022 22:00:00 +0000
+desc: "&quot;Bruce has no partnership or agreement with this Deepcake company.&quot;"
+duration: 00:03:27
+length: 207
+datetime: Sun, 02 Oct 2022 18:15:00 +0000
 tags: podcast
 guid: deepfake-bruce-willis-return-movie-screens-0
 order: 0
 ---
-'Yippie kai-AI'
+&quot;Bruce has no partnership or agreement with this Deepcake company.&quot;
 
 Link: [https://www.zerohedge.com/technology/deepfake-bruce-willis-return-movie-screens](https://www.zerohedge.com/technology/deepfake-bruce-willis-return-movie-screens)
 
