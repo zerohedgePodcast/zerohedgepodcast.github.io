@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "&quot;Shoot Him So He Looks Like Grated Cheese&quot;: Florida Sheriff Offers Anti-Looter Advice"
-audio: shoot-him-so-he-looks-grated-cheese-florida-sheriff-offers-anti-looter-advice-0
+audio: shoot-him-so-he-looks-grated-cheese-florida-sheriff-offers-anti-looter-advice-1
 category: political
 desc: "Grady Judd does not mince words..."
 duration: 00:00:50
 length: 50
-datetime: Fri, 07 Oct 2022 21:20:00 +0000
+datetime: Fri, 07 Oct 2022 22:25:00 +0000
 tags: podcast
 guid: shoot-him-so-he-looks-grated-cheese-florida-sheriff-offers-anti-looter-advice-0
 order: 0
