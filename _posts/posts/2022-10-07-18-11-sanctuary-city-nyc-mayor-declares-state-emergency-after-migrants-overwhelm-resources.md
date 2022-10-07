@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "'Sanctuary City' NYC Mayor Declares State Of Emergency After Migrants Overwhelm Resources"
-audio: sanctuary-city-nyc-mayor-declares-state-emergency-after-migrants-overwhelm-resources-0
+audio: sanctuary-city-nyc-mayor-declares-state-emergency-after-migrants-overwhelm-resources-1
 category: political
 desc: "Virtue signaling meets reality..."
 duration: 00:01:25
 length: 85
-datetime: Fri, 07 Oct 2022 15:45:00 +0000
+datetime: Fri, 07 Oct 2022 18:11:00 +0000
 tags: podcast
 guid: sanctuary-city-nyc-mayor-declares-state-emergency-after-migrants-overwhelm-resources-0
-order: 2
+order: 0
 ---
 Virtue signaling meets reality...
 
