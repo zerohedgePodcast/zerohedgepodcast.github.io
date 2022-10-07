@@ -9,7 +9,7 @@ length: 1043
 datetime: Sat, 01 Oct 2022 11:00:00 +0000
 tags: podcast
 guid: luongo-curious-whodunit-nordstreams-1-2-0
-order: 1
+order: 0
 ---
 The old world broke this week...
 
