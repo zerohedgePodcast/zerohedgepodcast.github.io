@@ -9,7 +9,7 @@ length: 85
 datetime: Fri, 07 Oct 2022 18:11:00 +0000
 tags: podcast
 guid: sanctuary-city-nyc-mayor-declares-state-emergency-after-migrants-overwhelm-resources-0
-order: 1
+order: 0
 ---
 Virtue signaling meets reality...
 
