@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Large Explosion Destroys Part Of Key Bridge Linking Russia To Crimea; Zelensky: This Is &quot;The Beginning&quot;"
-audio: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-0
+title: "&quot;Declaration Of War Without Rules&quot;: Ukraine Celebrates Crimea Bridge Blast As Putin Appoints 'Controversial' Top General"
+audio: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-1
 category: geopolitical
-desc: "The bridge is regarded as a key supply route for Russian troops in southern Ukraine..."
-duration: 00:04:31
-length: 271
-datetime: Sat, 08 Oct 2022 12:01:00 +0000
+desc: "Confirmed massive truck bombing... "
+duration: 00:09:02
+length: 542
+datetime: Sat, 08 Oct 2022 18:35:00 +0000
 tags: podcast
 guid: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-0
 order: 1
 ---
-The bridge is regarded as a key supply route for Russian troops in southern Ukraine...
+Confirmed massive truck bombing... 
 
 Link: [https://www.zerohedge.com/geopolitical/large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says](https://www.zerohedge.com/geopolitical/large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says)
 
