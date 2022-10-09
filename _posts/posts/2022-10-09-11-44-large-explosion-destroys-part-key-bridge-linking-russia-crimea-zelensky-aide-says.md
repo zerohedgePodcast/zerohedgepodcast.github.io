@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "&quot;Declaration Of War Without Rules&quot;: Ukraine Celebrates Crimea Bridge Blast As Putin Appoints 'Controversial' Top General"
-audio: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-1
+title: "&quot;Declaration Of War Without Rules&quot;: Russian Officials Fume Over Crimea Bridge Blast As Ukraine Celebrates"
+audio: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-2
 category: geopolitical
 desc: "Confirmed massive truck bombing... "
 duration: 00:09:02
 length: 542
-datetime: Sat, 08 Oct 2022 18:35:00 +0000
+datetime: Sun, 09 Oct 2022 11:44:00 +0000
 tags: podcast
 guid: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-0
-order: 1
+order: 0
 ---
 Confirmed massive truck bombing... 
 
