@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Florida Surgeon General Recommends Against mRNA COVID-19 Vaccines For Males Aged 18-39"
-audio: florida-surgeon-general-recommends-against-mrna-covid-19-vaccines-males-aged-18-39-0
+title: "Twitter Removes Florida Surgeon General's Vaccine Warning Tweet"
+audio: florida-surgeon-general-recommends-against-mrna-covid-19-vaccines-males-aged-18-39-1
 category: covid-19
-desc: "...due to 84% increase in the relative incidence of cardiac-related death among males 18-39 years old within 28 days following mRNA vaccination"
-duration: 00:05:32
-length: 332
-datetime: Sat, 08 Oct 2022 17:15:00 +0000
+desc: "&quot;You can delete tweets, you can burn books, but you will never be able to eliminate the truth!&quot; "
+duration: 00:08:01
+length: 481
+datetime: Sun, 09 Oct 2022 15:16:00 +0000
 tags: podcast
 guid: florida-surgeon-general-recommends-against-mrna-covid-19-vaccines-males-aged-18-39-0
-order: 0
+order: 1
 ---
-...due to 84% increase in the relative incidence of cardiac-related death among males 18-39 years old within 28 days following mRNA vaccination
+&quot;You can delete tweets, you can burn books, but you will never be able to eliminate the truth!&quot; 
 
 Link: [https://www.zerohedge.com/covid-19/florida-surgeon-general-recommends-against-mrna-covid-19-vaccines-males-aged-18-39](https://www.zerohedge.com/covid-19/florida-surgeon-general-recommends-against-mrna-covid-19-vaccines-males-aged-18-39)
 
