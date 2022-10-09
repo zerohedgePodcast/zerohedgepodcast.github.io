@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "&quot;Declaration Of War Without Rules&quot;: Russian Officials Fume Over Crimea Bridge Blast As Ukraine Celebrates"
-audio: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-2
+title: "Putin Decries &quot;Act Of Terrorism&quot; On Crimean Bridge, Identifies Ukraine Secret Services As Culprits"
+audio: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-3
 category: geopolitical
-desc: "Confirmed massive truck bombing... "
-duration: 00:09:02
-length: 542
-datetime: Sun, 09 Oct 2022 11:44:00 +0000
+desc: "Ukraine commemorated the explosion within hours with a new postage stamp..."
+duration: 00:10:49
+length: 649
+datetime: Sun, 09 Oct 2022 18:10:00 +0000
 tags: podcast
 guid: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-0
-order: 0
+order: 2
 ---
-Confirmed massive truck bombing... 
+Ukraine commemorated the explosion within hours with a new postage stamp...
 
 Link: [https://www.zerohedge.com/geopolitical/large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says](https://www.zerohedge.com/geopolitical/large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says)
 
