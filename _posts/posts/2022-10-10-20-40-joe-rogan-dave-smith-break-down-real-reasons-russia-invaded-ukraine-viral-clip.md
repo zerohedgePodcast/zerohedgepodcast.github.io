@@ -9,7 +9,7 @@ length: 153
 datetime: Mon, 10 Oct 2022 20:40:00 +0000
 tags: podcast
 guid: joe-rogan-dave-smith-break-down-real-reasons-russia-invaded-ukraine-viral-clip-0
-order: 0
+order: 1
 ---
 &quot;The craziest thing in the world: the idea that we're actually flirting with a nuclear conflict with Russia?&quot;
 
