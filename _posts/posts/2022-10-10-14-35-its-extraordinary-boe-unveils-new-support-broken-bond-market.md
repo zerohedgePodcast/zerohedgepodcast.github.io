@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "&quot;It's Extraordinary&quot; - BoE Unveils New Support For Broken Bond Market"
-audio: its-extraordinary-boe-unveils-new-support-broken-bond-market-0
+title: "BoE's New Support Plan Fails As UK Gilt Yields Explode Higher"
+audio: its-extraordinary-boe-unveils-new-support-broken-bond-market-1
 category: markets
 desc: "&quot;Market interventions of this type by the central bank are not normal.&quot;"
-duration: 00:03:41
-length: 221
-datetime: Mon, 10 Oct 2022 13:00:00 +0000
+duration: 00:04:07
+length: 247
+datetime: Mon, 10 Oct 2022 14:35:00 +0000
 tags: podcast
 guid: its-extraordinary-boe-unveils-new-support-broken-bond-market-0
 order: 0
