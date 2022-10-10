@@ -9,7 +9,7 @@ length: 396
 datetime: Mon, 10 Oct 2022 17:20:00 +0000
 tags: podcast
 guid: its-global-margin-call-i-hope-we-survive-0
-order: 2
+order: 0
 ---
 The average US pension has probably lost more than 20% of its asset value this year. Some have lost much more.
 
