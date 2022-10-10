@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "A List Of Those Who &quot;F**ked With Biden&quot;"
-audio: list-those-who-fked-biden-0
+audio: list-those-who-fked-biden-1
 category: political
 desc: "So, everyone?"
 duration: 00:07:10
 length: 430
-datetime: Mon, 10 Oct 2022 00:30:00 +0000
+datetime: Mon, 10 Oct 2022 08:30:00 +0000
 tags: podcast
 guid: list-those-who-fked-biden-0
 order: 0

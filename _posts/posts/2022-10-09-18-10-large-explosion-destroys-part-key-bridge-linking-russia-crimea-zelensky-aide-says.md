@@ -9,7 +9,7 @@ length: 649
 datetime: Sun, 09 Oct 2022 18:10:00 +0000
 tags: podcast
 guid: large-explosion-destroys-part-key-bridge-linking-russia-crimea-zelensky-aide-says-0
-order: 2
+order: 0
 ---
 Ukraine commemorated the explosion within hours with a new postage stamp...
 

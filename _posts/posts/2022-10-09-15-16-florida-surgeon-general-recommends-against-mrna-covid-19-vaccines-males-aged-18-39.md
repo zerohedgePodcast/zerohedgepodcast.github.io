@@ -9,7 +9,7 @@ length: 481
 datetime: Sun, 09 Oct 2022 15:16:00 +0000
 tags: podcast
 guid: florida-surgeon-general-recommends-against-mrna-covid-19-vaccines-males-aged-18-39-0
-order: 1
+order: 0
 ---
 &quot;You can delete tweets, you can burn books, but you will never be able to eliminate the truth!&quot; 
 
