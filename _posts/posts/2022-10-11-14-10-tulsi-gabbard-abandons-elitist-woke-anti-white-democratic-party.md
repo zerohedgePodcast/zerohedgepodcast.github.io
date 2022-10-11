@@ -9,7 +9,7 @@ length: 127
 datetime: Tue, 11 Oct 2022 14:10:00 +0000
 tags: podcast
 guid: tulsi-gabbard-abandons-elitist-woke-anti-white-democratic-party-0
-order: 2
+order: 1
 ---
 &quot;...can no longer stomach the direction that so-called woke Democratic Party ideologues are taking our country...&quot;
 
