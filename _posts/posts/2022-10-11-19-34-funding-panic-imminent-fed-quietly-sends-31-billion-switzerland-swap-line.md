@@ -9,7 +9,7 @@ length: 256
 datetime: Tue, 11 Oct 2022 19:34:00 +0000
 tags: podcast
 guid: funding-panic-imminent-fed-quietly-sends-31-billion-switzerland-swap-line-0
-order: 0
+order: 2
 ---
 &quot;When the central bank steps on the brakes, something goes through the windshield.&quot;
 
