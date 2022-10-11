@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Credit Suisse Slides After Goldman Suggests $8 Billion Capital Shortfall"
-audio: credit-suisse-slides-after-goldman-suggests-8-billion-capital-shortfall-0
+title: "Credit Suisse Faces DoJ 'Tax Evasion' Probe"
+audio: credit-suisse-slides-after-goldman-suggests-8-billion-capital-shortfall-1
 category: markets
-desc: "&quot;Credit Suisse continues to face cyclical and structural challenges,&quot; "
-duration: 00:02:12
-length: 132
-datetime: Tue, 11 Oct 2022 13:00:00 +0000
+desc: "&quot;Credit Suisse does not tolerate tax evasion,&quot;"
+duration: 00:03:44
+length: 224
+datetime: Tue, 11 Oct 2022 16:11:00 +0000
 tags: podcast
 guid: credit-suisse-slides-after-goldman-suggests-8-billion-capital-shortfall-0
 order: 0
 ---
-&quot;Credit Suisse continues to face cyclical and structural challenges,&quot; 
+&quot;Credit Suisse does not tolerate tax evasion,&quot;
 
 Link: [https://www.zerohedge.com/markets/credit-suisse-slides-after-goldman-suggests-8-billion-capital-shortfall](https://www.zerohedge.com/markets/credit-suisse-slides-after-goldman-suggests-8-billion-capital-shortfall)
 
