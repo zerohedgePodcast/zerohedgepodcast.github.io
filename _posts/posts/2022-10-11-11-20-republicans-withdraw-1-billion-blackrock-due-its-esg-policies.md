@@ -9,7 +9,7 @@ length: 136
 datetime: Tue, 11 Oct 2022 11:20:00 +0000
 tags: podcast
 guid: republicans-withdraw-1-billion-blackrock-due-its-esg-policies-0
-order: 1
+order: 0
 ---
 &quot;This divestment is necessary to protect Louisiana from mandates BlackRock has called for that would cripple our critical energy sector,&quot; 
 

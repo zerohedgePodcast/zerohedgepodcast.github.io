@@ -9,7 +9,7 @@ length: 336
 datetime: Tue, 11 Oct 2022 11:33:00 +0000
 tags: podcast
 guid: boe-expands-bond-buying-program-amid-historic-bond-rout-end-fire-sale-and-halt-market-0
-order: 2
+order: 0
 ---
 &quot;The BOE is clearly playing gilt selloff whack-a-mole. The policy of consistently acting at the last minute without putting a more credible long-term plan in place is unnerving for markets.&quot;
 
