@@ -9,7 +9,7 @@ length: 236
 datetime: Wed, 12 Oct 2022 18:40:00 +0000
 tags: podcast
 guid: nyt-fluffs-biden-says-lies-are-folksy-0
-order: 0
+order: 2
 ---
 Like when he repeatedly said a drunk driver killed his first wife and daughter?
 
