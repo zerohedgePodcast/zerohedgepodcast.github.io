@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "NYT Fluffs Biden, Says Lies Are &quot;Folksy&quot;"
-audio: nyt-fluffs-biden-says-lies-are-folksy-0
+audio: nyt-fluffs-biden-says-lies-are-folksy-1
 category: political
 desc: "Like when he repeatedly said a drunk driver killed his first wife and daughter?"
 duration: 00:03:56
 length: 236
-datetime: Wed, 12 Oct 2022 18:40:00 +0000
+datetime: Wed, 12 Oct 2022 20:55:00 +0000
 tags: podcast
 guid: nyt-fluffs-biden-says-lies-are-folksy-0
-order: 2
+order: 0
 ---
 Like when he repeatedly said a drunk driver killed his first wife and daughter?
 
