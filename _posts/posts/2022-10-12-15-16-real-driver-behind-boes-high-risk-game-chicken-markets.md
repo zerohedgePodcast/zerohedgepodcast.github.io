@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Is This The Real Driver Behind The BoE's High Risk 'Game Of Chicken' With Markets?"
-audio: real-driver-behind-boes-high-risk-game-chicken-markets-0
+audio: real-driver-behind-boes-high-risk-game-chicken-markets-1
 category: markets
 desc: "...this 3-D Chess game being played by Bailey to force the death of the Truss / Kwarteng budget is somewhat confirmed by the price action in UK bonds and cable this morning..."
 duration: 00:03:27
 length: 207
-datetime: Wed, 12 Oct 2022 12:16:00 +0000
+datetime: Wed, 12 Oct 2022 15:16:00 +0000
 tags: podcast
 guid: real-driver-behind-boes-high-risk-game-chicken-markets-0
-order: 1
+order: 0
 ---
 ...this 3-D Chess game being played by Bailey to force the death of the Truss / Kwarteng budget is somewhat confirmed by the price action in UK bonds and cable this morning...
 

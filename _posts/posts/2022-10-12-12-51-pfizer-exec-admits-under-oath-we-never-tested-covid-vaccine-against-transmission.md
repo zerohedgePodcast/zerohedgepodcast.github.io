@@ -9,7 +9,7 @@ length: 304
 datetime: Wed, 12 Oct 2022 12:51:00 +0000
 tags: podcast
 guid: pfizer-exec-admits-under-oath-we-never-tested-covid-vaccine-against-transmission-0
-order: 2
+order: 1
 ---
 &quot;Get vaccinated for others&quot; was always a lie...
 
