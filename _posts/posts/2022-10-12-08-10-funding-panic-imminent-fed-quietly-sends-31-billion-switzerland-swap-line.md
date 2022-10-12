@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Funding Panic Imminent? Fed Quietly Sends $3.1 Billion To Switzerland Via Swap Line"
-audio: funding-panic-imminent-fed-quietly-sends-31-billion-switzerland-swap-line-0
+audio: funding-panic-imminent-fed-quietly-sends-31-billion-switzerland-swap-line-1
 category: markets
 desc: "&quot;When the central bank steps on the brakes, something goes through the windshield.&quot;"
 duration: 00:04:16
 length: 256
-datetime: Tue, 11 Oct 2022 19:34:00 +0000
+datetime: Wed, 12 Oct 2022 08:10:00 +0000
 tags: podcast
 guid: funding-panic-imminent-fed-quietly-sends-31-billion-switzerland-swap-line-0
-order: 2
+order: 0
 ---
 &quot;When the central bank steps on the brakes, something goes through the windshield.&quot;
 

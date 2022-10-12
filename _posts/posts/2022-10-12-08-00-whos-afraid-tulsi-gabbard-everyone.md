@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Who's Afraid Of Tulsi Gabbard? Everyone..."
-audio: whos-afraid-tulsi-gabbard-everyone-0
+audio: whos-afraid-tulsi-gabbard-everyone-1
 category: political
 desc: "When you look at the landscape for 2024 who do the Democrats have who aren't completely loony tunes? "
 duration: 00:11:45
 length: 705
-datetime: Wed, 12 Oct 2022 01:00:00 +0000
+datetime: Wed, 12 Oct 2022 08:00:00 +0000
 tags: podcast
 guid: whos-afraid-tulsi-gabbard-everyone-0
 order: 0

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Tulsi Gabbard Abandons 'Elitist, Woke, Anti-White' Democratic Party"
-audio: tulsi-gabbard-abandons-elitist-woke-anti-white-democratic-party-0
+audio: tulsi-gabbard-abandons-elitist-woke-anti-white-democratic-party-1
 category: political
 desc: "&quot;...can no longer stomach the direction that so-called woke Democratic Party ideologues are taking our country...&quot;"
 duration: 00:02:07
 length: 127
-datetime: Tue, 11 Oct 2022 14:10:00 +0000
+datetime: Wed, 12 Oct 2022 07:10:00 +0000
 tags: podcast
 guid: tulsi-gabbard-abandons-elitist-woke-anti-white-democratic-party-0
-order: 1
+order: 0
 ---
 &quot;...can no longer stomach the direction that so-called woke Democratic Party ideologues are taking our country...&quot;
 

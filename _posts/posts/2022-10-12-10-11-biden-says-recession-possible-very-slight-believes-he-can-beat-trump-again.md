@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Biden Says Recession Possible But &quot;Very Slight&quot;, Believes He Can Beat Trump Again"
-audio: biden-says-recession-possible-very-slight-believes-he-can-beat-trump-again-0
+audio: biden-says-recession-possible-very-slight-believes-he-can-beat-trump-again-1
 category: political
 desc: "&quot;I don't think there will be a recession. If it is, it'll be a very slight recession. That is, we'll move down slightly,&quot;"
 duration: 00:09:16
 length: 556
-datetime: Wed, 12 Oct 2022 03:48:00 +0000
+datetime: Wed, 12 Oct 2022 10:11:00 +0000
 tags: podcast
 guid: biden-says-recession-possible-very-slight-believes-he-can-beat-trump-again-0
 order: 0
