@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Horrible&quot;... &quot;Brutal&quot;...&quot;A Disaster For Democrats&quot;: A Shocked Wall Street Reacts To Today's CPI Nuclear Bomb"
-audio: horrible-brutala-disaster-democrats-shocked-wall-street-reacts-todays-cpi-nuclear-bomb-0
+audio: horrible-brutala-disaster-democrats-shocked-wall-street-reacts-todays-cpi-nuclear-bomb-1
 category: markets
 desc: "&quot;Today's is the final CPI report ahead of the Nov. 8 midterm election. You can bet that Republicans will be hitting this hard -- worst inflation in four decades.&quot; "
 duration: 00:05:22
 length: 322
-datetime: Thu, 13 Oct 2022 13:38:00 +0000
+datetime: Thu, 13 Oct 2022 17:11:00 +0000
 tags: podcast
 guid: horrible-brutala-disaster-democrats-shocked-wall-street-reacts-todays-cpi-nuclear-bomb-0
-order: 1
+order: 0
 ---
 &quot;Today's is the final CPI report ahead of the Nov. 8 midterm election. You can bet that Republicans will be hitting this hard -- worst inflation in four decades.&quot; 
 
