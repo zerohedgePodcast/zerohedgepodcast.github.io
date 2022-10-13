@@ -9,7 +9,7 @@ length: 322
 datetime: Thu, 13 Oct 2022 13:38:00 +0000
 tags: podcast
 guid: horrible-brutala-disaster-democrats-shocked-wall-street-reacts-todays-cpi-nuclear-bomb-0
-order: 2
+order: 1
 ---
 &quot;Today's is the final CPI report ahead of the Nov. 8 midterm election. You can bet that Republicans will be hitting this hard -- worst inflation in four decades.&quot; 
 

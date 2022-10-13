@@ -9,7 +9,7 @@ length: 263
 datetime: Thu, 13 Oct 2022 16:45:00 +0000
 tags: podcast
 guid: aoc-humiliated-town-hall-viral-clip-why-cant-you-be-more-tulsi-gabbard-0
-order: 0
+order: 2
 ---
 &quot;You ran as an outsider, yet you've been voting to start this war in Ukraine. You're voting to start a third nuclear war with Russia &amp; China.&quot;
 

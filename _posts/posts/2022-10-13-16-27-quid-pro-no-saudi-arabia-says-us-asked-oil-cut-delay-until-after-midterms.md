@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Quid Pro No; Saudi Arabia Says US Asked For Oil-Cut Delay Until After Midterms"
-audio: quid-pro-no-saudi-arabia-says-us-asked-oil-cut-delay-until-after-midterms-0
+title: "White House Hits Back Against Saudi Claims That Oil Cuts 'Purely Economic'"
+audio: quid-pro-no-saudi-arabia-says-us-asked-oil-cut-delay-until-after-midterms-1
 category: geopolitical
 desc: "&quot;All economic analyses indicate that postponing the OPEC+ decision for a month, according to what has been suggested, would have had negative economic consequences...&quot;"
-duration: 00:04:55
-length: 295
-datetime: Thu, 13 Oct 2022 13:27:00 +0000
+duration: 00:05:27
+length: 327
+datetime: Thu, 13 Oct 2022 16:27:00 +0000
 tags: podcast
 guid: quid-pro-no-saudi-arabia-says-us-asked-oil-cut-delay-until-after-midterms-0
-order: 1
+order: 0
 ---
 &quot;All economic analyses indicate that postponing the OPEC+ decision for a month, according to what has been suggested, would have had negative economic consequences...&quot;
 
