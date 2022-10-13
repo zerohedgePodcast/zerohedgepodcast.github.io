@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "CPI Preview: Another Market Freakout On Deck?"
-audio: cpi-preview-another-market-freakout-deck-0
+audio: cpi-preview-another-market-freakout-deck-1
 category: markets
 desc: "Monthly gains in core prices are still strong by historical standards and are expected to remain above central bank comfort zones into early next year."
 duration: 00:12:43
 length: 763
-datetime: Thu, 13 Oct 2022 02:25:00 +0000
+datetime: Thu, 13 Oct 2022 10:22:00 +0000
 tags: podcast
 guid: cpi-preview-another-market-freakout-deck-0
 order: 0
