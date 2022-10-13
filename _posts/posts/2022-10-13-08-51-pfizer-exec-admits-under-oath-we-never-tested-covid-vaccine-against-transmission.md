@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Pfizer Exec Admits Under Oath: 'We Never Tested COVID Vaccine Against Transmission'"
-audio: pfizer-exec-admits-under-oath-we-never-tested-covid-vaccine-against-transmission-0
+audio: pfizer-exec-admits-under-oath-we-never-tested-covid-vaccine-against-transmission-1
 category: covid-19
 desc: "&quot;Get vaccinated for others&quot; was always a lie..."
-duration: 00:05:04
-length: 304
-datetime: Wed, 12 Oct 2022 12:51:00 +0000
+duration: 00:04:57
+length: 297
+datetime: Thu, 13 Oct 2022 08:51:00 +0000
 tags: podcast
 guid: pfizer-exec-admits-under-oath-we-never-tested-covid-vaccine-against-transmission-0
-order: 1
+order: 0
 ---
 &quot;Get vaccinated for others&quot; was always a lie...
 
