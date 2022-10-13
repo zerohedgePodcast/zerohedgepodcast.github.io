@@ -9,7 +9,7 @@ length: 211
 datetime: Thu, 13 Oct 2022 12:38:00 +0000
 tags: podcast
 guid: us-core-cpi-surges-40-year-highs-0
-order: 1
+order: 0
 ---
 ...real wages are lower for Americans for the 18th straight month...
 

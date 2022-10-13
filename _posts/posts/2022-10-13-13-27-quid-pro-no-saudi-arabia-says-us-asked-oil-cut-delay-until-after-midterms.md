@@ -9,7 +9,7 @@ length: 295
 datetime: Thu, 13 Oct 2022 13:27:00 +0000
 tags: podcast
 guid: quid-pro-no-saudi-arabia-says-us-asked-oil-cut-delay-until-after-midterms-0
-order: 2
+order: 1
 ---
 &quot;All economic analyses indicate that postponing the OPEC+ decision for a month, according to what has been suggested, would have had negative economic consequences...&quot;
 
