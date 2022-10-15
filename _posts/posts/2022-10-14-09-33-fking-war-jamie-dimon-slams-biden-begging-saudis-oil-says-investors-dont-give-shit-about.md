@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "&quot;This Is A F**king War&quot;: Jamie Dimon Slams Biden Begging Saudis For Oil, Says Investors &quot;Don't Give A Shit&quot; About ESG"
-audio: fking-war-jamie-dimon-slams-biden-begging-saudis-oil-says-investors-dont-give-shit-about-0
+title: "&quot;This Is A F**king War&quot;: Jamie Dimon Slams Biden Energy Policy, Says Investors &quot;Don't Give A Shit&quot; About ESG"
+audio: fking-war-jamie-dimon-slams-biden-begging-saudis-oil-says-investors-dont-give-shit-about-1
 category: markets
 desc: "The world needs American diplomacy and neither Trump or Biden can lead the USA."
-duration: 00:03:12
-length: 192
-datetime: Thu, 13 Oct 2022 21:20:00 +0000
+duration: 00:03:09
+length: 189
+datetime: Fri, 14 Oct 2022 09:33:00 +0000
 tags: podcast
 guid: fking-war-jamie-dimon-slams-biden-begging-saudis-oil-says-investors-dont-give-shit-about-0
 order: 0
