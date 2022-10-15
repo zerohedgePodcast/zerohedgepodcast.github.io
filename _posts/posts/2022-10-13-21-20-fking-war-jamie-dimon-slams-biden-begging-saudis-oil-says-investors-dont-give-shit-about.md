@@ -9,7 +9,7 @@ length: 192
 datetime: Thu, 13 Oct 2022 21:20:00 +0000
 tags: podcast
 guid: fking-war-jamie-dimon-slams-biden-begging-saudis-oil-says-investors-dont-give-shit-about-0
-order: 1
+order: 0
 ---
 The world needs American diplomacy and neither Trump or Biden can lead the USA.
 
