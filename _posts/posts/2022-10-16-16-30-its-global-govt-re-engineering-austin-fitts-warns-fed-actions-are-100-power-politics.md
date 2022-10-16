@@ -9,7 +9,7 @@ length: 223
 datetime: Sun, 16 Oct 2022 16:30:00 +0000
 tags: podcast
 guid: its-global-govt-re-engineering-austin-fitts-warns-fed-actions-are-100-power-politics-0
-order: 0
+order: 2
 ---
 &quot;...they are going to keep raising interest rates. If you are Fed, you are playing a global game, and what you have to do is protect the reserve currency status...&quot;
 
