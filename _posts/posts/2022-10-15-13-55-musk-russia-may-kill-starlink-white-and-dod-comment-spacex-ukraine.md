@@ -9,7 +9,7 @@ length: 248
 datetime: Sat, 15 Oct 2022 13:55:00 +0000
 tags: podcast
 guid: musk-russia-may-kill-starlink-white-and-dod-comment-spacex-ukraine-0
-order: 1
+order: 0
 ---
 &quot;If anyone else wants this job, please be my guest &quot; 
 
