@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Kiev Pummeled By 'Kamikaze Drone' Strikes"
-audio: kiev-pummeled-kamikaze-drone-strikes-0
+audio: kiev-pummeled-kamikaze-drone-strikes-1
 category: geopolitical
 desc: "Ukraine demands from West &quot;more air defense systems and as soon as possible.&quot;"
 duration: 00:03:08
 length: 188
-datetime: Mon, 17 Oct 2022 12:40:00 +0000
+datetime: Mon, 17 Oct 2022 17:22:00 +0000
 tags: podcast
 guid: kiev-pummeled-kamikaze-drone-strikes-0
-order: 1
+order: 0
 ---
 Ukraine demands from West &quot;more air defense systems and as soon as possible.&quot;
 

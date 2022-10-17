@@ -9,7 +9,7 @@ length: 424
 datetime: Mon, 17 Oct 2022 15:20:00 +0000
 tags: podcast
 guid: he-was-not-arrested-cnn-msnbc-ex-bosses-struggle-justify-burying-hunter-biden-story-0
-order: 2
+order: 1
 ---
 ...but stories rebutting the laptop allegations were considered important news on the networks...
 
