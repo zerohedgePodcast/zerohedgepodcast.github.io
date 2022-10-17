@@ -9,7 +9,7 @@ length: 163
 datetime: Sun, 16 Oct 2022 15:00:00 +0000
 tags: podcast
 guid: obama-calls-democrats-buzzkills-who-make-people-walk-eggshells-0
-order: 1
+order: 0
 ---
 &quot;That's probably not something that in the minds of most voters overrides their basic interests...&quot;
 
