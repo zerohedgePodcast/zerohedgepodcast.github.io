@@ -9,7 +9,7 @@ length: 188
 datetime: Mon, 17 Oct 2022 12:40:00 +0000
 tags: podcast
 guid: kiev-pummeled-kamikaze-drone-strikes-0
-order: 2
+order: 1
 ---
 Ukraine demands from West &quot;more air defense systems and as soon as possible.&quot;
 

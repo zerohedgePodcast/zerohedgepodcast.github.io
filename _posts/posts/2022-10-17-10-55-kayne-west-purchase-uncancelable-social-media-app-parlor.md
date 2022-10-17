@@ -9,7 +9,7 @@ length: 102
 datetime: Mon, 17 Oct 2022 10:55:00 +0000
 tags: podcast
 guid: kayne-west-purchase-uncancelable-social-media-app-parlor-0
-order: 1
+order: 0
 ---
 &quot;The proposed acquisition will assure Parler a future role in creating an uncancelable ecosystem where all voices are welcome.&quot; 
 
