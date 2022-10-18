@@ -9,7 +9,7 @@ length: 399
 datetime: Tue, 18 Oct 2022 20:35:00 +0000
 tags: podcast
 guid: edva-jury-igor-danchenko-not-guilty-all-counts-0
-order: 0
+order: 2
 ---
 And - what we learned from the trial
 
