@@ -9,7 +9,7 @@ length: 119
 datetime: Tue, 18 Oct 2022 11:42:00 +0000
 tags: podcast
 guid: first-images-blown-nord-stream-reveals-50-meter-missing-section-pipeline-0
-order: 1
+order: 0
 ---
 &quot;A deep grave in the seabed where the gas pipeline used to be.&quot; 
 
