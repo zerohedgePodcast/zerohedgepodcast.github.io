@@ -9,7 +9,7 @@ length: 136
 datetime: Wed, 19 Oct 2022 00:53:00 +0000
 tags: podcast
 guid: gps-signal-mysteriously-disrupted-around-dallas-airports-0
-order: 2
+order: 0
 ---
 FAA investigating for &quot;possible jamming of the global-positioning system.&quot; 
 
