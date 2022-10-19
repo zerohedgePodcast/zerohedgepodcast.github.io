@@ -9,7 +9,7 @@ length: 276
 datetime: Wed, 19 Oct 2022 00:00:00 +0000
 tags: podcast
 guid: biden-unveil-cunning-new-plan-lower-gas-prices-drain-spr-even-more-0
-order: 2
+order: 1
 ---
 ...the problem is not a lack of crude oil but a lack of refining capacity.
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "GPS Signal Mysteriously Disrupted Around Dallas Airports"
-audio: gps-signal-mysteriously-disrupted-around-dallas-airports-0
+title: "Mysterious GPS Disruptions Spread In Texas Near Fort Hood "
+audio: gps-signal-mysteriously-disrupted-around-dallas-airports-1
 category: geopolitical
 desc: "FAA investigating for &quot;possible jamming of the global-positioning system.&quot; "
-duration: 00:01:41
-length: 101
-datetime: Tue, 18 Oct 2022 17:39:00 +0000
+duration: 00:02:16
+length: 136
+datetime: Wed, 19 Oct 2022 00:53:00 +0000
 tags: podcast
 guid: gps-signal-mysteriously-disrupted-around-dallas-airports-0
-order: 1
+order: 2
 ---
 FAA investigating for &quot;possible jamming of the global-positioning system.&quot; 
 
