@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Supreme Court Asked To Block Bailout As Applications Open For Biden's Billion-Dollar Student Loan Forgiveness Program"
-audio: applications-open-bidens-billion-dollar-student-loan-forgiveness-program-despite-mounting-0
+title: "Supreme Court Refuses To Block Biden's Billion-Dollar Student Loan Forgiveness Scheme"
+audio: applications-open-bidens-billion-dollar-student-loan-forgiveness-program-despite-mounting-1
 category: political
-desc: "How many votes is that worth?"
-duration: 00:03:48
-length: 228
-datetime: Wed, 19 Oct 2022 22:45:00 +0000
+desc: "Giving no explanation..."
+duration: 00:04:31
+length: 271
+datetime: Thu, 20 Oct 2022 21:09:00 +0000
 tags: podcast
 guid: applications-open-bidens-billion-dollar-student-loan-forgiveness-program-despite-mounting-0
 order: 0
 ---
-How many votes is that worth?
+Giving no explanation...
 
 Link: [https://www.zerohedge.com/political/applications-open-bidens-billion-dollar-student-loan-forgiveness-program-despite-mounting](https://www.zerohedge.com/political/applications-open-bidens-billion-dollar-student-loan-forgiveness-program-despite-mounting)
 
