@@ -9,7 +9,7 @@ length: 629
 datetime: Thu, 20 Oct 2022 02:05:00 +0000
 tags: podcast
 guid: forget-oil-real-crisis-diesel-inventories-us-has-just-25-days-left-0
-order: 2
+order: 0
 ---
 &quot;The timing of today's diesel crisis couldn't be worse.&quot;
 

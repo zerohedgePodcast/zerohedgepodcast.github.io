@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;We Peaked A Little Early&quot; - Democrats' Hope Turning To Despair"
-audio: we-peaked-little-early-democrats-hope-turning-despair-0
+audio: we-peaked-little-early-democrats-hope-turning-despair-1
 category: political
 desc: "&quot;I think it's clear Republicans have seized the upper hand,&quot; says Democratic operative"
 duration: 00:03:43
 length: 223
-datetime: Wed, 19 Oct 2022 17:40:00 +0000
+datetime: Thu, 20 Oct 2022 08:11:00 +0000
 tags: podcast
 guid: we-peaked-little-early-democrats-hope-turning-despair-0
-order: 1
+order: 0
 ---
 &quot;I think it's clear Republicans have seized the upper hand,&quot; says Democratic operative
 
