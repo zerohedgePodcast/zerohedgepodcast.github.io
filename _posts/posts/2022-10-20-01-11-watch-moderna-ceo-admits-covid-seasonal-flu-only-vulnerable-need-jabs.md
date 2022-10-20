@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: Moderna CEO Admits COVID Is Like Seasonal Flu, Only Vulnerable Need Jabs"
-audio: watch-moderna-ceo-admits-covid-seasonal-flu-only-vulnerable-need-jabs-0
+audio: watch-moderna-ceo-admits-covid-seasonal-flu-only-vulnerable-need-jabs-1
 category: covid-19
 desc: "...that's not what the CDC says!"
 duration: 00:01:58
 length: 118
-datetime: Wed, 19 Oct 2022 18:06:00 +0000
+datetime: Thu, 20 Oct 2022 01:11:00 +0000
 tags: podcast
 guid: watch-moderna-ceo-admits-covid-seasonal-flu-only-vulnerable-need-jabs-0
-order: 2
+order: 0
 ---
 ...that's not what the CDC says!
 
