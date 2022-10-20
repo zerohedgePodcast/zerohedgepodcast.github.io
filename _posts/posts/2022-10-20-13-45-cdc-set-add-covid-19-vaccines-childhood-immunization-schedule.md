@@ -9,7 +9,7 @@ length: 273
 datetime: Thu, 20 Oct 2022 13:45:00 +0000
 tags: podcast
 guid: cdc-set-add-covid-19-vaccines-childhood-immunization-schedule-0
-order: 2
+order: 1
 ---
 &quot;Appalling...&quot;
 
