@@ -9,7 +9,7 @@ length: 127
 datetime: Thu, 20 Oct 2022 22:00:00 +0000
 tags: podcast
 guid: musk-planning-fire-75-twitter-staff-wapo-0
-order: 1
+order: 0
 ---
 &quot;unimaginable...&quot;
 
