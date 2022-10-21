@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "CDC Set To Add COVID-19 Vaccines To Childhood Immunization Schedule"
-audio: cdc-set-add-covid-19-vaccines-childhood-immunization-schedule-0
+title: "CDC Votes To Add COVID-19 Vaccines To Childhood Immunization Schedule"
+audio: cdc-set-add-covid-19-vaccines-childhood-immunization-schedule-1
 category: covid-19
 desc: "&quot;Appalling...&quot;"
-duration: 00:04:33
-length: 273
-datetime: Thu, 20 Oct 2022 13:45:00 +0000
+duration: 00:05:21
+length: 321
+datetime: Fri, 21 Oct 2022 02:45:00 +0000
 tags: podcast
 guid: cdc-set-add-covid-19-vaccines-childhood-immunization-schedule-0
-order: 1
+order: 0
 ---
 &quot;Appalling...&quot;
 
