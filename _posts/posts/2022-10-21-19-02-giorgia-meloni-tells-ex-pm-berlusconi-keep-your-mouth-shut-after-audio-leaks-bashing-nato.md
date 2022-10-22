@@ -9,7 +9,7 @@ length: 188
 datetime: Fri, 21 Oct 2022 19:02:00 +0000
 tags: podcast
 guid: giorgia-meloni-tells-ex-pm-berlusconi-keep-your-mouth-shut-after-audio-leaks-bashing-nato-0
-order: 1
+order: 0
 ---
 Berlusconi can be heard blaming Zelensky for Russia's invasion...
 
