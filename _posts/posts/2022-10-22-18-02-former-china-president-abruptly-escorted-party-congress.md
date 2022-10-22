@@ -9,7 +9,7 @@ length: 227
 datetime: Sat, 22 Oct 2022 18:02:00 +0000
 tags: podcast
 guid: former-china-president-abruptly-escorted-party-congress-0
-order: 0
+order: 1
 ---
 The incident has gone unmentioned in Chinese state media coverage of the event...
 
