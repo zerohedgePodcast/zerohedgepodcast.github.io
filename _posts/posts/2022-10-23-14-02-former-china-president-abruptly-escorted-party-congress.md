@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Former China President Abruptly Escorted From Party Congress"
-audio: former-china-president-abruptly-escorted-party-congress-0
+audio: former-china-president-abruptly-escorted-party-congress-1
 category: geopolitical
 desc: "The incident has gone unmentioned in Chinese state media coverage of the event..."
-duration: 00:03:47
-length: 227
-datetime: Sat, 22 Oct 2022 18:02:00 +0000
+duration: 00:03:36
+length: 216
+datetime: Sun, 23 Oct 2022 14:02:00 +0000
 tags: podcast
 guid: former-china-president-abruptly-escorted-party-congress-0
-order: 1
+order: 0
 ---
 The incident has gone unmentioned in Chinese state media coverage of the event...
 
