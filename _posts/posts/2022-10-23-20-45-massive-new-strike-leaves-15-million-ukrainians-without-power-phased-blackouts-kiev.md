@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "'Massive New Strikes' Leave 1.5 Million Ukrainians Without Power, Phased Blackouts In Kiev"
-audio: massive-new-strike-leaves-15-million-ukrainians-without-power-phased-blackouts-kiev-0
+title: "Russia Warns Of 'Dirty Bomb' False Flag Plot In Flurry Of Rare Calls To Western Leaders"
+audio: massive-new-strike-leaves-15-million-ukrainians-without-power-phased-blackouts-kiev-1
 category: geopolitical
-desc: "Saturday saw 40 cruise missiles &amp; dozens of drones launched against key infrastructure..."
-duration: 00:03:17
-length: 197
-datetime: Sun, 23 Oct 2022 16:00:00 +0000
+desc: "France warns allies that conflict is &quot;trending towards uncontrollable escalation&quot;..."
+duration: 00:05:50
+length: 350
+datetime: Sun, 23 Oct 2022 20:45:00 +0000
 tags: podcast
 guid: massive-new-strike-leaves-15-million-ukrainians-without-power-phased-blackouts-kiev-0
 order: 1
 ---
-Saturday saw 40 cruise missiles &amp; dozens of drones launched against key infrastructure...
+France warns allies that conflict is &quot;trending towards uncontrollable escalation&quot;...
 
 Link: [https://www.zerohedge.com/geopolitical/massive-new-strike-leaves-15-million-ukrainians-without-power-phased-blackouts-kiev](https://www.zerohedge.com/geopolitical/massive-new-strike-leaves-15-million-ukrainians-without-power-phased-blackouts-kiev)
 
