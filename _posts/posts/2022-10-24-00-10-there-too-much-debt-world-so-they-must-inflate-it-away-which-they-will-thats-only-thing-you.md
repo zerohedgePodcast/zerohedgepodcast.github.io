@@ -9,7 +9,7 @@ length: 271
 datetime: Mon, 24 Oct 2022 00:10:00 +0000
 tags: podcast
 guid: there-too-much-debt-world-so-they-must-inflate-it-away-which-they-will-thats-only-thing-you-0
-order: 0
+order: 1
 ---
 &quot;Before this cycle is over, investors will discover things they believed to be true about infrastructure, private equity, and a variety of illiquid investments are also just assumptions.&quot;
 
