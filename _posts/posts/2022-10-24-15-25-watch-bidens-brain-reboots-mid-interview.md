@@ -9,7 +9,7 @@ length: 168
 datetime: Mon, 24 Oct 2022 15:25:00 +0000
 tags: podcast
 guid: watch-bidens-brain-reboots-mid-interview-0
-order: 0
+order: 1
 ---
 Ctrl-Alt-Sleep...
 
