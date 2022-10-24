@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: Biden's Brain Reboots Mid-Interview"
-audio: watch-bidens-brain-reboots-mid-interview-0
+audio: watch-bidens-brain-reboots-mid-interview-1
 category: political
 desc: "Ctrl-Alt-Sleep..."
 duration: 00:02:48
 length: 168
-datetime: Mon, 24 Oct 2022 15:25:00 +0000
+datetime: Mon, 24 Oct 2022 20:25:00 +0000
 tags: podcast
 guid: watch-bidens-brain-reboots-mid-interview-0
-order: 1
+order: 0
 ---
 Ctrl-Alt-Sleep...
 
