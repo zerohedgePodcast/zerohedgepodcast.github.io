@@ -9,7 +9,7 @@ length: 201
 datetime: Tue, 25 Oct 2022 12:05:00 +0000
 tags: podcast
 guid: adidas-shares-slump-reported-kanye-west-partnership-end-morgan-stanley-downgrade-0
-order: 1
+order: 0
 ---
 After a thorough review, the company has taken the decision to terminate the partnership with Ye immediately, end production of Yeezy branded products and stop all payments to Ye and his companies.
 
