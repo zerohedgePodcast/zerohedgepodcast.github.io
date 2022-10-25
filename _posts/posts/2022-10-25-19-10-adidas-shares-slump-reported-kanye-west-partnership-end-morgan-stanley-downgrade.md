@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Adidas Terminates Kanye West Partnership, Will &quot;End Production Of Yeezy Branded Products&quot;"
-audio: adidas-shares-slump-reported-kanye-west-partnership-end-morgan-stanley-downgrade-0
+title: "Adidas Terminates Kanye West Partnership; GAP Removes Yeezy Shoes From Stores"
+audio: adidas-shares-slump-reported-kanye-west-partnership-end-morgan-stanley-downgrade-1
 category: markets
-desc: "After a thorough review, the company has taken the decision to terminate the partnership with Ye immediately, end production of Yeezy branded products and stop all payments to Ye and his companies."
-duration: 00:03:21
-length: 201
-datetime: Tue, 25 Oct 2022 12:05:00 +0000
+desc: "&quot;We are taking immediate steps to remove Yeezy Gap product from our stores and we have shut down YeezyGap.com.&quot;"
+duration: 00:04:13
+length: 253
+datetime: Tue, 25 Oct 2022 19:10:00 +0000
 tags: podcast
 guid: adidas-shares-slump-reported-kanye-west-partnership-end-morgan-stanley-downgrade-0
 order: 0
 ---
-After a thorough review, the company has taken the decision to terminate the partnership with Ye immediately, end production of Yeezy branded products and stop all payments to Ye and his companies.
+&quot;We are taking immediate steps to remove Yeezy Gap product from our stores and we have shut down YeezyGap.com.&quot;
 
 Link: [https://www.zerohedge.com/markets/adidas-shares-slump-reported-kanye-west-partnership-end-morgan-stanley-downgrade](https://www.zerohedge.com/markets/adidas-shares-slump-reported-kanye-west-partnership-end-morgan-stanley-downgrade)
 
