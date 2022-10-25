@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "MSFT Beats Top- &amp; Bottom-Line; But Shares Slide On Rising Cloud Costs, Margin Pressure"
-audio: msft-beats-top-bottom-line-shares-slide-rising-cloud-costs-margin-pressure-0
+title: "Microsoft Extends Losses On Cloud Margins, Weak Q2 Guidance"
+audio: msft-beats-top-bottom-line-shares-slide-rising-cloud-costs-margin-pressure-1
 category: technology
-desc: "...gross margin percentage decreased slightly... primarily due to higher energy costs."
-duration: 00:02:24
-length: 144
-datetime: Tue, 25 Oct 2022 20:16:00 +0000
+desc: "&quot;And it's not just for the winter...&quot;"
+duration: 00:03:10
+length: 190
+datetime: Tue, 25 Oct 2022 22:09:00 +0000
 tags: podcast
 guid: msft-beats-top-bottom-line-shares-slide-rising-cloud-costs-margin-pressure-0
 order: 0
 ---
-...gross margin percentage decreased slightly... primarily due to higher energy costs.
+&quot;And it's not just for the winter...&quot;
 
 Link: [https://www.zerohedge.com/technology/msft-beats-top-bottom-line-shares-slide-rising-cloud-costs-margin-pressure](https://www.zerohedge.com/technology/msft-beats-top-bottom-line-shares-slide-rising-cloud-costs-margin-pressure)
 
