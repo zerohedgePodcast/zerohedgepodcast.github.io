@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "House Dems Walk Back Letter To Biden Urging Ukraine Negotiations After White House Reaction"
-audio: house-dems-walk-back-letter-biden-urging-ukraine-negotiations-after-white-house-response-0
+title: "&quot;Progressive&quot; Democrats Formally Retract Call For Diplomacy As Ukraine War Hawks Steamroll Dissent"
+audio: house-dems-walk-back-letter-biden-urging-ukraine-negotiations-after-white-house-response-1
 category: political
-desc: "Progressives including AOC &quot;seem to be more about vibes than the actual policy, which makes the pre-election timing particularly curious.&quot;"
-duration: 00:04:06
-length: 246
-datetime: Tue, 25 Oct 2022 12:50:00 +0000
+desc: "Fellow Dems &quot;furious&quot; over the letter..."
+duration: 00:06:59
+length: 419
+datetime: Tue, 25 Oct 2022 17:18:00 +0000
 tags: podcast
 guid: house-dems-walk-back-letter-biden-urging-ukraine-negotiations-after-white-house-response-0
-order: 0
+order: 1
 ---
-Progressives including AOC &quot;seem to be more about vibes than the actual policy, which makes the pre-election timing particularly curious.&quot;
+Fellow Dems &quot;furious&quot; over the letter...
 
 Link: [https://www.zerohedge.com/political/house-dems-walk-back-letter-biden-urging-ukraine-negotiations-after-white-house-response](https://www.zerohedge.com/political/house-dems-walk-back-letter-biden-urging-ukraine-negotiations-after-white-house-response)
 

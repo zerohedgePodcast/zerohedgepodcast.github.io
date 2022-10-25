@@ -9,7 +9,7 @@ length: 183
 datetime: Tue, 25 Oct 2022 14:50:00 +0000
 tags: podcast
 guid: twitter-employees-beg-reckless-musk-not-fire-them-demand-dignity-0
-order: 1
+order: 0
 ---
 The 'everyone gets a trophy' kids are not happy.
 
