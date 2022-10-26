@@ -9,7 +9,7 @@ length: 419
 datetime: Tue, 25 Oct 2022 17:18:00 +0000
 tags: podcast
 guid: house-dems-walk-back-letter-biden-urging-ukraine-negotiations-after-white-house-response-0
-order: 1
+order: 0
 ---
 Fellow Dems &quot;furious&quot; over the letter...
 
