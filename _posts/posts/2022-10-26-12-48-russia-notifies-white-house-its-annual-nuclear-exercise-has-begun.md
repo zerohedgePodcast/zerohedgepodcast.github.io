@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Russia Notifies US Its Annual Nuclear Exercise Has Begun"
-audio: russia-notifies-white-house-its-annual-nuclear-exercise-has-begun-0
+title: "Putin Oversees 'Successful' Annual Nuclear Drills"
+audio: russia-notifies-white-house-its-annual-nuclear-exercise-has-begun-1
 category: geopolitical
-desc: "Of course, the timing of both sides holding nuke &quot;dry run&quot; drills couldn't be worse..."
-duration: 00:02:19
-length: 139
-datetime: Wed, 26 Oct 2022 09:45:00 +0000
+desc: "Kremlin says exercise was to &quot;prepare for possible enemy nuclear attack against Russia.&quot;"
+duration: 00:03:12
+length: 192
+datetime: Wed, 26 Oct 2022 12:48:00 +0000
 tags: podcast
 guid: russia-notifies-white-house-its-annual-nuclear-exercise-has-begun-0
 order: 0
 ---
-Of course, the timing of both sides holding nuke &quot;dry run&quot; drills couldn't be worse...
+Kremlin says exercise was to &quot;prepare for possible enemy nuclear attack against Russia.&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/russia-notifies-white-house-its-annual-nuclear-exercise-has-begun](https://www.zerohedge.com/geopolitical/russia-notifies-white-house-its-annual-nuclear-exercise-has-begun)
 
