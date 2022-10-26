@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Wealthy Chinese Activate Financial &quot;Escape Plans&quot; Terrified Of Xi's Coming Reign Of Terror, And Why This Is Good News For Bitcoin"
-audio: wealthy-chinese-execute-fire-escape-plans-after-xi-secures-third-term-0
+audio: wealthy-chinese-execute-fire-escape-plans-after-xi-secures-third-term-1
 category: geopolitical
 desc: "&quot;The family motto has always been: 'Keep a fast junk in the harbour with gold bars and a second set of papers'. "
 duration: 00:08:52
 length: 532
-datetime: Wed, 26 Oct 2022 02:25:00 +0000
+datetime: Wed, 26 Oct 2022 13:11:00 +0000
 tags: podcast
 guid: wealthy-chinese-execute-fire-escape-plans-after-xi-secures-third-term-0
-order: 2
+order: 0
 ---
 &quot;The family motto has always been: 'Keep a fast junk in the harbour with gold bars and a second set of papers'. 
 
