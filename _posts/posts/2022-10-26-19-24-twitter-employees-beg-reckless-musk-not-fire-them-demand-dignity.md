@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Musk Tells Bankers He Plans To Close Twitter Deal On Friday"
-audio: twitter-employees-beg-reckless-musk-not-fire-them-demand-dignity-1
+title: "'Let That Sink In' - Elon Musk Barges Into Twitter HQ Ahead Of Deal Close"
+audio: twitter-employees-beg-reckless-musk-not-fire-them-demand-dignity-2
 category: political
-desc: "The 'everyone gets a trophy' kids are not happy..."
-duration: 00:03:28
-length: 208
-datetime: Tue, 25 Oct 2022 17:55:00 +0000
+desc: "&quot;Entering Twitter HQ&quot;"
+duration: 00:04:12
+length: 252
+datetime: Wed, 26 Oct 2022 19:24:00 +0000
 tags: podcast
 guid: twitter-employees-beg-reckless-musk-not-fire-them-demand-dignity-0
-order: 0
+order: 2
 ---
-The 'everyone gets a trophy' kids are not happy...
+&quot;Entering Twitter HQ&quot;
 
 Link: [https://www.zerohedge.com/political/twitter-employees-beg-reckless-musk-not-fire-them-demand-dignity](https://www.zerohedge.com/political/twitter-employees-beg-reckless-musk-not-fire-them-demand-dignity)
 
