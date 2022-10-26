@@ -9,7 +9,7 @@ length: 158
 datetime: Wed, 26 Oct 2022 12:54:00 +0000
 tags: podcast
 guid: us-citizens-were-tracked-secret-covid-decree-violation-scores-0
-order: 0
+order: 1
 ---
 Data was used to help Democrats win elections...
 

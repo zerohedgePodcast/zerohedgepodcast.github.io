@@ -9,7 +9,7 @@ length: 282
 datetime: Wed, 26 Oct 2022 01:46:00 +0000
 tags: podcast
 guid: draft-do-not-publish-oz-odds-winning-pa-soar-after-historic-fetterman-debate-meltdown-0
-order: 1
+order: 0
 ---
 Recovering from his stroke, Fetterman's answers ranged between somewhat inept and completely incomprehensible....
 

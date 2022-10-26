@@ -9,7 +9,7 @@ length: 289
 datetime: Wed, 26 Oct 2022 13:30:00 +0000
 tags: podcast
 guid: roubini-warns-imminent-dollar-crash-fed-going-wimp-out-inflation-fight-0
-order: 0
+order: 2
 ---
 &quot;...if central banks are going to blink and wimp out, gold is going to rise...&quot;
 
