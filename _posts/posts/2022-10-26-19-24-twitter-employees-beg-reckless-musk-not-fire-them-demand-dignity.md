@@ -9,7 +9,7 @@ length: 252
 datetime: Wed, 26 Oct 2022 19:24:00 +0000
 tags: podcast
 guid: twitter-employees-beg-reckless-musk-not-fire-them-demand-dignity-0
-order: 2
+order: 1
 ---
 &quot;Entering Twitter HQ&quot;
 

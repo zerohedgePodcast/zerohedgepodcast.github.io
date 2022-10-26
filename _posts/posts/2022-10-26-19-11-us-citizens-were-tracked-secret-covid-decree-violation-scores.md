@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Were US Citizens Tracked Via Secret 'COVID Decree Violation' Scores?"
-audio: us-citizens-were-tracked-secret-covid-decree-violation-scores-0
+audio: us-citizens-were-tracked-secret-covid-decree-violation-scores-1
 category: political
 desc: "Data was used to help Democrats win elections..."
 duration: 00:02:38
 length: 158
-datetime: Wed, 26 Oct 2022 12:54:00 +0000
+datetime: Wed, 26 Oct 2022 19:11:00 +0000
 tags: podcast
 guid: us-citizens-were-tracked-secret-covid-decree-violation-scores-0
-order: 1
+order: 0
 ---
 Data was used to help Democrats win elections...
 
