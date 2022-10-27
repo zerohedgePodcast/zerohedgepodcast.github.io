@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Putin Says Russia Will Never Be &quot;Wiped Off Geopolitical Map&quot; As West Plays &quot;Dirty Game&quot; In Ukraine"
-audio: putin-says-russia-will-never-be-wiped-geopolitical-map-west-plays-dirty-game-ukraine-0
+title: "Putin Blasts West's Nuclear Narrative: &quot;It Doesn't Make Sense&quot; To Use Nukes In Ukraine"
+audio: putin-says-russia-will-never-be-wiped-geopolitical-map-west-plays-dirty-game-ukraine-1
 category: geopolitical
-desc: "&quot;Power over the world is what the West has put at stake in the game it plays. This game is certainly dangerous, bloody and I would call it dirty.&quot;"
-duration: 00:04:12
-length: 252
-datetime: Thu, 27 Oct 2022 15:57:00 +0000
+desc: "Putin: &quot;we never said anything proactively&quot; about their possible use... "
+duration: 00:06:47
+length: 407
+datetime: Thu, 27 Oct 2022 19:34:00 +0000
 tags: podcast
 guid: putin-says-russia-will-never-be-wiped-geopolitical-map-west-plays-dirty-game-ukraine-0
 order: 0
 ---
-&quot;Power over the world is what the West has put at stake in the game it plays. This game is certainly dangerous, bloody and I would call it dirty.&quot;
+Putin: &quot;we never said anything proactively&quot; about their possible use... 
 
 Link: [https://www.zerohedge.com/geopolitical/putin-says-russia-will-never-be-wiped-geopolitical-map-west-plays-dirty-game-ukraine](https://www.zerohedge.com/geopolitical/putin-says-russia-will-never-be-wiped-geopolitical-map-west-plays-dirty-game-ukraine)
 
