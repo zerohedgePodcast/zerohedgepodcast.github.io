@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "As Physical Silver Demand Soars, Bullion Dealers Offer Huge Buy-Back Premiums"
-audio: physical-silver-demand-soars-bullion-dealers-offering-huge-buy-back-premiums-0
+audio: physical-silver-demand-soars-bullion-dealers-offering-huge-buy-back-premiums-1
 category: commodities
-desc: "This is fine..."
-duration: 00:01:51
-length: 111
-datetime: Wed, 26 Oct 2022 23:05:00 +0000
+desc: "&quot;As tight as I've ever seen it...&quot;"
+duration: 00:03:25
+length: 205
+datetime: Thu, 27 Oct 2022 10:11:00 +0000
 tags: podcast
 guid: physical-silver-demand-soars-bullion-dealers-offering-huge-buy-back-premiums-0
-order: 2
+order: 0
 ---
-This is fine...
+&quot;As tight as I've ever seen it...&quot;
 
 Link: [https://www.zerohedge.com/commodities/physical-silver-demand-soars-bullion-dealers-offering-huge-buy-back-premiums](https://www.zerohedge.com/commodities/physical-silver-demand-soars-bullion-dealers-offering-huge-buy-back-premiums)
 
