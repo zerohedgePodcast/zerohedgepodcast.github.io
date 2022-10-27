@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Musk Reassures Advertisers: Twiiter &quot;Will Not Become A Free-For-All Hellscape&quot;"
-audio: musk-advertisers-why-i-bought-twitter-0
+title: "Musk Reassures Advertisers: Twitter &quot;Will Not Become A Free-For-All Hellscape&quot;"
+audio: musk-advertisers-why-i-bought-twitter-1
 category: markets
 desc: "&quot;I didn't [buy Twitter] to make more money. I did it to try to help humanity, whom I love...&quot;"
 duration: 00:04:29
 length: 269
-datetime: Thu, 27 Oct 2022 13:26:00 +0000
+datetime: Thu, 27 Oct 2022 15:44:00 +0000
 tags: podcast
 guid: musk-advertisers-why-i-bought-twitter-0
 order: 1
