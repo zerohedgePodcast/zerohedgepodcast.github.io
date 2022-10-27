@@ -9,7 +9,7 @@ length: 269
 datetime: Thu, 27 Oct 2022 15:44:00 +0000
 tags: podcast
 guid: musk-advertisers-why-i-bought-twitter-0
-order: 1
+order: 0
 ---
 &quot;I didn't [buy Twitter] to make more money. I did it to try to help humanity, whom I love...&quot;
 
