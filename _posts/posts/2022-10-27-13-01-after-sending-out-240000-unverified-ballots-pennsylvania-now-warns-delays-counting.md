@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "After Sending Out 240,000 Unverified Ballots, Pennsylvania Now Warns Of 'Delays' Counting Midterm Votes"
-audio: after-sending-out-240000-unverified-ballots-pennsylvania-now-warns-delays-counting-0
+audio: after-sending-out-240000-unverified-ballots-pennsylvania-now-warns-delays-counting-1
 category: political
 desc: "It will likely take several days..."
 duration: 00:02:32
 length: 152
-datetime: Thu, 27 Oct 2022 00:25:00 +0000
+datetime: Thu, 27 Oct 2022 13:01:00 +0000
 tags: podcast
 guid: after-sending-out-240000-unverified-ballots-pennsylvania-now-warns-delays-counting-0
-order: 1
+order: 0
 ---
 It will likely take several days...
 
