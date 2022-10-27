@@ -9,7 +9,7 @@ length: 111
 datetime: Wed, 26 Oct 2022 23:05:00 +0000
 tags: podcast
 guid: physical-silver-demand-soars-bullion-dealers-offering-huge-buy-back-premiums-0
-order: 0
+order: 2
 ---
 This is fine...
 
