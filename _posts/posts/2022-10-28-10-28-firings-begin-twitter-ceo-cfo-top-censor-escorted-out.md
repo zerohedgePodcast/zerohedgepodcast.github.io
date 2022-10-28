@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "The Firings Begin: Twitter CEO, CFO, &amp; Top Censor Escorted Out"
-audio: firings-begin-twitter-ceo-cfo-top-censor-escorted-out-0
+audio: firings-begin-twitter-ceo-cfo-top-censor-escorted-out-1
 category: technology
 desc: "It's sinking in now..."
 duration: 00:02:58
 length: 178
-datetime: Fri, 28 Oct 2022 00:53:00 +0000
+datetime: Fri, 28 Oct 2022 10:28:00 +0000
 tags: podcast
 guid: firings-begin-twitter-ceo-cfo-top-censor-escorted-out-0
-order: 2
+order: 0
 ---
 It's sinking in now...
 

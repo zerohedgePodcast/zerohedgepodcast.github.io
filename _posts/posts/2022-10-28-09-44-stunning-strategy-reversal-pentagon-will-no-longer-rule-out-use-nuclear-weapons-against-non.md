@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "In Stunning Strategy Reversal, Pentagon Will No Longer Rule Out Use Of Nuclear Weapons Against Non-Nuclear Threat"
-audio: stunning-strategy-reversal-pentagon-will-no-longer-rule-out-use-nuclear-weapons-against-non-0
+audio: stunning-strategy-reversal-pentagon-will-no-longer-rule-out-use-nuclear-weapons-against-non-1
 category: markets
 desc: "The Pentagon no longer rules out using nuclear weapons in retaliation to a non-nuclear strategic threat to the homeland, US forces abroad or allies."
 duration: 00:05:33
 length: 333
-datetime: Thu, 27 Oct 2022 16:05:00 +0000
+datetime: Fri, 28 Oct 2022 09:44:00 +0000
 tags: podcast
 guid: stunning-strategy-reversal-pentagon-will-no-longer-rule-out-use-nuclear-weapons-against-non-0
-order: 1
+order: 0
 ---
 The Pentagon no longer rules out using nuclear weapons in retaliation to a non-nuclear strategic threat to the homeland, US forces abroad or allies.
 
