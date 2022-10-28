@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Amazon Implodes More Than 20% After Missing on Revenues, Disappointing On AWS, Catastrophic Guidance"
-audio: amazon-implodes-more-20-after-missing-revenues-disappointing-aws-catastrophic-guidance-0
+audio: amazon-implodes-more-20-after-missing-revenues-disappointing-aws-catastrophic-guidance-1
 category: markets
 desc: "Ugly earnings, catastrophic guidance!"
-duration: 00:09:35
-length: 575
-datetime: Thu, 27 Oct 2022 20:14:00 +0000
+duration: 00:10:05
+length: 605
+datetime: Thu, 27 Oct 2022 23:11:00 +0000
 tags: podcast
 guid: amazon-implodes-more-20-after-missing-revenues-disappointing-aws-catastrophic-guidance-0
-order: 2
+order: 0
 ---
 Ugly earnings, catastrophic guidance!
 
