@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Substantial Evidence&quot; COVID-19 Result Of Wuhan Laboratory &quot;Incident&quot;: Senate Report"
-audio: senate-report-concludes-covid-came-research-related-incident-0
+audio: senate-report-concludes-covid-came-research-related-incident-1
 category: markets
 desc: "&quot;...the hypothesis of a natural zoonotic origin no longer deserves the benefit of the doubt, or the presumption of accuracy.&quot;"
 duration: 00:06:14
 length: 374
-datetime: Fri, 28 Oct 2022 13:50:00 +0000
+datetime: Fri, 28 Oct 2022 15:50:00 +0000
 tags: podcast
 guid: senate-report-concludes-covid-came-research-related-incident-0
-order: 2
+order: 0
 ---
 &quot;...the hypothesis of a natural zoonotic origin no longer deserves the benefit of the doubt, or the presumption of accuracy.&quot;
 
