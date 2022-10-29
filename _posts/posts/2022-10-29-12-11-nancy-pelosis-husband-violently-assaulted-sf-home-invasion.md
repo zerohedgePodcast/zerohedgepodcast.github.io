@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Nancy Pelosi's Husband 'Violently Assaulted' In SF Home Invasion"
-audio: nancy-pelosis-husband-violently-assaulted-sf-home-invasion-0
+title: "Paul Pelosi Undergoing Brain Surgery Following 'Brutal' Attack; Suspect Identified"
+audio: nancy-pelosis-husband-violently-assaulted-sf-home-invasion-1
 category: markets
-desc: "Pelosi was taken to the hospital..."
-duration: 00:01:31
-length: 91
-datetime: Fri, 28 Oct 2022 12:56:00 +0000
+desc: "The assailant used a hammer and targeted the Pelosi home in San Francisco."
+duration: 00:06:19
+length: 379
+datetime: Sat, 29 Oct 2022 12:11:00 +0000
 tags: podcast
 guid: nancy-pelosis-husband-violently-assaulted-sf-home-invasion-0
-order: 1
+order: 0
 ---
-Pelosi was taken to the hospital...
+The assailant used a hammer and targeted the Pelosi home in San Francisco.
 
 Link: [https://www.zerohedge.com/markets/nancy-pelosis-husband-violently-assaulted-sf-home-invasion](https://www.zerohedge.com/markets/nancy-pelosis-husband-violently-assaulted-sf-home-invasion)
 
