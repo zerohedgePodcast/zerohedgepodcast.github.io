@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Wall Street's Biggest Bear: The Bear Market Will Be Over In The First Quarter"
-audio: wall-streets-biggest-bear-bear-market-will-be-over-first-quarter-0
+audio: wall-streets-biggest-bear-bear-market-will-be-over-first-quarter-1
 category: markets
 desc: "&quot;The bear market will be over probably sometime in the first quarter&quot;"
 duration: 00:03:49
 length: 229
-datetime: Sun, 30 Oct 2022 18:30:00 +0000
+datetime: Sun, 30 Oct 2022 08:30:00 +0000
 tags: podcast
 guid: wall-streets-biggest-bear-bear-market-will-be-over-first-quarter-0
-order: 2
+order: 0
 ---
 &quot;The bear market will be over probably sometime in the first quarter&quot;
 
