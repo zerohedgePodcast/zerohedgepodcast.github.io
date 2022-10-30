@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "&quot;Scariest Halloween Of My Life&quot;: 120 Dead In South Korea After Crowd Crushing Incident"
-audio: scariest-halloween-my-life-120-dead-south-korea-after-crowd-crushing-incident-0
+title: "&quot;Scariest Halloween Of My Life&quot;: 146 Dead In South Korea After Crowd Crushing Incident"
+audio: scariest-halloween-my-life-120-dead-south-korea-after-crowd-crushing-incident-1
 category: medical
 desc: "&quot;Of the 100 injured, there is [a] high possibility of more deaths.&quot; "
-duration: 00:01:48
-length: 108
-datetime: Sat, 29 Oct 2022 19:30:00 +0000
+duration: 00:02:18
+length: 138
+datetime: Sun, 30 Oct 2022 13:10:00 +0000
 tags: podcast
 guid: scariest-halloween-my-life-120-dead-south-korea-after-crowd-crushing-incident-0
 order: 0

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Shellenberger: Pelosi Attack Suspect Was Psychotic Homeless Addict Estranged From His Nudist Lover &amp; Their Children"
-audio: shellenberger-pelosi-attack-suspect-was-psychotic-homeless-addict-estranged-his-nudist-0
+audio: shellenberger-pelosi-attack-suspect-was-psychotic-homeless-addict-estranged-his-nudist-1
 category: political
 desc: "Berkeley resident David DePape was more in the grip of drug-induced psychosis than ideology-induced fanaticism."
 duration: 00:06:16
 length: 376
-datetime: Sat, 29 Oct 2022 18:30:00 +0000
+datetime: Sat, 29 Oct 2022 14:44:00 +0000
 tags: podcast
 guid: shellenberger-pelosi-attack-suspect-was-psychotic-homeless-addict-estranged-his-nudist-0
 order: 0
