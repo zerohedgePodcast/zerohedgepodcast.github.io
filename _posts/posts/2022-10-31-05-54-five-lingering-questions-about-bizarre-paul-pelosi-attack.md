@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Five Lingering Questions About The Bizarre Paul Pelosi Attack"
-audio: five-lingering-questions-about-bizarre-paul-pelosi-attack-0
+audio: five-lingering-questions-about-bizarre-paul-pelosi-attack-1
 category: markets
 desc: "...five questions everyone should be anxiously awaiting the answers to."
 duration: 00:08:54
 length: 534
-datetime: Mon, 31 Oct 2022 11:20:00 +0000
+datetime: Mon, 31 Oct 2022 05:54:00 +0000
 tags: podcast
 guid: five-lingering-questions-about-bizarre-paul-pelosi-attack-0
-order: 1
+order: 0
 ---
 ...five questions everyone should be anxiously awaiting the answers to.
 

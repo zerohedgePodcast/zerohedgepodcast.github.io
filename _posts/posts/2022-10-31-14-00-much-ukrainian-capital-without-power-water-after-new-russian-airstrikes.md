@@ -9,7 +9,7 @@ length: 228
 datetime: Mon, 31 Oct 2022 14:00:00 +0000
 tags: podcast
 guid: much-ukrainian-capital-without-power-water-after-new-russian-airstrikes-0
-order: 2
+order: 0
 ---
 Mayor urges residents &quot;stock up on water from the nearest pumps&quot;...
 
