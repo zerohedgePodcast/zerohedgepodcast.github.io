@@ -9,7 +9,7 @@ length: 91
 datetime: Mon, 31 Oct 2022 16:56:00 +0000
 tags: podcast
 guid: musk-charge-twitter-blue-checks-20-month-will-give-90-days-grace-period-report-0
-order: 1
+order: 0
 ---
 Employees working on the project were told they would have until November 7th to launch the feature or face getting fired...
 

@@ -9,7 +9,7 @@ length: 411
 datetime: Mon, 31 Oct 2022 21:25:00 +0000
 tags: podcast
 guid: leaked-docs-reveal-shocking-extent-dhs-disinfo-collusion-twitter-facebook-0
-order: 0
+order: 1
 ---
 The work, much of which remains unknown to the American public, came into clearer view earlier this year when DHS announced a new &quot;Disinformation Governance Board&quot;
 
