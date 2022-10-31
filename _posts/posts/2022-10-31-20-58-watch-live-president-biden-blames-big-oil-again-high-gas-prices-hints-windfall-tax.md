@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch Live: President Biden To Blame Big Oil (Again) For High Gas Prices, Hint At Windfall Tax"
-audio: watch-live-president-biden-blames-big-oil-again-high-gas-prices-hints-windfall-tax-0
+title: "Biden Blasts 'Big Oil' For &quot;War Profiteering&quot;, Urges Congressional 'Windfall Tax'"
+audio: watch-live-president-biden-blames-big-oil-again-high-gas-prices-hints-windfall-tax-1
 category: markets
-desc: "&quot;...dangerous nonsense...&quot;"
-duration: 00:02:25
-length: 145
-datetime: Mon, 31 Oct 2022 20:28:00 +0000
+desc: "&quot;...they're going to pay a higher tax on their excess profits and face other restrictions...&quot;"
+duration: 00:03:44
+length: 224
+datetime: Mon, 31 Oct 2022 20:58:00 +0000
 tags: podcast
 guid: watch-live-president-biden-blames-big-oil-again-high-gas-prices-hints-windfall-tax-0
 order: 0
 ---
-&quot;...dangerous nonsense...&quot;
+&quot;...they're going to pay a higher tax on their excess profits and face other restrictions...&quot;
 
 Link: [https://www.zerohedge.com/markets/watch-live-president-biden-blames-big-oil-again-high-gas-prices-hints-windfall-tax](https://www.zerohedge.com/markets/watch-live-president-biden-blames-big-oil-again-high-gas-prices-hints-windfall-tax)
 
