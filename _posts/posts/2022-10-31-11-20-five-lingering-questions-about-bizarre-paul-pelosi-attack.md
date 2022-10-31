@@ -9,7 +9,7 @@ length: 534
 datetime: Mon, 31 Oct 2022 11:20:00 +0000
 tags: podcast
 guid: five-lingering-questions-about-bizarre-paul-pelosi-attack-0
-order: 2
+order: 1
 ---
 ...five questions everyone should be anxiously awaiting the answers to.
 
