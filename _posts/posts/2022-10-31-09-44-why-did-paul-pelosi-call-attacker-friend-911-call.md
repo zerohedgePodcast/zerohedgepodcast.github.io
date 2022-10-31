@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Elon Musk 'Fact Checks' Hillary Clinton Over Paul Pelosi Attack Claims"
-audio: why-did-paul-pelosi-call-attacker-friend-911-call-0
+title: "'Seems A Bit Odd' - Hillary 'Fact Checked' As Doubts Mount Over Pelosi Attack Claims"
+audio: why-did-paul-pelosi-call-attacker-friend-911-call-1
 category: political
-desc: "&quot;There is a tiny possibility there might be more to this story than meets the eye...&quot;"
-duration: 00:06:27
-length: 387
-datetime: Sun, 30 Oct 2022 17:30:00 +0000
+desc: "&quot;...scratch a little below the surface and everything is not as it seems...&quot;"
+duration: 00:06:50
+length: 410
+datetime: Mon, 31 Oct 2022 09:44:00 +0000
 tags: podcast
 guid: why-did-paul-pelosi-call-attacker-friend-911-call-0
-order: 1
+order: 0
 ---
-&quot;There is a tiny possibility there might be more to this story than meets the eye...&quot;
+&quot;...scratch a little below the surface and everything is not as it seems...&quot;
 
 Link: [https://www.zerohedge.com/political/why-did-paul-pelosi-call-attacker-friend-911-call](https://www.zerohedge.com/political/why-did-paul-pelosi-call-attacker-friend-911-call)
 
