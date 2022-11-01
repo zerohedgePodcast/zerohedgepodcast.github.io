@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Bolsonaro Supporters Block Roads As Brazilian President Silent After Election Loss"
-audio: bolsonaro-supporters-block-roads-brazilian-president-silent-after-election-loss-0
+title: "In First Appearance Since Election, Bolsonaro Refuses To Concede, Vows To Follow Constitution"
+audio: bolsonaro-supporters-block-roads-brazilian-president-silent-after-election-loss-1
 category: geopolitical
-desc: "Lula: &quot;He still hasn't called, I don't know if he will and I don't know if he will concede.&quot;"
-duration: 00:04:09
-length: 249
-datetime: Tue, 01 Nov 2022 12:25:00 +0000
+desc: "Chief Of Staff says transition process to begin with future president Lula...   "
+duration: 00:05:34
+length: 334
+datetime: Tue, 01 Nov 2022 20:00:00 +0000
 tags: podcast
 guid: bolsonaro-supporters-block-roads-brazilian-president-silent-after-election-loss-0
 order: 0
 ---
-Lula: &quot;He still hasn't called, I don't know if he will and I don't know if he will concede.&quot;
+Chief Of Staff says transition process to begin with future president Lula...   
 
 Link: [https://www.zerohedge.com/geopolitical/bolsonaro-supporters-block-roads-brazilian-president-silent-after-election-loss](https://www.zerohedge.com/geopolitical/bolsonaro-supporters-block-roads-brazilian-president-silent-after-election-loss)
 
