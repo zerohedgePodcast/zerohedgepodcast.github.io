@@ -9,7 +9,7 @@ length: 485
 datetime: Tue, 01 Nov 2022 14:40:00 +0000
 tags: podcast
 guid: you-murderous-hypocrites-outrage-ensues-after-atlantic-suggests-amnesty-pandemic-0
-order: 2
+order: 1
 ---
 &quot;We're not just going to forget what happened when our lives were turned upside down...&quot;
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Musk Neuters Twitter 'Ministry Of Truth' Ahead Of Midterms"
-audio: musk-neuters-twitter-ministry-truth-ahead-midterms-0
+title: "Musk Calls 'Lords &amp; Peasants' Blue Check System 'Bullshit' - Will Charge $8 Per Month"
+audio: musk-neuters-twitter-ministry-truth-ahead-midterms-1
 category: political
-desc: "&quot;Musk has raised questions about a number of the policies...&quot;"
-duration: 00:03:31
-length: 211
-datetime: Tue, 01 Nov 2022 09:45:00 +0000
+desc: "&quot;Power to the people!&quot;"
+duration: 00:04:50
+length: 290
+datetime: Tue, 01 Nov 2022 17:45:00 +0000
 tags: podcast
 guid: musk-neuters-twitter-ministry-truth-ahead-midterms-0
-order: 1
+order: 2
 ---
-&quot;Musk has raised questions about a number of the policies...&quot;
+&quot;Power to the people!&quot;
 
 Link: [https://www.zerohedge.com/political/musk-neuters-twitter-ministry-truth-ahead-midterms](https://www.zerohedge.com/political/musk-neuters-twitter-ministry-truth-ahead-midterms)
 
