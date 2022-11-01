@@ -9,7 +9,7 @@ length: 157
 datetime: Mon, 31 Oct 2022 22:05:00 +0000
 tags: podcast
 guid: biden-lost-temper-zelensky-phone-call-show-little-more-gratitude-0
-order: 2
+order: 0
 ---
 Zelensky kept urging more immediately after Biden informed him of another $1 billion in security assistance...
 
