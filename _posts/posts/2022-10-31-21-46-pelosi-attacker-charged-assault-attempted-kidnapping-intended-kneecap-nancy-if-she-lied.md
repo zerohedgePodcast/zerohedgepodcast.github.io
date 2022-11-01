@@ -9,7 +9,7 @@ length: 347
 datetime: Mon, 31 Oct 2022 21:46:00 +0000
 tags: podcast
 guid: pelosi-attacker-charged-assault-attempted-kidnapping-intended-kneecap-nancy-if-she-lied-0
-order: 2
+order: 0
 ---
 &quot;...by breaking Nancy's kneecaps, [he would] show other Members of Congress there were consequences to actions...&quot;
 
