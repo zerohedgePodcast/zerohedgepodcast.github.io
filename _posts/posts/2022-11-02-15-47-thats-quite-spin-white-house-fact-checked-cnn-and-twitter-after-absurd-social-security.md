@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "White House Deletes Absurd Tweet After CNN, Twitter Slap With Fact Checks"
-audio: thats-quite-spin-white-house-fact-checked-cnn-and-twitter-after-absurd-social-security-1
+audio: thats-quite-spin-white-house-fact-checked-cnn-and-twitter-after-absurd-social-security-2
 category: political
 desc: "'Joe, the internet hates us...'"
 duration: 00:02:01
 length: 121
-datetime: Wed, 02 Nov 2022 16:47:00 +0000
+datetime: Wed, 02 Nov 2022 15:47:00 +0000
 tags: podcast
 guid: thats-quite-spin-white-house-fact-checked-cnn-and-twitter-after-absurd-social-security-0
 order: 1
