@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "FOMC Preview: Time To Step Off The Brake"
-audio: fomc-preview-fasten-your-seatbelts-0
+audio: fomc-preview-fasten-your-seatbelts-1
 category: markets
 desc: "It could be a non-event... or it could lead to one of the biggest market moves in years."
 duration: 00:15:37
 length: 937
-datetime: Wed, 02 Nov 2022 01:45:00 +0000
+datetime: Wed, 02 Nov 2022 11:11:00 +0000
 tags: podcast
 guid: fomc-preview-fasten-your-seatbelts-0
 order: 0

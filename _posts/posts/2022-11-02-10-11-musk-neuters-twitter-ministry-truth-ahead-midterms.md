@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Musk Calls 'Lords &amp; Peasants' Blue Check System 'Bullshit' - Will Charge $8 Per Month"
-audio: musk-neuters-twitter-ministry-truth-ahead-midterms-1
+audio: musk-neuters-twitter-ministry-truth-ahead-midterms-2
 category: political
 desc: "&quot;Power to the people!&quot;"
-duration: 00:04:50
-length: 290
-datetime: Tue, 01 Nov 2022 17:45:00 +0000
+duration: 00:06:11
+length: 371
+datetime: Wed, 02 Nov 2022 10:11:00 +0000
 tags: podcast
 guid: musk-neuters-twitter-ministry-truth-ahead-midterms-0
-order: 2
+order: 0
 ---
 &quot;Power to the people!&quot;
 

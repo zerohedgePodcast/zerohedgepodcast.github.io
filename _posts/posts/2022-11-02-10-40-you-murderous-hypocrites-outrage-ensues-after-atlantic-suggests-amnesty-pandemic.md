@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;You Murderous Hypocrites&quot;: Outrage Ensues After The Atlantic Suggests 'Amnesty' For Pandemic Authoritarians"
-audio: you-murderous-hypocrites-outrage-ensues-after-atlantic-suggests-amnesty-pandemic-0
+audio: you-murderous-hypocrites-outrage-ensues-after-atlantic-suggests-amnesty-pandemic-1
 category: political
 desc: "&quot;We're not just going to forget what happened when our lives were turned upside down...&quot;"
 duration: 00:08:05
 length: 485
-datetime: Tue, 01 Nov 2022 14:40:00 +0000
+datetime: Wed, 02 Nov 2022 10:40:00 +0000
 tags: podcast
 guid: you-murderous-hypocrites-outrage-ensues-after-atlantic-suggests-amnesty-pandemic-0
-order: 1
+order: 0
 ---
 &quot;We're not just going to forget what happened when our lives were turned upside down...&quot;
 
