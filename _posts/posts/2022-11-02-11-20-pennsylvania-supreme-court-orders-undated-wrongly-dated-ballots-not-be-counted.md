@@ -9,7 +9,7 @@ length: 242
 datetime: Wed, 02 Nov 2022 11:20:00 +0000
 tags: podcast
 guid: pennsylvania-supreme-court-orders-undated-wrongly-dated-ballots-not-be-counted-0
-order: 0
+order: 1
 ---
 &quot;The Pennsylvania county boards of elections are hereby 0ED to refrain from counting any absentee and mail-in ballots received for the November 8, 2022 general election that are contained in undated or incorrectly dated outer envelopes.&quot;
 
