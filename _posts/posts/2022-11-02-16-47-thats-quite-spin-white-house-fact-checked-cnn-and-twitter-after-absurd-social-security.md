@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "&quot;That's Quite The Spin&quot;: White House Fact Checked By CNN And Twitter After Absurd Social Security Claim"
-audio: thats-quite-spin-white-house-fact-checked-cnn-and-twitter-after-absurd-social-security-0
+title: "White House Deletes Absurd Tweet After CNN, Twitter Slap With Fact Checks"
+audio: thats-quite-spin-white-house-fact-checked-cnn-and-twitter-after-absurd-social-security-1
 category: political
-desc: "Meanwhile Biden's back to lying about his son..."
-duration: 00:01:47
-length: 107
-datetime: Wed, 02 Nov 2022 14:07:00 +0000
+desc: "'Joe, the internet hates us...'"
+duration: 00:02:01
+length: 121
+datetime: Wed, 02 Nov 2022 16:47:00 +0000
 tags: podcast
 guid: thats-quite-spin-white-house-fact-checked-cnn-and-twitter-after-absurd-social-security-0
 order: 1
 ---
-Meanwhile Biden's back to lying about his son...
+'Joe, the internet hates us...'
 
 Link: [https://www.zerohedge.com/political/thats-quite-spin-white-house-fact-checked-cnn-and-twitter-after-absurd-social-security](https://www.zerohedge.com/political/thats-quite-spin-white-house-fact-checked-cnn-and-twitter-after-absurd-social-security)
 
