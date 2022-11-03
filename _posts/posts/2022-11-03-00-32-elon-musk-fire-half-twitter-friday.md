@@ -9,7 +9,7 @@ length: 141
 datetime: Thu, 03 Nov 2022 00:32:00 +0000
 tags: podcast
 guid: elon-musk-fire-half-twitter-friday-0
-order: 0
+order: 2
 ---
 What would you say you do here?
 
