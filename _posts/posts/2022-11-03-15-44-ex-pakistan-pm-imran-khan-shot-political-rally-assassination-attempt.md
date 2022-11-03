@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Imran Khan Shot During Political Rally In Assassination Attempt"
-audio: ex-pakistan-pm-imran-khan-shot-political-rally-assassination-attempt-0
+title: "Khan Undergoes Surgery After Surviving Assassination Attempt, Shooter Confesses"
+audio: ex-pakistan-pm-imran-khan-shot-political-rally-assassination-attempt-1
 category: geopolitical
-desc: "The ex-Prime Minister &amp; multiple officials wounded but said to be &quot;stable&quot;..."
-duration: 00:01:28
-length: 88
-datetime: Thu, 03 Nov 2022 12:40:00 +0000
+desc: "Ex-prime minister was shot in the foot, while a bystander was killed... "
+duration: 00:04:13
+length: 253
+datetime: Thu, 03 Nov 2022 15:44:00 +0000
 tags: podcast
 guid: ex-pakistan-pm-imran-khan-shot-political-rally-assassination-attempt-0
 order: 0
 ---
-The ex-Prime Minister &amp; multiple officials wounded but said to be &quot;stable&quot;...
+Ex-prime minister was shot in the foot, while a bystander was killed... 
 
 Link: [https://www.zerohedge.com/geopolitical/ex-pakistan-pm-imran-khan-shot-political-rally-assassination-attempt](https://www.zerohedge.com/geopolitical/ex-pakistan-pm-imran-khan-shot-political-rally-assassination-attempt)
 
