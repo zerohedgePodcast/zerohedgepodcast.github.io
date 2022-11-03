@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Elon Musk To Fire Half Of Twitter On Friday"
-audio: elon-musk-fire-half-twitter-friday-0
+audio: elon-musk-fire-half-twitter-friday-1
 category: markets
 desc: "What would you say you do here?"
 duration: 00:02:21
 length: 141
-datetime: Thu, 03 Nov 2022 00:32:00 +0000
+datetime: Thu, 03 Nov 2022 10:35:00 +0000
 tags: podcast
 guid: elon-musk-fire-half-twitter-friday-0
-order: 2
+order: 0
 ---
 What would you say you do here?
 
