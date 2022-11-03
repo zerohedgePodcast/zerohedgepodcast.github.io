@@ -9,7 +9,7 @@ length: 253
 datetime: Thu, 03 Nov 2022 15:44:00 +0000
 tags: podcast
 guid: ex-pakistan-pm-imran-khan-shot-political-rally-assassination-attempt-0
-order: 2
+order: 0
 ---
 Ex-prime minister was shot in the foot, while a bystander was killed... 
 
