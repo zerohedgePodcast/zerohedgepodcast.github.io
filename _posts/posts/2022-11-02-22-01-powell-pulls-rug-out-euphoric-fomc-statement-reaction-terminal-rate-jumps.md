@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Powell Pulls Rug Out From Euphoric Fed Statement Reaction, Terminal Rate Spikes"
-audio: powell-pulls-rug-out-euphoric-fomc-statement-reaction-terminal-rate-jumps-0
+audio: powell-pulls-rug-out-euphoric-fomc-statement-reaction-terminal-rate-jumps-1
 category: markets
 desc: "&quot;...pausing is not something we're thinking about...&quot;"
 duration: 00:04:11
 length: 251
-datetime: Wed, 02 Nov 2022 20:01:00 +0000
+datetime: Wed, 02 Nov 2022 22:01:00 +0000
 tags: podcast
 guid: powell-pulls-rug-out-euphoric-fomc-statement-reaction-terminal-rate-jumps-0
-order: 2
+order: 0
 ---
 &quot;...pausing is not something we're thinking about...&quot;
 
