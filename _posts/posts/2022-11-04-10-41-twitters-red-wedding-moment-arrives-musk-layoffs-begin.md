@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Twitter's &quot;Red Wedding&quot; Moment Arrives As Musk Layoffs Begin"
-audio: twitters-red-wedding-moment-arrives-musk-layoffs-begin-0
+audio: twitters-red-wedding-moment-arrives-musk-layoffs-begin-1
 category: political
 desc: "Bye Felicia..."
 duration: 00:03:22
 length: 202
-datetime: Fri, 04 Nov 2022 03:51:00 +0000
+datetime: Fri, 04 Nov 2022 10:41:00 +0000
 tags: podcast
 guid: twitters-red-wedding-moment-arrives-musk-layoffs-begin-0
-order: 1
+order: 0
 ---
 Bye Felicia...
 
