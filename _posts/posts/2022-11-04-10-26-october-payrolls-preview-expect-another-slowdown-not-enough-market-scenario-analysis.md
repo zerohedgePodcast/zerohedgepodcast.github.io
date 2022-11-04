@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "October Payrolls Preview: Expect Another Slowdown But Not Enough; Market Scenario Analysis"
-audio: october-payrolls-preview-expect-another-slowdown-not-enough-market-scenario-analysis-0
+audio: october-payrolls-preview-expect-another-slowdown-not-enough-market-scenario-analysis-1
 category: markets
 desc: "With stock cratering after Wednesday's FOMC, the market is now almost fully de-risked ahead of tomorrow's jobs report which will show further slowing, but not enough - after all the midterms are next week."
 duration: 00:11:04
 length: 664
-datetime: Fri, 04 Nov 2022 01:26:00 +0000
+datetime: Fri, 04 Nov 2022 10:26:00 +0000
 tags: podcast
 guid: october-payrolls-preview-expect-another-slowdown-not-enough-market-scenario-analysis-0
 order: 0
