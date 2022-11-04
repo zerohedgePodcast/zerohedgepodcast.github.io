@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Gold Market Roiled As Mystery Buyer Waves In 300 Tonnes"
-audio: gold-market-roiled-mystery-buyer-waves-300-tonnes-0
+audio: gold-market-roiled-mystery-buyer-waves-300-tonnes-1
 category: commodities
 desc: "&quot;With that weight of selling, I was a bit surprised gold wasn't weaker,... now we have our answer...&quot;"
 duration: 00:06:01
 length: 361
-datetime: Thu, 03 Nov 2022 19:45:00 +0000
+datetime: Fri, 04 Nov 2022 13:44:00 +0000
 tags: podcast
 guid: gold-market-roiled-mystery-buyer-waves-300-tonnes-0
 order: 0

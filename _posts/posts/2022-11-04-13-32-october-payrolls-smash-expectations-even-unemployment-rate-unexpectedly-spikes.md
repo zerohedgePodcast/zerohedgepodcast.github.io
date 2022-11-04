@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "October Payrolls Smash Expectations Even As Unemployment Rate Unexpectedly Spikes"
-audio: october-payrolls-smash-expectations-even-unemployment-rate-unexpectedly-spikes-0
+audio: october-payrolls-smash-expectations-even-unemployment-rate-unexpectedly-spikes-1
 category: markets
 desc: "Payrolls have beaten expectations on 10 of the past 13 reports."
 duration: 00:08:37
 length: 517
-datetime: Fri, 04 Nov 2022 12:48:00 +0000
+datetime: Fri, 04 Nov 2022 13:32:00 +0000
 tags: podcast
 guid: october-payrolls-smash-expectations-even-unemployment-rate-unexpectedly-spikes-0
-order: 1
+order: 0
 ---
 Payrolls have beaten expectations on 10 of the past 13 reports.
 

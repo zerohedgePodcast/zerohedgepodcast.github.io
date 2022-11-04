@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Twitter's &quot;Red Wedding&quot; Moment Arrives As Musk Layoffs Begin"
-audio: twitters-red-wedding-moment-arrives-musk-layoffs-begin-1
+title: "&quot;Extremely Messed Up!&quot; Musk Says Activists Causing 'Massive Drop In Revenue'"
+audio: twitters-red-wedding-moment-arrives-musk-layoffs-begin-2
 category: political
-desc: "Bye Felicia..."
-duration: 00:03:22
-length: 202
-datetime: Fri, 04 Nov 2022 10:41:00 +0000
+desc: "&quot;We did everything we could to appease...&quot;"
+duration: 00:05:35
+length: 335
+datetime: Fri, 04 Nov 2022 14:44:00 +0000
 tags: podcast
 guid: twitters-red-wedding-moment-arrives-musk-layoffs-begin-0
 order: 0
 ---
-Bye Felicia...
+&quot;We did everything we could to appease...&quot;
 
 Link: [https://www.zerohedge.com/political/twitters-red-wedding-moment-arrives-musk-layoffs-begin](https://www.zerohedge.com/political/twitters-red-wedding-moment-arrives-musk-layoffs-begin)
 
