@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "&quot;Extremely Messed Up!&quot; Musk Says Activists Causing 'Massive Drop In Revenue'"
-audio: twitters-red-wedding-moment-arrives-musk-layoffs-begin-2
+title: "&quot;Extremely Messed Up!&quot; Musk Says Activists Causing 'Massive Drop In Revenue' As Mass Layoffs Loom"
+audio: twitters-red-wedding-moment-arrives-musk-layoffs-begin-3
 category: political
 desc: "&quot;We did everything we could to appease...&quot;"
-duration: 00:05:35
-length: 335
-datetime: Fri, 04 Nov 2022 14:44:00 +0000
+duration: 00:05:54
+length: 354
+datetime: Fri, 04 Nov 2022 18:11:00 +0000
 tags: podcast
 guid: twitters-red-wedding-moment-arrives-musk-layoffs-begin-0
-order: 1
+order: 0
 ---
 &quot;We did everything we could to appease...&quot;
 

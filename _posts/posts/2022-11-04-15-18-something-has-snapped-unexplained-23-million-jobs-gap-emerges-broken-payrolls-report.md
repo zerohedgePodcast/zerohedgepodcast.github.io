@@ -9,7 +9,7 @@ length: 289
 datetime: Fri, 04 Nov 2022 15:18:00 +0000
 tags: podcast
 guid: something-has-snapped-unexplained-23-million-jobs-gap-emerges-broken-payrolls-report-0
-order: 2
+order: 1
 ---
 With the midterms next week, expect freefall from the labor market.
 
