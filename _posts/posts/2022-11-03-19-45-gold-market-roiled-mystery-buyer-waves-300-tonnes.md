@@ -9,7 +9,7 @@ length: 361
 datetime: Thu, 03 Nov 2022 19:45:00 +0000
 tags: podcast
 guid: gold-market-roiled-mystery-buyer-waves-300-tonnes-0
-order: 2
+order: 1
 ---
 &quot;With that weight of selling, I was a bit surprised gold wasn't weaker,... now we have our answer...&quot;
 

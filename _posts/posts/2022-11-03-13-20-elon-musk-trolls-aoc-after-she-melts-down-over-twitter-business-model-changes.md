@@ -9,7 +9,7 @@ length: 134
 datetime: Thu, 03 Nov 2022 13:20:00 +0000
 tags: podcast
 guid: elon-musk-trolls-aoc-after-she-melts-down-over-twitter-business-model-changes-0
-order: 1
+order: 0
 ---
 &quot;Your feedback is appreciated, now pay $8.&quot;
 
