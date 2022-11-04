@@ -9,7 +9,7 @@ length: 335
 datetime: Fri, 04 Nov 2022 14:44:00 +0000
 tags: podcast
 guid: twitters-red-wedding-moment-arrives-musk-layoffs-begin-0
-order: 0
+order: 1
 ---
 &quot;We did everything we could to appease...&quot;
 
