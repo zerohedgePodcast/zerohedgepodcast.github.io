@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Pelosi 'Did Not Declare An Emergency' - NBC Raises Questions About 'Unexplained 30 Minutes' During Attack"
-audio: pelosi-did-not-declare-emergency-nbc-raises-questions-about-unexplained-30-minutes-during-0
+title: "NBC Quietly Removes Report Claiming Paul Pelosi Walked Away From Police, &quot;Did Not Immediately Declare&quot; Emergency"
+audio: pelosi-did-not-declare-emergency-nbc-raises-questions-about-unexplained-30-minutes-during-1
 category: political
 desc: "Meanwhile a neighbor heard 'nothing unusual...'"
 duration: 00:03:27
 length: 207
-datetime: Fri, 04 Nov 2022 18:01:00 +0000
+datetime: Sat, 05 Nov 2022 14:11:00 +0000
 tags: podcast
 guid: pelosi-did-not-declare-emergency-nbc-raises-questions-about-unexplained-30-minutes-during-0
-order: 1
+order: 0
 ---
 Meanwhile a neighbor heard 'nothing unusual...'
 
