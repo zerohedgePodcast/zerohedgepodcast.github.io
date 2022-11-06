@@ -9,7 +9,7 @@ length: 497
 datetime: Sun, 06 Nov 2022 15:30:00 +0000
 tags: podcast
 guid: republicans-will-sweep-both-house-and-senate-stifel-potomac-perspective-0
-order: 2
+order: 0
 ---
 The baseline case is a Republican sweep.  This note takes a final pre-election look at what to expect the election outcome(s) could mean for policy and markets.
 
