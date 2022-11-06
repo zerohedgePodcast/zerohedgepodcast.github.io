@@ -9,7 +9,7 @@ length: 168
 datetime: Sat, 05 Nov 2022 19:00:00 +0000
 tags: podcast
 guid: joy-reid-says-voters-didnt-know-about-inflation-until-republican-politicians-taught-them-0
-order: 2
+order: 0
 ---
 Reid argues that the only people that use the word &quot;inflation&quot; are &quot;journalists and economists&quot; and that it is not a part of the normal lexicon of discussion.
 

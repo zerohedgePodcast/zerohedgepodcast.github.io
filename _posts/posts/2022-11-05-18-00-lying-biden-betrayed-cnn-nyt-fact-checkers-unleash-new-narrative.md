@@ -9,7 +9,7 @@ length: 412
 datetime: Sat, 05 Nov 2022 18:00:00 +0000
 tags: podcast
 guid: lying-biden-betrayed-cnn-nyt-fact-checkers-unleash-new-narrative-0
-order: 1
+order: 0
 ---
 &quot;Starkly at odds with the reality...&quot;
 
