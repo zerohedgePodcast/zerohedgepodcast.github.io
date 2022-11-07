@@ -9,7 +9,7 @@ length: 270
 datetime: Mon, 07 Nov 2022 03:00:00 +0000
 tags: podcast
 guid: biden-admits-truth-no-more-oil-drilling-energy-stocks-set-soar-0
-order: 2
+order: 1
 ---
 &quot;Energy continues to lead. When oil is up. When oil is down. When yields are up, or when they are down. When the US is threatening Windfall Profits Taxes or considering limits on product exports.&quot; 
 

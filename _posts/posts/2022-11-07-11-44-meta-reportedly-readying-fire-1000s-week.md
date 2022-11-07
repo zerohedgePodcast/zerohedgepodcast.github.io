@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Meta Reportedly Readying To Fire 1000s This Week"
-audio: meta-reportedly-readying-fire-1000s-week-0
+audio: meta-reportedly-readying-fire-1000s-week-1
 category: markets
 desc: "&quot;Realistically, there are probably a bunch of people at the company who shouldn't be here...&quot;"
 duration: 00:03:11
 length: 191
-datetime: Sun, 06 Nov 2022 22:00:00 +0000
+datetime: Mon, 07 Nov 2022 11:44:00 +0000
 tags: podcast
 guid: meta-reportedly-readying-fire-1000s-week-0
-order: 1
+order: 0
 ---
 &quot;Realistically, there are probably a bunch of people at the company who shouldn't be here...&quot;
 
