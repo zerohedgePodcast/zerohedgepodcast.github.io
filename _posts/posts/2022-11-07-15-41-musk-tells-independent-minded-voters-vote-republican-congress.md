@@ -9,7 +9,7 @@ length: 64
 datetime: Mon, 07 Nov 2022 15:41:00 +0000
 tags: podcast
 guid: musk-tells-independent-minded-voters-vote-republican-congress-0
-order: 0
+order: 1
 ---
 &quot;Shared power curbs the worst excesses of both parties, therefore I recommend voting for a Republican Congress...&quot;
 

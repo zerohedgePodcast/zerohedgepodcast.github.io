@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Biden Admits The Truth: &quot;No More Oil Drilling&quot; As Energy Stocks Set To Soar"
-audio: biden-admits-truth-no-more-oil-drilling-energy-stocks-set-soar-0
+audio: biden-admits-truth-no-more-oil-drilling-energy-stocks-set-soar-1
 category: markets
-desc: "&quot;Energy continues to lead. When oil is up. When oil is down. When yields are up, or when they are down. When the US is threatening Windfall Profits Taxes or considering limits on product exports.&quot; "
+desc: "Biden has effectively admitted that he, Energy Secretary Granholm, and others in his administration have been lying..."
 duration: 00:04:30
 length: 270
-datetime: Mon, 07 Nov 2022 03:00:00 +0000
+datetime: Mon, 07 Nov 2022 15:16:00 +0000
 tags: podcast
 guid: biden-admits-truth-no-more-oil-drilling-energy-stocks-set-soar-0
-order: 1
+order: 0
 ---
-&quot;Energy continues to lead. When oil is up. When oil is down. When yields are up, or when they are down. When the US is threatening Windfall Profits Taxes or considering limits on product exports.&quot; 
+Biden has effectively admitted that he, Energy Secretary Granholm, and others in his administration have been lying...
 
 Link: [https://www.zerohedge.com/markets/biden-admits-truth-no-more-oil-drilling-energy-stocks-set-soar](https://www.zerohedge.com/markets/biden-admits-truth-no-more-oil-drilling-energy-stocks-set-soar)
 
