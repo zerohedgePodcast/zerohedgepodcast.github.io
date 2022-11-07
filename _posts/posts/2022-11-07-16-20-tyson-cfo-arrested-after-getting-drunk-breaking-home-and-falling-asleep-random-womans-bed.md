@@ -9,7 +9,7 @@ length: 75
 datetime: Mon, 07 Nov 2022 16:20:00 +0000
 tags: podcast
 guid: tyson-cfo-arrested-after-getting-drunk-breaking-home-and-falling-asleep-random-womans-bed-0
-order: 2
+order: 0
 ---
 The son of board chairman John H. Tyson...
 

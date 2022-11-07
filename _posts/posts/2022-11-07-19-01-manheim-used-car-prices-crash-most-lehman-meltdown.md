@@ -9,7 +9,7 @@ length: 182
 datetime: Mon, 07 Nov 2022 19:01:00 +0000
 tags: podcast
 guid: manheim-used-car-prices-crash-most-lehman-meltdown-0
-order: 0
+order: 2
 ---
 ...repos ramp, CLOs dump, inflation slump...
 
