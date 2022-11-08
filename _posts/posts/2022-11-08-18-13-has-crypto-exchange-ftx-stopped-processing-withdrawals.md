@@ -9,7 +9,7 @@ length: 357
 datetime: Tue, 08 Nov 2022 18:13:00 +0000
 tags: podcast
 guid: has-crypto-exchange-ftx-stopped-processing-withdrawals-0
-order: 2
+order: 0
 ---
 &quot;Binance has the discretion to pull out from the deal at any time...&quot;
 

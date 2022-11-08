@@ -9,7 +9,7 @@ length: 127
 datetime: Tue, 08 Nov 2022 18:14:00 +0000
 tags: podcast
 guid: yup-elon-musk-seemingly-confirms-twitter-employees-sold-verification-badges-behind-scenes-0
-order: 0
+order: 1
 ---
 &quot;They would refuse to verify you through the standard application and then privately offer to verify you for $$...&quot;
 
