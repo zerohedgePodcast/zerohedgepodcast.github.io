@@ -9,7 +9,7 @@ length: 407
 datetime: Mon, 07 Nov 2022 20:50:00 +0000
 tags: podcast
 guid: inflation-was-always-endgame-0
-order: 0
+order: 1
 ---
 ...just when everyone thinks something is definitively true, it turns out to be spectacularly false.
 

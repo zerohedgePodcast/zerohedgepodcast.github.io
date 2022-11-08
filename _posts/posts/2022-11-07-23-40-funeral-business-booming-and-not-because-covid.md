@@ -9,7 +9,7 @@ length: 274
 datetime: Mon, 07 Nov 2022 23:40:00 +0000
 tags: podcast
 guid: funeral-business-booming-and-not-because-covid-0
-order: 0
+order: 2
 ---
 ...the US is hardly alone in seeing a large and so far unexplained spike in deaths in 2022. Countries from Germany to Australia to Taiwan are seeing similar trends... They all have something in common...
 
