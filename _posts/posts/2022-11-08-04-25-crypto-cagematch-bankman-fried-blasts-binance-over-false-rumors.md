@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Crypto-Cagematch? Bankman-Fried Blasts Binance Over &quot;False Rumors&quot;"
-audio: crypto-cagematch-bankman-fried-blasts-binance-over-false-rumors-0
+title: "Cryptos Plunge As FTX-Binance Battle Escalates"
+audio: crypto-cagematch-bankman-fried-blasts-binance-over-false-rumors-1
 category: crypto
-desc: "...follow weeks of criticism directed at FTX's founder for regulatory proposals he put forth which recommended restrictions regarding DeFi..."
-duration: 00:05:52
-length: 352
-datetime: Tue, 08 Nov 2022 00:00:00 +0000
+desc: "...FTT broke $22 support and crashed 20%..."
+duration: 00:07:42
+length: 462
+datetime: Tue, 08 Nov 2022 04:25:00 +0000
 tags: podcast
 guid: crypto-cagematch-bankman-fried-blasts-binance-over-false-rumors-0
 order: 0
 ---
-...follow weeks of criticism directed at FTX's founder for regulatory proposals he put forth which recommended restrictions regarding DeFi...
+...FTT broke $22 support and crashed 20%...
 
 Link: [https://www.zerohedge.com/crypto/crypto-cagematch-bankman-fried-blasts-binance-over-false-rumors](https://www.zerohedge.com/crypto/crypto-cagematch-bankman-fried-blasts-binance-over-false-rumors)
 
