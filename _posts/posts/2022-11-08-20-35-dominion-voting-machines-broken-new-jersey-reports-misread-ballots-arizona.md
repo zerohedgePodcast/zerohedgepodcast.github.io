@@ -9,7 +9,7 @@ length: 300
 datetime: Tue, 08 Nov 2022 20:35:00 +0000
 tags: podcast
 guid: dominion-voting-machines-broken-new-jersey-reports-misread-ballots-arizona-0
-order: 2
+order: 0
 ---
 People are showing up to Vote only to be told, &quot;sorry, you have already voted...&quot;
 
