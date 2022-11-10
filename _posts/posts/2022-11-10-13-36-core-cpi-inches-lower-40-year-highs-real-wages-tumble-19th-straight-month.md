@@ -9,7 +9,7 @@ length: 110
 datetime: Thu, 10 Nov 2022 13:36:00 +0000
 tags: podcast
 guid: core-cpi-inches-lower-40-year-highs-real-wages-tumble-19th-straight-month-0
-order: 0
+order: 1
 ---
 Services CPI is now at its highest since 1982, rising faster than Goods CPI...
 
