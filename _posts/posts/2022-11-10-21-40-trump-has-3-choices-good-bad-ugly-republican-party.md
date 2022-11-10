@@ -9,7 +9,7 @@ length: 166
 datetime: Thu, 10 Nov 2022 21:40:00 +0000
 tags: podcast
 guid: trump-has-3-choices-good-bad-ugly-republican-party-0
-order: 2
+order: 0
 ---
 Red wave goodbye?
 
