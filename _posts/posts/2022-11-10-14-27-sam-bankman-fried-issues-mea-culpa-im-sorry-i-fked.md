@@ -9,7 +9,7 @@ length: 342
 datetime: Thu, 10 Nov 2022 14:27:00 +0000
 tags: podcast
 guid: sam-bankman-fried-issues-mea-culpa-im-sorry-i-fked-0
-order: 2
+order: 1
 ---
 &quot;The first time, a poor internal labeling of bank-related accounts meant that I was substantially off on my sense of users' margin. I thought it was way lower...&quot;
 
