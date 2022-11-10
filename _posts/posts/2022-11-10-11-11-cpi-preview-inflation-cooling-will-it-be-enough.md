@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "CPI Preview: Inflation Is Cooling But Will It Be Enough"
-audio: cpi-preview-inflation-cooling-will-it-be-enough-0
+audio: cpi-preview-inflation-cooling-will-it-be-enough-1
 category: markets
 desc: "Here's what to expect for tomorrow's critical CPI report."
 duration: 00:11:50
 length: 710
-datetime: Thu, 10 Nov 2022 02:30:00 +0000
+datetime: Thu, 10 Nov 2022 11:11:00 +0000
 tags: podcast
 guid: cpi-preview-inflation-cooling-will-it-be-enough-0
 order: 0

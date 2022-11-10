@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Midterms Post-Mortem: Comprehending GOP's Underwhelming Performance"
-audio: midterms-post-mortem-comprehending-gops-underwhelming-performance-0
+audio: midterms-post-mortem-comprehending-gops-underwhelming-performance-1
 category: political
 desc: "There have been various theories on why it went so wrong..."
 duration: 00:07:12
 length: 432
-datetime: Wed, 09 Nov 2022 15:45:00 +0000
+datetime: Thu, 10 Nov 2022 08:45:00 +0000
 tags: podcast
 guid: midterms-post-mortem-comprehending-gops-underwhelming-performance-0
-order: 1
+order: 0
 ---
 There have been various theories on why it went so wrong...
 

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Sequoia Writes Off Entire $210MM FTX Investment; Here Are All The Other Funds That Are Losing Billions In FTX"
-audio: here-are-all-funds-are-about-lose-billions-ftx-1
+audio: here-are-all-funds-are-about-lose-billions-ftx-2
 category: markets
 desc: "Definitive proof that even (or rather especially) the smartest investors do no homework before allocating huge amounts of capital."
 duration: 00:05:30
 length: 330
-datetime: Thu, 10 Nov 2022 02:44:00 +0000
+datetime: Thu, 10 Nov 2022 11:11:00 +0000
 tags: podcast
 guid: here-are-all-funds-are-about-lose-billions-ftx-0
-order: 2
+order: 0
 ---
 Definitive proof that even (or rather especially) the smartest investors do no homework before allocating huge amounts of capital.
 
