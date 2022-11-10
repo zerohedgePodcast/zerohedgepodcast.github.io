@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Here Are All The Funds That Are About To Lose Billions In FTX"
-audio: here-are-all-funds-are-about-lose-billions-ftx-0
+title: "Sequoia Writes Off Entire $210MM FTX Investment; Here Are All The Other Funds That Are Losing Billions In FTX"
+audio: here-are-all-funds-are-about-lose-billions-ftx-1
 category: markets
-desc: "Definitive proof that even (or rather especially) the smartest investor do no homework before allocating huge amounts of capital."
-duration: 00:04:15
-length: 255
-datetime: Wed, 09 Nov 2022 23:00:00 +0000
+desc: "Definitive proof that even (or rather especially) the smartest investors do no homework before allocating huge amounts of capital."
+duration: 00:05:30
+length: 330
+datetime: Thu, 10 Nov 2022 02:44:00 +0000
 tags: podcast
 guid: here-are-all-funds-are-about-lose-billions-ftx-0
-order: 0
+order: 2
 ---
-Definitive proof that even (or rather especially) the smartest investor do no homework before allocating huge amounts of capital.
+Definitive proof that even (or rather especially) the smartest investors do no homework before allocating huge amounts of capital.
 
 Link: [https://www.zerohedge.com/markets/here-are-all-funds-are-about-lose-billions-ftx](https://www.zerohedge.com/markets/here-are-all-funds-are-about-lose-billions-ftx)
 

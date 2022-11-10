@@ -9,7 +9,7 @@ length: 401
 datetime: Wed, 09 Nov 2022 20:55:00 +0000
 tags: podcast
 guid: binance-chief-says-no-master-plan-behind-ftx-takeover-confidence-crypto-severely-shaken-0
-order: 2
+order: 0
 ---
 &quot;Our hope was to be able to support FTX's customers to provide liquidity, but the issues are beyond our control or ability to help,&quot; Binance said.
 
