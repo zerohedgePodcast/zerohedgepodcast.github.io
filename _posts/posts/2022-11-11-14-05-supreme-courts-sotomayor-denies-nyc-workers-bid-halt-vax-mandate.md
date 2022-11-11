@@ -9,7 +9,7 @@ length: 156
 datetime: Fri, 11 Nov 2022 14:05:00 +0000
 tags: podcast
 guid: supreme-courts-sotomayor-denies-nyc-workers-bid-halt-vax-mandate-0
-order: 1
+order: 0
 ---
 &quot;But for athletes, entertainers, and strippers, the city found a way to loosen its mandate...&quot;
 
