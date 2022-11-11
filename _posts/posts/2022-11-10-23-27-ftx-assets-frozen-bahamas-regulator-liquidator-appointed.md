@@ -9,7 +9,7 @@ length: 298
 datetime: Thu, 10 Nov 2022 23:27:00 +0000
 tags: podcast
 guid: ftx-assets-frozen-bahamas-regulator-liquidator-appointed-0
-order: 1
+order: 2
 ---
 &quot;Based on the commission's information, any such actions would have been contrary to normal governance, without client consent and potentially unlawful&quot;
 
