@@ -9,7 +9,7 @@ length: 261
 datetime: Fri, 11 Nov 2022 21:00:00 +0000
 tags: podcast
 guid: dollar-collapses-stocks-soar-biggest-short-squeeze-ever-0
-order: 2
+order: 0
 ---
 ...a dash-for-trash in stocks and gold's best week since March 2020...
 
