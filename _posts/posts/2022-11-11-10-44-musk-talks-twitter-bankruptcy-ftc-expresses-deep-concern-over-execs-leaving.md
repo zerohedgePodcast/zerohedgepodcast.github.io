@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Difficult Times Ahead&quot;: Musk Says Twitter Bankruptcy Possible As FTC Expresses &quot;Deep Concern&quot;"
-audio: musk-talks-twitter-bankruptcy-ftc-expresses-deep-concern-over-execs-leaving-0
+audio: musk-talks-twitter-bankruptcy-ftc-expresses-deep-concern-over-execs-leaving-1
 category: political
 desc: "&quot;Without significant subscription revenue, there is a good chance Twitter will not survive the upcoming economic downturn...&quot;"
-duration: 00:04:03
-length: 243
-datetime: Thu, 10 Nov 2022 23:20:00 +0000
+duration: 00:04:14
+length: 254
+datetime: Fri, 11 Nov 2022 10:44:00 +0000
 tags: podcast
 guid: musk-talks-twitter-bankruptcy-ftc-expresses-deep-concern-over-execs-leaving-0
-order: 1
+order: 0
 ---
 &quot;Without significant subscription revenue, there is a good chance Twitter will not survive the upcoming economic downturn...&quot;
 
