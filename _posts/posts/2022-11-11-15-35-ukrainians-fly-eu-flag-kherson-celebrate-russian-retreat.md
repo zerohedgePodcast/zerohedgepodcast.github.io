@@ -9,7 +9,7 @@ length: 223
 datetime: Fri, 11 Nov 2022 15:35:00 +0000
 tags: podcast
 guid: ukrainians-fly-eu-flag-kherson-celebrate-russian-retreat-0
-order: 2
+order: 0
 ---
 Withdrawing Russian troops destroy main bridge across the Dnipro River...
 

@@ -9,7 +9,7 @@ length: 170
 datetime: Fri, 11 Nov 2022 14:22:00 +0000
 tags: podcast
 guid: ftx-files-bankruptcy-sam-bankman-fried-resigns-ceo-0
-order: 1
+order: 2
 ---
 &quot;The immediate relief of Chapter 11 is appropriate to provide the FTX Group the opportunity to assess its situation and develop a process to maximize recoveries for stakeholders,&quot;
 
