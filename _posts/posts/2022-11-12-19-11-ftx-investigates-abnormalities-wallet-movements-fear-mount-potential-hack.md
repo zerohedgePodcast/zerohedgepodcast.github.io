@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "FTX Investigates &quot;Abnormalities With Wallet Movements&quot; As Fears Mount Of Potential Hack"
-audio: ftx-investigates-abnormalities-wallet-movements-fear-mount-potential-hack-0
+title: "FTX Hit By Mysterious $662 Million Outflow Amid Revelation That SBF Implemented Bookkeeping &quot;Backdoor&quot;"
+audio: ftx-investigates-abnormalities-wallet-movements-fear-mount-potential-hack-1
 category: crypto
 desc: "&quot;Many FTX wallet holders are also reporting that they are seeing $0 balances in their FTX.com and FTX US wallets.&quot;"
-duration: 00:04:31
-length: 271
-datetime: Sat, 12 Nov 2022 13:10:00 +0000
+duration: 00:08:18
+length: 498
+datetime: Sat, 12 Nov 2022 19:11:00 +0000
 tags: podcast
 guid: ftx-investigates-abnormalities-wallet-movements-fear-mount-potential-hack-0
-order: 1
+order: 0
 ---
 &quot;Many FTX wallet holders are also reporting that they are seeing $0 balances in their FTX.com and FTX US wallets.&quot;
 
