@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Six Dead, 53 Injured After &quot;Bomb Attack&quot; Rips Through Busy Istanbul Street"
-audio: multiple-casualties-reported-after-explosion-rocks-busy-street-istanbul-1
+audio: multiple-casualties-reported-after-explosion-rocks-busy-street-istanbul-2
 category: geopolitical
 desc: "&quot;I wish God's mercy on our brothers who died in the bomb attack that took place on Istiklal Street...&quot;"
 duration: 00:03:04
 length: 184
-datetime: Sun, 13 Nov 2022 15:37:00 +0000
+datetime: Sun, 13 Nov 2022 16:37:00 +0000
 tags: podcast
 guid: multiple-casualties-reported-after-explosion-rocks-busy-street-istanbul-0
-order: 2
+order: 0
 ---
 &quot;I wish God's mercy on our brothers who died in the bomb attack that took place on Istiklal Street...&quot;
 

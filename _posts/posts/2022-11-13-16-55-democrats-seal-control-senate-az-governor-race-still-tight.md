@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Democrats Seal Control Of Senate - AZ Governor Race Still Tight"
-audio: democrats-seal-control-senate-az-governor-race-still-tight-0
+title: "Democrats Seal Control Of Senate, AZ Governor Race Still Tight"
+audio: democrats-seal-control-senate-az-governor-race-still-tight-1
 category: political
 desc: "Dreams of Rand Paul-chaired investigation of Covid-19 origins evaporate, but GOP still hopes for House control"
 duration: 00:04:47
 length: 287
-datetime: Sun, 13 Nov 2022 12:35:00 +0000
+datetime: Sun, 13 Nov 2022 16:55:00 +0000
 tags: podcast
 guid: democrats-seal-control-senate-az-governor-race-still-tight-0
-order: 1
+order: 0
 ---
 Dreams of Rand Paul-chaired investigation of Covid-19 origins evaporate, but GOP still hopes for House control
 

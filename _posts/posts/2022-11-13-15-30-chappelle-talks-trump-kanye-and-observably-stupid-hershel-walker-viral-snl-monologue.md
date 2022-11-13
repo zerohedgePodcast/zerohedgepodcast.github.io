@@ -9,7 +9,7 @@ length: 107
 datetime: Sun, 13 Nov 2022 15:30:00 +0000
 tags: podcast
 guid: chappelle-talks-trump-kanye-and-observably-stupid-hershel-walker-viral-snl-monologue-0
-order: 0
+order: 1
 ---
 'It's a game of perception...'
 
