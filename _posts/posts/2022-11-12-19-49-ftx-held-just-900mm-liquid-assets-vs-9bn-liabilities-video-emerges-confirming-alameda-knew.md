@@ -9,7 +9,7 @@ length: 494
 datetime: Sat, 12 Nov 2022 19:49:00 +0000
 tags: podcast
 guid: ftx-held-just-900mm-liquid-assets-vs-9bn-liabilities-video-emerges-confirming-alameda-knew-0
-order: 1
+order: 0
 ---
 The prison sentence better be in the dacades...
 

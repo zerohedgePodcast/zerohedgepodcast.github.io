@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Multiple Casualties Reported After Explosion Rocks Busy Street In Istanbul"
-audio: multiple-casualties-reported-after-explosion-rocks-busy-street-istanbul-0
+title: "Six Dead, 53 Injured After &quot;Bomb Attack&quot; Rips Through Busy Istanbul Street"
+audio: multiple-casualties-reported-after-explosion-rocks-busy-street-istanbul-1
 category: geopolitical
-desc: "Broadcaster CNN Turk said eleven people were injured."
-duration: 00:01:28
-length: 88
-datetime: Sun, 13 Nov 2022 14:25:00 +0000
+desc: "&quot;I wish God's mercy on our brothers who died in the bomb attack that took place on Istiklal Street...&quot;"
+duration: 00:03:04
+length: 184
+datetime: Sun, 13 Nov 2022 15:37:00 +0000
 tags: podcast
 guid: multiple-casualties-reported-after-explosion-rocks-busy-street-istanbul-0
-order: 0
+order: 2
 ---
-Broadcaster CNN Turk said eleven people were injured.
+&quot;I wish God's mercy on our brothers who died in the bomb attack that took place on Istiklal Street...&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/multiple-casualties-reported-after-explosion-rocks-busy-street-istanbul](https://www.zerohedge.com/geopolitical/multiple-casualties-reported-after-explosion-rocks-busy-street-istanbul)
 
