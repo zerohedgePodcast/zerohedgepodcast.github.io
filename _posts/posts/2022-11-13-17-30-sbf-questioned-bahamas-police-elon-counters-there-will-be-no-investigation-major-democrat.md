@@ -9,7 +9,7 @@ length: 240
 datetime: Sun, 13 Nov 2022 17:30:00 +0000
 tags: podcast
 guid: sbf-questioned-bahamas-police-elon-counters-there-will-be-no-investigation-major-democrat-0
-order: 2
+order: 1
 ---
 &quot;Right now three of them, Sam, Gary, and Nishad are under supervision in the Bahamas, which means it will be hard for them to leave.&quot;
 

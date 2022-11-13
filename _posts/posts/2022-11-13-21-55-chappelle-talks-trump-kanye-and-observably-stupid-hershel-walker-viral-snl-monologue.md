@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Chappelle Talks Trump, Kanye, And &quot;Observably Stupid&quot; Hershel Walker In Viral SNL Monologue"
-audio: chappelle-talks-trump-kanye-and-observably-stupid-hershel-walker-viral-snl-monologue-0
+title: "Chappelle Talks Trump, Kanye, And &quot;Observably Stupid&quot; Herschel Walker In Viral SNL Monologue"
+audio: chappelle-talks-trump-kanye-and-observably-stupid-hershel-walker-viral-snl-monologue-1
 category: political
 desc: "'It's a game of perception...'"
 duration: 00:01:47
 length: 107
-datetime: Sun, 13 Nov 2022 15:30:00 +0000
+datetime: Sun, 13 Nov 2022 21:55:00 +0000
 tags: podcast
 guid: chappelle-talks-trump-kanye-and-observably-stupid-hershel-walker-viral-snl-monologue-0
-order: 1
+order: 0
 ---
 'It's a game of perception...'
 
