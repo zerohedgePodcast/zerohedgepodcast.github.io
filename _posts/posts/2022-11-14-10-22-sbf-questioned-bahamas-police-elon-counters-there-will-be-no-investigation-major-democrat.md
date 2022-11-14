@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "FTX Facing Criminal Probe By Bahamas Authorities, But Musk Counters There Will Be &quot;No Investigation&quot; Of &quot;Major Democrat Donor&quot; SBF"
-audio: sbf-questioned-bahamas-police-elon-counters-there-will-be-no-investigation-major-democrat-0
+audio: sbf-questioned-bahamas-police-elon-counters-there-will-be-no-investigation-major-democrat-1
 category: markets
 desc: "&quot;Right now three of them, Sam, Gary, and Nishad are under supervision in the Bahamas, which means it will be hard for them to leave.&quot;"
 duration: 00:04:00
 length: 240
-datetime: Sun, 13 Nov 2022 17:30:00 +0000
+datetime: Mon, 14 Nov 2022 10:22:00 +0000
 tags: podcast
 guid: sbf-questioned-bahamas-police-elon-counters-there-will-be-no-investigation-major-democrat-0
-order: 1
+order: 0
 ---
 &quot;Right now three of them, Sam, Gary, and Nishad are under supervision in the Bahamas, which means it will be hard for them to leave.&quot;
 

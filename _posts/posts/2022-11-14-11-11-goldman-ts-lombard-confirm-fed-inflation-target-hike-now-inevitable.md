@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Goldman, TS Lombard Confirm Fed Inflation Target Hike Now Inevitable"
-audio: goldman-ts-lombard-confirm-fed-inflation-target-hike-now-inevitable-0
+audio: goldman-ts-lombard-confirm-fed-inflation-target-hike-now-inevitable-1
 category: markets
 desc: "&quot;As the supply curve flattens at negative output gap levels, the output and social cost of bringing inflation to 2% increases disproportionately, creating the political context for the inflation target level revision debate&quot; - Goldman"
 duration: 00:16:57
 length: 1017
-datetime: Sun, 13 Nov 2022 23:30:00 +0000
+datetime: Mon, 14 Nov 2022 11:11:00 +0000
 tags: podcast
 guid: goldman-ts-lombard-confirm-fed-inflation-target-hike-now-inevitable-0
-order: 2
+order: 0
 ---
 &quot;As the supply curve flattens at negative output gap levels, the output and social cost of bringing inflation to 2% increases disproportionately, creating the political context for the inflation target level revision debate&quot; - Goldman
 
