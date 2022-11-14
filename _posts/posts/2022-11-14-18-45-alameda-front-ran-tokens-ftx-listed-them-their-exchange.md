@@ -9,7 +9,7 @@ length: 106
 datetime: Mon, 14 Nov 2022 18:45:00 +0000
 tags: podcast
 guid: alameda-front-ran-tokens-ftx-listed-them-their-exchange-0
-order: 0
+order: 2
 ---
 The FTX listing added &quot;both liquidity and a stamp of legitimacy&quot; to tokens, often resulting in a rise in price. 
 
