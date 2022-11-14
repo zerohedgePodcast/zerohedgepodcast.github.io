@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Xi &amp; Biden Condemn Nuclear Rhetoric Over Ukraine, Seek To 'Manage' Competition In 3-Hour G20 Meeting"
-audio: xi-biden-condemn-nuclear-rhetoric-over-ukraine-seek-manage-competition-3-hour-g20-0
+title: "Biden Sees 'No Imminent Attempt Of China To Invade Taiwan' After Xi Meeting"
+audio: xi-biden-condemn-nuclear-rhetoric-over-ukraine-seek-manage-competition-3-hour-g20-1
 category: geopolitical
-desc: "&quot;Good to see you,&quot; Biden said to Xi at the start of the historic meeting in Bali."
-duration: 00:07:23
-length: 443
-datetime: Mon, 14 Nov 2022 14:00:00 +0000
+desc: "China's Xi responds this is &quot;the first red line that must not be crossed&quot;..."
+duration: 00:09:28
+length: 568
+datetime: Mon, 14 Nov 2022 15:52:00 +0000
 tags: podcast
 guid: xi-biden-condemn-nuclear-rhetoric-over-ukraine-seek-manage-competition-3-hour-g20-0
 order: 0
 ---
-&quot;Good to see you,&quot; Biden said to Xi at the start of the historic meeting in Bali.
+China's Xi responds this is &quot;the first red line that must not be crossed&quot;...
 
 Link: [https://www.zerohedge.com/geopolitical/xi-biden-condemn-nuclear-rhetoric-over-ukraine-seek-manage-competition-3-hour-g20](https://www.zerohedge.com/geopolitical/xi-biden-condemn-nuclear-rhetoric-over-ukraine-seek-manage-competition-3-hour-g20)
 
