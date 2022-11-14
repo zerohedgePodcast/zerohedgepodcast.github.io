@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Freeport Dismisses Reopening Claims On Twitter, Sends US NatGas Prices Higher"
-audio: freeport-dismisses-reopening-claims-twitter-sends-us-natgas-prices-higher-0
+title: "US NatGas Tumbles On Bloomberg Report That Freeport LNG May Extend Plant Outage"
+audio: freeport-dismisses-reopening-claims-twitter-sends-us-natgas-prices-higher-1
 category: commodities
-desc: "&quot;Any Tweets and/or posts on Freeport LNG branded letterhead that may have been obtained or published, are reporting false information and are not legitimate...&quot; "
-duration: 00:02:18
-length: 138
-datetime: Mon, 14 Nov 2022 14:50:00 +0000
+desc: "People with direct knowledge of the situation said LNG shipments for November and December..."
+duration: 00:03:34
+length: 214
+datetime: Mon, 14 Nov 2022 18:36:00 +0000
 tags: podcast
 guid: freeport-dismisses-reopening-claims-twitter-sends-us-natgas-prices-higher-0
 order: 0
 ---
-&quot;Any Tweets and/or posts on Freeport LNG branded letterhead that may have been obtained or published, are reporting false information and are not legitimate...&quot; 
+People with direct knowledge of the situation said LNG shipments for November and December...
 
 Link: [https://www.zerohedge.com/commodities/freeport-dismisses-reopening-claims-twitter-sends-us-natgas-prices-higher](https://www.zerohedge.com/commodities/freeport-dismisses-reopening-claims-twitter-sends-us-natgas-prices-higher)
 
