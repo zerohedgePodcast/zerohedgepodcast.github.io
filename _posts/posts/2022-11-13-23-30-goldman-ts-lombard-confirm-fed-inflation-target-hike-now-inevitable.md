@@ -9,7 +9,7 @@ length: 1017
 datetime: Sun, 13 Nov 2022 23:30:00 +0000
 tags: podcast
 guid: goldman-ts-lombard-confirm-fed-inflation-target-hike-now-inevitable-0
-order: 2
+order: 0
 ---
 &quot;As the supply curve flattens at negative output gap levels, the output and social cost of bringing inflation to 2% increases disproportionately, creating the political context for the inflation target level revision debate&quot; - Goldman
 
