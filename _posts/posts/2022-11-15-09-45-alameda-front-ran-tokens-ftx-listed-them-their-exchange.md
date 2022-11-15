@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Alameda Frontran Crypto Tokens Ahead Of New Listings On FTX"
-audio: alameda-front-ran-tokens-ftx-listed-them-their-exchange-0
+audio: alameda-front-ran-tokens-ftx-listed-them-their-exchange-1
 category: markets
 desc: "The FTX listing added &quot;both liquidity and a stamp of legitimacy&quot; to tokens, often resulting in a rise in price. "
 duration: 00:01:46
 length: 106
-datetime: Mon, 14 Nov 2022 18:45:00 +0000
+datetime: Tue, 15 Nov 2022 09:45:00 +0000
 tags: podcast
 guid: alameda-front-ran-tokens-ftx-listed-them-their-exchange-0
-order: 1
+order: 0
 ---
 The FTX listing added &quot;both liquidity and a stamp of legitimacy&quot; to tokens, often resulting in a rise in price. 
 
