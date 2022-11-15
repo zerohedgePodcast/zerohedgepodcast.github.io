@@ -9,7 +9,7 @@ length: 313
 datetime: Tue, 15 Nov 2022 19:00:00 +0000
 tags: podcast
 guid: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-0
-order: 2
+order: 1
 ---
 US is &quot;gathering more information&quot; while Pentagon says &quot;will defend every inch of NATO territory&quot;...
 
