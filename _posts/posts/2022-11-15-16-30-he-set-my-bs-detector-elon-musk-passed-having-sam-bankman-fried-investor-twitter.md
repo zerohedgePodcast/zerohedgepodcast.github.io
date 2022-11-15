@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;He Set Off My BS Detector&quot;: Elon Musk Passed On Having Sam Bankman-Fried As Investor In Twitter"
-audio: he-set-my-bs-detector-elon-musk-passed-having-sam-bankman-fried-investor-twitter-0
+audio: he-set-my-bs-detector-elon-musk-passed-having-sam-bankman-fried-investor-twitter-1
 category: markets
 desc: "&quot;Does Sam actually have $3B liquid?&quot;"
 duration: 00:02:00
 length: 120
-datetime: Tue, 15 Nov 2022 14:30:00 +0000
+datetime: Tue, 15 Nov 2022 16:30:00 +0000
 tags: podcast
 guid: he-set-my-bs-detector-elon-musk-passed-having-sam-bankman-fried-investor-twitter-0
-order: 1
+order: 0
 ---
 &quot;Does Sam actually have $3B liquid?&quot;
 
