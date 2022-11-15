@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "FTX Founder Sam Bankman-Fried Lists Bahamas Penthouse For $40 Million"
-audio: ftx-founder-sam-bankman-fried-lists-bahamas-penthouse-40-million-1
+audio: ftx-founder-sam-bankman-fried-lists-bahamas-penthouse-40-million-2
 category: political
 desc: "People close to current and former FTX employees who have been at the residence confirmed that it was SBF's..."
 duration: 00:01:14
 length: 74
-datetime: Mon, 14 Nov 2022 16:49:00 +0000
+datetime: Tue, 15 Nov 2022 08:49:00 +0000
 tags: podcast
 guid: ftx-founder-sam-bankman-fried-lists-bahamas-penthouse-40-million-0
-order: 1
+order: 0
 ---
 People close to current and former FTX employees who have been at the residence confirmed that it was SBF's...
 
