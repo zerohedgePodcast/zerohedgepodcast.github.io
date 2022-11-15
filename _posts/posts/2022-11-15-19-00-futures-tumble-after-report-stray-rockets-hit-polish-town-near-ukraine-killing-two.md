@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Futures Tumble After Report &quot;Stray&quot; Rockets Hit Polish Town Near Ukraine, Killing Two"
-audio: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-0
+title: "Russia Rejects Allegations Of Missile Attack On Poland, Slamming &quot;Deliberate Provocation&quot;"
+audio: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-1
 category: markets
-desc: "Prime Minister Morawiecki convenes an urgent meeting of the Committee of the Council of Ministers for National Security Council. "
-duration: 00:01:51
-length: 111
-datetime: Tue, 15 Nov 2022 18:37:00 +0000
+desc: "US is &quot;gathering more information&quot; while Pentagon says &quot;will defend every inch of NATO territory&quot;..."
+duration: 00:05:13
+length: 313
+datetime: Tue, 15 Nov 2022 19:00:00 +0000
 tags: podcast
 guid: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-0
 order: 2
 ---
-Prime Minister Morawiecki convenes an urgent meeting of the Committee of the Council of Ministers for National Security Council. 
+US is &quot;gathering more information&quot; while Pentagon says &quot;will defend every inch of NATO territory&quot;...
 
 Link: [https://www.zerohedge.com/markets/futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two](https://www.zerohedge.com/markets/futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two)
 
