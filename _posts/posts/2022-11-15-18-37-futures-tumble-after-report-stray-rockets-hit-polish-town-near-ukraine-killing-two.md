@@ -9,7 +9,7 @@ length: 111
 datetime: Tue, 15 Nov 2022 18:37:00 +0000
 tags: podcast
 guid: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-0
-order: 0
+order: 2
 ---
 Prime Minister Morawiecki convenes an urgent meeting of the Committee of the Council of Ministers for National Security Council. 
 
