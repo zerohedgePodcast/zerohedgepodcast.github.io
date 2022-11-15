@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "A Shocking Defense Of Crypto From JPMorgan: &quot;The FTX Collapse Will Be A Massive Ramp For Institutional Adoption&quot; "
-audio: shocking-defense-crypto-jpmorgan-ftx-collapse-will-be-massive-ramp-institutional-adoption-0
+audio: shocking-defense-crypto-jpmorgan-ftx-collapse-will-be-massive-ramp-institutional-adoption-1
 category: markets
 desc: "&quot;While the news of the collapse of FTX is empowering crypto skeptics, we would point out that all of the recent collapses in the crypto ecosystem have been from centralized players and not from decentralized protocols.&quot;"
 duration: 00:04:04
 length: 244
-datetime: Mon, 14 Nov 2022 17:25:00 +0000
+datetime: Tue, 15 Nov 2022 00:44:00 +0000
 tags: podcast
 guid: shocking-defense-crypto-jpmorgan-ftx-collapse-will-be-massive-ramp-institutional-adoption-0
 order: 0
