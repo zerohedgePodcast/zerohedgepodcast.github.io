@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Russia Rejects Allegations Of Missile Attack On Poland, Slamming &quot;Deliberate Provocation&quot;"
-audio: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-1
+title: "Poland Invokes NATO Article 4 Over Alleged Russian Missile Attack"
+audio: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-2
 category: markets
-desc: "US is &quot;gathering more information&quot; while Pentagon says &quot;will defend every inch of NATO territory&quot;..."
-duration: 00:05:13
-length: 313
-datetime: Tue, 15 Nov 2022 19:00:00 +0000
+desc: "Zelensky in predictable fashion casting it as an Article 5-style &quot;attack on collective security&quot;... "
+duration: 00:08:59
+length: 539
+datetime: Tue, 15 Nov 2022 22:15:00 +0000
 tags: podcast
 guid: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-0
 order: 1
 ---
-US is &quot;gathering more information&quot; while Pentagon says &quot;will defend every inch of NATO territory&quot;...
+Zelensky in predictable fashion casting it as an Article 5-style &quot;attack on collective security&quot;... 
 
 Link: [https://www.zerohedge.com/markets/futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two](https://www.zerohedge.com/markets/futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two)
 
