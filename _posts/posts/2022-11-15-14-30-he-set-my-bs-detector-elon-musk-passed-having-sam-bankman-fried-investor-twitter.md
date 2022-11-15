@@ -9,7 +9,7 @@ length: 120
 datetime: Tue, 15 Nov 2022 14:30:00 +0000
 tags: podcast
 guid: he-set-my-bs-detector-elon-musk-passed-having-sam-bankman-fried-investor-twitter-0
-order: 0
+order: 1
 ---
 &quot;Does Sam actually have $3B liquid?&quot;
 
