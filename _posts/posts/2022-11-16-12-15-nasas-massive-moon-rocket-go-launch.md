@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "NASA's Massive Moon Rocket 'Go' For Launch "
-audio: nasas-massive-moon-rocket-go-launch-0
+title: "NASA Successfully Launches Moon Rocket On 26-Day Lunar Mission"
+audio: nasas-massive-moon-rocket-go-launch-1
 category: technology
-desc: "&quot;I feel good headed into this attempt on the 16th.&quot; "
-duration: 00:02:08
-length: 128
-datetime: Wed, 16 Nov 2022 04:00:00 +0000
+desc: "&quot;[F]or the Artemis generation, this is for you.&quot; "
+duration: 00:03:19
+length: 199
+datetime: Wed, 16 Nov 2022 12:15:00 +0000
 tags: podcast
 guid: nasas-massive-moon-rocket-go-launch-0
 order: 0
 ---
-&quot;I feel good headed into this attempt on the 16th.&quot; 
+&quot;[F]or the Artemis generation, this is for you.&quot; 
 
 Link: [https://www.zerohedge.com/technology/nasas-massive-moon-rocket-go-launch](https://www.zerohedge.com/technology/nasas-massive-moon-rocket-go-launch)
 

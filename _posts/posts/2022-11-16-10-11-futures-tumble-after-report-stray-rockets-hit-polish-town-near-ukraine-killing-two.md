@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Poland Missile Strike May Have Come From Ukraine Self-Defense: US Officials"
-audio: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-4
+audio: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-5
 category: markets
 desc: "Fired at an incoming Russian missile? "
-duration: 00:14:32
-length: 872
-datetime: Wed, 16 Nov 2022 05:31:00 +0000
+duration: 00:14:29
+length: 869
+datetime: Wed, 16 Nov 2022 10:11:00 +0000
 tags: podcast
 guid: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-0
-order: 1
+order: 0
 ---
 Fired at an incoming Russian missile? 
 
