@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "NASA Successfully Launches Moon Rocket On 26-Day Lunar Mission"
-audio: nasas-massive-moon-rocket-go-launch-1
+title: "NASA Releases Breathtaking Views Of Earth From Moon-Bound Spacecraft"
+audio: nasas-massive-moon-rocket-go-launch-2
 category: technology
-desc: "&quot;[F]or the Artemis generation, this is for you.&quot; "
-duration: 00:03:19
-length: 199
-datetime: Wed, 16 Nov 2022 12:15:00 +0000
+desc: "&quot; ... stunning views of our home planet.&quot;"
+duration: 00:04:25
+length: 265
+datetime: Wed, 16 Nov 2022 19:17:00 +0000
 tags: podcast
 guid: nasas-massive-moon-rocket-go-launch-0
 order: 0
 ---
-&quot;[F]or the Artemis generation, this is for you.&quot; 
+&quot; ... stunning views of our home planet.&quot;
 
 Link: [https://www.zerohedge.com/technology/nasas-massive-moon-rocket-go-launch](https://www.zerohedge.com/technology/nasas-massive-moon-rocket-go-launch)
 
