@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Poland Invokes NATO Article 4 Over Alleged Russian Missile Attack"
-audio: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-2
+title: "Poland's President Says &quot;No Evidence&quot; Who Fired On Border Village"
+audio: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-3
 category: markets
-desc: "Zelensky in predictable fashion casting it as an Article 5-style &quot;attack on collective security&quot;... "
-duration: 00:08:59
-length: 539
-datetime: Tue, 15 Nov 2022 22:15:00 +0000
+desc: "Duda: &quot;there are no indications that today's incident would be repeated.&quot;"
+duration: 00:10:59
+length: 659
+datetime: Wed, 16 Nov 2022 00:20:00 +0000
 tags: podcast
 guid: futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two-0
 order: 1
 ---
-Zelensky in predictable fashion casting it as an Article 5-style &quot;attack on collective security&quot;... 
+Duda: &quot;there are no indications that today's incident would be repeated.&quot;
 
 Link: [https://www.zerohedge.com/markets/futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two](https://www.zerohedge.com/markets/futures-tumble-after-report-stray-rockets-hit-polish-town-near-ukraine-killing-two)
 
