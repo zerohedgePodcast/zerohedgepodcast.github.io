@@ -9,7 +9,7 @@ length: 373
 datetime: Wed, 16 Nov 2022 16:20:00 +0000
 tags: podcast
 guid: germany-preparing-emergency-cash-deliveries-bank-runs-ahead-winter-power-cuts-0
-order: 2
+order: 1
 ---
 &quot;If a blackout struck, one option for policymakers could be to limit the amount of cash individuals withdraw...&quot;
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Poland, NATO Agree Deadly Polish Border 'Russian Attack' Was Errant Ukrainian Missile"
-audio: poland-nato-agree-deadly-poland-border-russian-attack-was-errant-ukrainian-missile-0
+title: "White House: Ukrainian Missile Landed In Poland, But Ultimate Blame Still On Russia"
+audio: poland-nato-agree-deadly-poland-border-russian-attack-was-errant-ukrainian-missile-1
 category: markets
-desc: "Deeply awkward narrative reversal given Zelensky a mere hours ago urged NATO military action needed!"
-duration: 00:06:08
-length: 368
-datetime: Wed, 16 Nov 2022 13:43:00 +0000
+desc: "Did we almost get lied into WWIII?"
+duration: 00:08:09
+length: 489
+datetime: Wed, 16 Nov 2022 18:14:00 +0000
 tags: podcast
 guid: poland-nato-agree-deadly-poland-border-russian-attack-was-errant-ukrainian-missile-0
-order: 1
+order: 2
 ---
-Deeply awkward narrative reversal given Zelensky a mere hours ago urged NATO military action needed!
+Did we almost get lied into WWIII?
 
 Link: [https://www.zerohedge.com/markets/poland-nato-agree-deadly-poland-border-russian-attack-was-errant-ukrainian-missile](https://www.zerohedge.com/markets/poland-nato-agree-deadly-poland-border-russian-attack-was-errant-ukrainian-missile)
 
