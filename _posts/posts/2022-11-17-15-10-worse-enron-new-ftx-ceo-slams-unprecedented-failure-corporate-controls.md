@@ -9,7 +9,7 @@ length: 1088
 datetime: Thu, 17 Nov 2022 15:10:00 +0000
 tags: podcast
 guid: worse-enron-new-ftx-ceo-slams-unprecedented-failure-corporate-controls-0
-order: 2
+order: 1
 ---
 &quot;Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here.&quot;
 
