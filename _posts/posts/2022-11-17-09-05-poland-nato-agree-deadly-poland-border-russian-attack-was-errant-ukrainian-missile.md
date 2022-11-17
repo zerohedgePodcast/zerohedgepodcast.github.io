@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Associated Press Issues Correction To Its Fake Report Which Could Have Kicked Off WW3"
-audio: poland-nato-agree-deadly-poland-border-russian-attack-was-errant-ukrainian-missile-2
+audio: poland-nato-agree-deadly-poland-border-russian-attack-was-errant-ukrainian-missile-3
 category: markets
 desc: "And next time will it be mushroom cloud before correction?"
 duration: 00:08:49
 length: 529
-datetime: Wed, 16 Nov 2022 21:05:00 +0000
+datetime: Thu, 17 Nov 2022 09:05:00 +0000
 tags: podcast
 guid: poland-nato-agree-deadly-poland-border-russian-attack-was-errant-ukrainian-missile-0
-order: 2
+order: 0
 ---
 And next time will it be mushroom cloud before correction?
 

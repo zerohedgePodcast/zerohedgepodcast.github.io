@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Germany Preparing For Emergency Cash Deliveries, Bank Runs And &quot;Aggressive Discontent&quot; Ahead Of Winter Power Cuts"
-audio: germany-preparing-emergency-cash-deliveries-bank-runs-ahead-winter-power-cuts-0
+audio: germany-preparing-emergency-cash-deliveries-bank-runs-ahead-winter-power-cuts-1
 category: markets
 desc: "&quot;If a blackout struck, one option for policymakers could be to limit the amount of cash individuals withdraw...&quot;"
 duration: 00:06:13
 length: 373
-datetime: Wed, 16 Nov 2022 16:20:00 +0000
+datetime: Thu, 17 Nov 2022 10:44:00 +0000
 tags: podcast
 guid: germany-preparing-emergency-cash-deliveries-bank-runs-ahead-winter-power-cuts-0
-order: 1
+order: 0
 ---
 &quot;If a blackout struck, one option for policymakers could be to limit the amount of cash individuals withdraw...&quot;
 
