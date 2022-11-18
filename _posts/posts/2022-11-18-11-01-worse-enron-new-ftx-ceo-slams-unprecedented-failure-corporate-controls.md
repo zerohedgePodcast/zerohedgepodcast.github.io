@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;This Is Unprecedented&quot;: Enron Liquidator Overseeing FTX Bankruptcy Speechless: &quot;I Have Never Seen Anything Like This&quot;"
-audio: worse-enron-new-ftx-ceo-slams-unprecedented-failure-corporate-controls-0
+audio: worse-enron-new-ftx-ceo-slams-unprecedented-failure-corporate-controls-1
 category: political
 desc: "&quot;Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here.&quot;"
-duration: 00:18:08
-length: 1088
-datetime: Thu, 17 Nov 2022 15:10:00 +0000
+duration: 00:22:33
+length: 1353
+datetime: Fri, 18 Nov 2022 11:01:00 +0000
 tags: podcast
 guid: worse-enron-new-ftx-ceo-slams-unprecedented-failure-corporate-controls-0
-order: 1
+order: 0
 ---
 &quot;Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here.&quot;
 

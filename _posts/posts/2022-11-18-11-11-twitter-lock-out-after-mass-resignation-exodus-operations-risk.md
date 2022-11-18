@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Twitter On Lock Out After Mass Resignation Exodus; Operations At Risk"
-audio: twitter-lock-out-after-mass-resignation-exodus-operations-risk-0
+audio: twitter-lock-out-after-mass-resignation-exodus-operations-risk-1
 category: markets
 desc: "&quot;Twitter just alerted employees that effective immediately, all office buildings are temporarily closed and badge access is suspended.&quot;"
 duration: 00:06:41
 length: 401
-datetime: Fri, 18 Nov 2022 03:31:00 +0000
+datetime: Fri, 18 Nov 2022 11:11:00 +0000
 tags: podcast
 guid: twitter-lock-out-after-mass-resignation-exodus-operations-risk-0
-order: 2
+order: 0
 ---
 &quot;Twitter just alerted employees that effective immediately, all office buildings are temporarily closed and badge access is suspended.&quot;
 
