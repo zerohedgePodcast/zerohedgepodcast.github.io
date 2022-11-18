@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Theranos' Founder Elizabeth Holmes Faces Judgment Day"
-audio: theranos-founder-elizabeth-holmes-faces-judgment-day-0
+title: "Elizabeth Holmes Sentenced To 11 Years In Prison For Theranos Fraud"
+audio: theranos-founder-elizabeth-holmes-faces-judgment-day-1
 category: markets
-desc: "US District Judge Edward Davila could sentence Holmes to federal prison for 15 years..."
-duration: 00:01:57
-length: 117
-datetime: Fri, 18 Nov 2022 15:40:00 +0000
+desc: "&quot;I am devastated by my failings...&quot;"
+duration: 00:03:31
+length: 211
+datetime: Fri, 18 Nov 2022 22:21:00 +0000
 tags: podcast
 guid: theranos-founder-elizabeth-holmes-faces-judgment-day-0
-order: 0
+order: 2
 ---
-US District Judge Edward Davila could sentence Holmes to federal prison for 15 years...
+&quot;I am devastated by my failings...&quot;
 
 Link: [https://www.zerohedge.com/markets/theranos-founder-elizabeth-holmes-faces-judgment-day](https://www.zerohedge.com/markets/theranos-founder-elizabeth-holmes-faces-judgment-day)
 
