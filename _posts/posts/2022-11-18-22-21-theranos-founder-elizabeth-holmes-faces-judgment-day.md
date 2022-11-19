@@ -9,7 +9,7 @@ length: 211
 datetime: Fri, 18 Nov 2022 22:21:00 +0000
 tags: podcast
 guid: theranos-founder-elizabeth-holmes-faces-judgment-day-0
-order: 1
+order: 0
 ---
 &quot;I am devastated by my failings...&quot;
 
