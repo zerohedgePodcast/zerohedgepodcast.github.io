@@ -9,7 +9,7 @@ length: 237
 datetime: Fri, 18 Nov 2022 10:45:00 +0000
 tags: podcast
 guid: g20-declares-vaccine-passports-needed-future-international-travel-0
-order: 1
+order: 0
 ---
 Watch: officials explain that a &quot;digital health certificate&quot; is urgently needed to determine when &quot;you can move around&quot;...
 
