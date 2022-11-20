@@ -9,7 +9,7 @@ length: 214
 datetime: Sat, 19 Nov 2022 20:30:00 +0000
 tags: podcast
 guid: judge-orders-unsealing-names-8-anonymous-individuals-relating-jeffrey-epstein-0
-order: 2
+order: 1
 ---
 &quot;Public interest outweighs the right to privacy...&quot;
 

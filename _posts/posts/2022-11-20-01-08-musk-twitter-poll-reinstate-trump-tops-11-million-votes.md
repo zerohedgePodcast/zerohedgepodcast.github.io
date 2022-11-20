@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Musk Twitter Poll To Reinstate Trump Tops 11 Million Votes"
-audio: musk-twitter-poll-reinstate-trump-tops-11-million-votes-0
+title: "Trump To Be Reinstated On Twitter"
+audio: musk-twitter-poll-reinstate-trump-tops-11-million-votes-1
 category: political
 desc: "&quot;Vox Populi, Vox Dei&quot;"
-duration: 00:02:00
-length: 120
-datetime: Sat, 19 Nov 2022 18:00:00 +0000
+duration: 00:03:21
+length: 201
+datetime: Sun, 20 Nov 2022 01:08:00 +0000
 tags: podcast
 guid: musk-twitter-poll-reinstate-trump-tops-11-million-votes-0
-order: 1
+order: 2
 ---
 &quot;Vox Populi, Vox Dei&quot;
 
