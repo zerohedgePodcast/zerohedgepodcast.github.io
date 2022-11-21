@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Kevin McCarthy Plans To Oust Ilhan Omar From House Committee For &quot;Anti-Semitic&quot; Comments"
-audio: kevin-mccarthy-plans-oust-ilhan-omar-house-committee-anti-semitic-comments-0
+audio: kevin-mccarthy-plans-oust-ilhan-omar-house-committee-anti-semitic-comments-1
 category: political
 desc: "&quot;We watch anti-Semitism grow in the halls of Congress... she [Omar] will no longer be on Foreign Affairs, and I'm keeping that promise,&quot; "
 duration: 00:02:30
 length: 150
-datetime: Mon, 21 Nov 2022 13:50:00 +0000
+datetime: Mon, 21 Nov 2022 16:33:00 +0000
 tags: podcast
 guid: kevin-mccarthy-plans-oust-ilhan-omar-house-committee-anti-semitic-comments-0
-order: 1
+order: 0
 ---
 &quot;We watch anti-Semitism grow in the halls of Congress... she [Omar] will no longer be on Foreign Affairs, and I'm keeping that promise,&quot; 
 
