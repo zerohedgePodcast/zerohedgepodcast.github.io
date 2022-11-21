@@ -9,7 +9,7 @@ length: 138
 datetime: Sun, 20 Nov 2022 20:00:00 +0000
 tags: podcast
 guid: just-kidding-cbs-news-resumes-twitter-posts-after-40-hour-tantrum-0
-order: 1
+order: 0
 ---
 &quot;Your heroism will not go unrewarded...&quot;
 
