@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Arizona AG Launches Investigation Into Maricopa County 'Election Irregularities'"
-audio: arizona-ag-launches-investigation-maricopa-county-election-irregularities-0
+audio: arizona-ag-launches-investigation-maricopa-county-election-irregularities-1
 category: political
 desc: "&quot;These complaints go beyond pure speculation, but include first-hand witness accounts...&quot;"
 duration: 00:02:06
 length: 126
-datetime: Sun, 20 Nov 2022 17:00:00 +0000
+datetime: Mon, 21 Nov 2022 09:28:00 +0000
 tags: podcast
 guid: arizona-ag-launches-investigation-maricopa-county-election-irregularities-0
-order: 1
+order: 0
 ---
 &quot;These complaints go beyond pure speculation, but include first-hand witness accounts...&quot;
 
