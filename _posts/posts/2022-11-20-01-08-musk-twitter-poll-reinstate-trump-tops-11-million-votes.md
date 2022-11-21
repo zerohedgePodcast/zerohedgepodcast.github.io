@@ -9,7 +9,7 @@ length: 201
 datetime: Sun, 20 Nov 2022 01:08:00 +0000
 tags: podcast
 guid: musk-twitter-poll-reinstate-trump-tops-11-million-votes-0
-order: 2
+order: 0
 ---
 &quot;Vox Populi, Vox Dei&quot;
 
