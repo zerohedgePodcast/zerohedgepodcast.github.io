@@ -9,7 +9,7 @@ length: 183
 datetime: Mon, 21 Nov 2022 18:40:00 +0000
 tags: podcast
 guid: youre-absolute-fraud-cme-ceo-terry-duffy-recalls-first-meeting-sam-bankman-fried-march-2022-0
-order: 0
+order: 2
 ---
 Ole' Terry's senses from days of being in the pit are still sharp as can be. He pegged FTX for a fraud before the company blew up - and told Bankman-Fried as much to his face. 
 
