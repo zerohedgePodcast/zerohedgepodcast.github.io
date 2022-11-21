@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Oil Plunges After Report On OPEC+ Production Increase"
-audio: oil-plunges-after-report-opec-production-increase-0
+title: "Oil Rebounds After Saudis Deny WSJ Report On OPEC Production Hike"
+audio: oil-plunges-after-report-opec-production-increase-1
 category: energy
-desc: "...quid pro quo, indeed."
-duration: 00:01:13
-length: 73
-datetime: Mon, 21 Nov 2022 14:26:00 +0000
+desc: "...the current OPEC+ deal will continue until the end of 2023..."
+duration: 00:02:08
+length: 128
+datetime: Mon, 21 Nov 2022 17:07:00 +0000
 tags: podcast
 guid: oil-plunges-after-report-opec-production-increase-0
 order: 0
 ---
-...quid pro quo, indeed.
+...the current OPEC+ deal will continue until the end of 2023...
 
 Link: [https://www.zerohedge.com/energy/oil-plunges-after-report-opec-production-increase](https://www.zerohedge.com/energy/oil-plunges-after-report-opec-production-increase)
 
