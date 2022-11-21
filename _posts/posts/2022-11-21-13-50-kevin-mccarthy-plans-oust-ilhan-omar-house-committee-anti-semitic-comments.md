@@ -9,7 +9,7 @@ length: 150
 datetime: Mon, 21 Nov 2022 13:50:00 +0000
 tags: podcast
 guid: kevin-mccarthy-plans-oust-ilhan-omar-house-committee-anti-semitic-comments-0
-order: 0
+order: 2
 ---
 &quot;We watch anti-Semitism grow in the halls of Congress... she [Omar] will no longer be on Foreign Affairs, and I'm keeping that promise,&quot; 
 
