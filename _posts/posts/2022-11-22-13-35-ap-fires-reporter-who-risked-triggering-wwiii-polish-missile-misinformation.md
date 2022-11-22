@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "AP Fires Reporter Who Risked Triggering WWIII With Polish Missile Misinformation"
-audio: ap-fires-reporter-who-risked-triggering-wwiii-polish-missile-misinformation-0
+audio: ap-fires-reporter-who-risked-triggering-wwiii-polish-missile-misinformation-1
 category: political
 desc: "And who was the anonymous 'senior intelligence official'?"
-duration: 00:01:49
-length: 109
-datetime: Tue, 22 Nov 2022 04:40:00 +0000
+duration: 00:01:52
+length: 112
+datetime: Tue, 22 Nov 2022 13:35:00 +0000
 tags: podcast
 guid: ap-fires-reporter-who-risked-triggering-wwiii-polish-missile-misinformation-0
-order: 1
+order: 0
 ---
 And who was the anonymous 'senior intelligence official'?
 
