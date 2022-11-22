@@ -9,7 +9,7 @@ length: 135
 datetime: Tue, 22 Nov 2022 14:35:00 +0000
 tags: podcast
 guid: sam-bankman-frieds-parents-bought-bahamas-vacation-home-among-121-million-ftx-property-0
-order: 0
+order: 1
 ---
 A unit of FTX called &quot;FTX Property Holdings Ltd&quot; bought about 15 properties worth $100 million in 2021 and 2022. 
 
