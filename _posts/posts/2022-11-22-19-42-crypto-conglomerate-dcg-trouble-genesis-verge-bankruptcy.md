@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Is Crypto Conglomerate DCG In Trouble With Genesis On Verge Of Bankruptcy?"
-audio: crypto-conglomerate-dcg-trouble-genesis-verge-bankruptcy-0
+title: "DCG Founder Silbert Says &quot;We'll Come Out Of It Stronger&quot; Amid Crypto Crisis"
+audio: crypto-conglomerate-dcg-trouble-genesis-verge-bankruptcy-1
 category: crypto
-desc: "Massive fallout will ensue if Genesis fails, especially considering the firm's role as a nexus for institutional investment in crypto..."
-duration: 00:15:19
-length: 919
-datetime: Tue, 22 Nov 2022 17:35:00 +0000
+desc: "&quot;DCG will continue to be a leading builder of the industry and we are committed to our long-term mission of accelerating the development of a better financial system,&quot;"
+duration: 00:17:27
+length: 1047
+datetime: Tue, 22 Nov 2022 19:42:00 +0000
 tags: podcast
 guid: crypto-conglomerate-dcg-trouble-genesis-verge-bankruptcy-0
 order: 0
 ---
-Massive fallout will ensue if Genesis fails, especially considering the firm's role as a nexus for institutional investment in crypto...
+&quot;DCG will continue to be a leading builder of the industry and we are committed to our long-term mission of accelerating the development of a better financial system,&quot;
 
 Link: [https://www.zerohedge.com/crypto/crypto-conglomerate-dcg-trouble-genesis-verge-bankruptcy](https://www.zerohedge.com/crypto/crypto-conglomerate-dcg-trouble-genesis-verge-bankruptcy)
 
