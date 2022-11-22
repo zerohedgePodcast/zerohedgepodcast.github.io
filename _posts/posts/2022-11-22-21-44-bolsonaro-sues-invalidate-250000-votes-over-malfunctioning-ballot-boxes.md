@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Bolsonaro Sues To Invalidate 250,000 Votes Over &quot;Malfunctioning Ballot Boxes&quot;"
-audio: bolsonaro-sues-invalidate-250000-votes-over-malfunctioning-ballot-boxes-0
+audio: bolsonaro-sues-invalidate-250000-votes-over-malfunctioning-ballot-boxes-1
 category: geopolitical
 desc: "An audit carried out at the request of the Liberal Party found that the old ballot boxes &quot;cannot be considered&quot;"
-duration: 00:02:21
-length: 141
-datetime: Tue, 22 Nov 2022 19:30:00 +0000
+duration: 00:02:28
+length: 148
+datetime: Tue, 22 Nov 2022 21:44:00 +0000
 tags: podcast
 guid: bolsonaro-sues-invalidate-250000-votes-over-malfunctioning-ballot-boxes-0
-order: 1
+order: 0
 ---
 An audit carried out at the request of the Liberal Party found that the old ballot boxes &quot;cannot be considered&quot;
 

@@ -9,7 +9,7 @@ length: 286
 datetime: Tue, 22 Nov 2022 21:40:00 +0000
 tags: podcast
 guid: chaos-breaks-out-when-reporter-asks-fauci-about-covid-origins-0
-order: 2
+order: 1
 ---
 &quot;I will not call on you if you yell, and also you're taking time off the clock because Dr. Fauci has to leave in a couple of minutes...&quot;
 
