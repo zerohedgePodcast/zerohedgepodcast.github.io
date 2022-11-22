@@ -9,7 +9,7 @@ length: 165
 datetime: Mon, 21 Nov 2022 18:00:00 +0000
 tags: podcast
 guid: teams-abandon-rainbow-armband-world-cup-matches-after-fifa-threat-0
-order: 1
+order: 0
 ---
 Quick &amp; immediate capitulation after &quot;principled&quot; stance...
 
