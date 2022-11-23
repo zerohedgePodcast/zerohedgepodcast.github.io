@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: Biden COVID Minion Tells Americans &quot;God Gave Us Two Arms&quot; For Multiple Vaccines"
-audio: watch-biden-covid-minion-tells-americans-god-gave-us-two-arms-multiple-vaccines-0
+audio: watch-biden-covid-minion-tells-americans-god-gave-us-two-arms-multiple-vaccines-1
 category: covid-19
 desc: "&quot;Get one in each arm if you want&quot;"
 duration: 00:02:54
 length: 174
-datetime: Wed, 23 Nov 2022 13:25:00 +0000
+datetime: Wed, 23 Nov 2022 15:25:00 +0000
 tags: podcast
 guid: watch-biden-covid-minion-tells-americans-god-gave-us-two-arms-multiple-vaccines-0
-order: 2
+order: 0
 ---
 &quot;Get one in each arm if you want&quot;
 
