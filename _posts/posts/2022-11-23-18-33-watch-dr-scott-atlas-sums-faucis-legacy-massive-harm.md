@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: Dr. Scott Atlas Sums Up Fauci's Legacy Of &quot;Massive Harm&quot;"
-audio: watch-dr-scott-atlas-sums-faucis-legacy-massive-harm-0
+audio: watch-dr-scott-atlas-sums-faucis-legacy-massive-harm-1
 category: political
 desc: "&quot;Fauci used children as shields, created psychological damage and destroyed trust in public health...&quot;"
 duration: 00:04:08
 length: 248
-datetime: Wed, 23 Nov 2022 18:25:00 +0000
+datetime: Wed, 23 Nov 2022 18:33:00 +0000
 tags: podcast
 guid: watch-dr-scott-atlas-sums-faucis-legacy-massive-harm-0
-order: 2
+order: 0
 ---
 &quot;Fauci used children as shields, created psychological damage and destroyed trust in public health...&quot;
 
