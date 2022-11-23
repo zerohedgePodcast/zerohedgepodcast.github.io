@@ -9,7 +9,7 @@ length: 174
 datetime: Wed, 23 Nov 2022 13:25:00 +0000
 tags: podcast
 guid: watch-biden-covid-minion-tells-americans-god-gave-us-two-arms-multiple-vaccines-0
-order: 0
+order: 2
 ---
 &quot;Get one in each arm if you want&quot;
 
