@@ -9,7 +9,7 @@ length: 338
 datetime: Wed, 23 Nov 2022 04:20:00 +0000
 tags: podcast
 guid: sbf-issues-another-rambling-apology-and-description-what-happened-comes-disturbed-sociopath-0
-order: 0
+order: 2
 ---
 &quot;I'm going to do what I can to make it up to you guysand to the customerseven if that takes the rest of my life.&quot;
 
