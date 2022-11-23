@@ -9,7 +9,7 @@ length: 305
 datetime: Wed, 23 Nov 2022 19:07:00 +0000
 tags: podcast
 guid: fomc-minutes-signal-higher-terminal-rate-slowing-pace-hikes-0
-order: 2
+order: 0
 ---
 ...participants emphasised final destination of Fed funds rate had become more important than pace...
 
