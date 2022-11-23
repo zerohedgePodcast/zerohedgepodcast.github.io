@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Massive &quot;Violent&quot; Unrest Rocks World's Largest iPhone Factory In China"
-audio: massive-unrest-rocks-worlds-largest-iphone-factory-china-0
+title: "China Restricts Movement Across iPhone City "
+audio: massive-unrest-rocks-worlds-largest-iphone-factory-china-1
 category: markets
-desc: "&quot;It's really a mess.&quot;"
-duration: 00:03:57
-length: 237
-datetime: Wed, 23 Nov 2022 12:00:00 +0000
+desc: "Unrest and Covid plague the city. "
+duration: 00:05:14
+length: 314
+datetime: Wed, 23 Nov 2022 20:44:00 +0000
 tags: podcast
 guid: massive-unrest-rocks-worlds-largest-iphone-factory-china-0
-order: 1
+order: 0
 ---
-&quot;It's really a mess.&quot;
+Unrest and Covid plague the city. 
 
 Link: [https://www.zerohedge.com/markets/massive-unrest-rocks-worlds-largest-iphone-factory-china](https://www.zerohedge.com/markets/massive-unrest-rocks-worlds-largest-iphone-factory-china)
 
