@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "SBF Issues Another Rambling Apology And &quot;Description Of What Happened&quot;, Comes Off As Disturbed Sociopath"
-audio: sbf-issues-another-rambling-apology-and-description-what-happened-comes-disturbed-sociopath-0
+audio: sbf-issues-another-rambling-apology-and-description-what-happened-comes-disturbed-sociopath-1
 category: markets
 desc: "&quot;I'm going to do what I can to make it up to you guysand to the customerseven if that takes the rest of my life.&quot;"
 duration: 00:05:38
 length: 338
-datetime: Wed, 23 Nov 2022 04:20:00 +0000
+datetime: Wed, 23 Nov 2022 12:15:00 +0000
 tags: podcast
 guid: sbf-issues-another-rambling-apology-and-description-what-happened-comes-disturbed-sociopath-0
-order: 1
+order: 0
 ---
 &quot;I'm going to do what I can to make it up to you guysand to the customerseven if that takes the rest of my life.&quot;
 
