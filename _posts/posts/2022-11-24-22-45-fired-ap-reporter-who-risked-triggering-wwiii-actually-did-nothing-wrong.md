@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Fired AP Reporter Who 'Risked Triggering WWIII' Actually Did Nothing Wrong"
-audio: fired-ap-reporter-who-risked-triggering-wwiii-actually-did-nothing-wrong-0
+audio: fired-ap-reporter-who-risked-triggering-wwiii-actually-did-nothing-wrong-1
 category: political
 desc: "The definition of scapegoat..."
 duration: 00:03:04
 length: 184
-datetime: Thu, 24 Nov 2022 00:20:00 +0000
+datetime: Thu, 24 Nov 2022 22:45:00 +0000
 tags: podcast
 guid: fired-ap-reporter-who-risked-triggering-wwiii-actually-did-nothing-wrong-0
-order: 2
+order: 0
 ---
 The definition of scapegoat...
 

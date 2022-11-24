@@ -9,7 +9,7 @@ length: 177
 datetime: Thu, 24 Nov 2022 18:55:00 +0000
 tags: podcast
 guid: fired-twitter-moderator-worries-about-platforms-free-speech-future-0
-order: 0
+order: 2
 ---
 ...it's easy to understand why the company operated as a far-left echo chamber for so long...
 
