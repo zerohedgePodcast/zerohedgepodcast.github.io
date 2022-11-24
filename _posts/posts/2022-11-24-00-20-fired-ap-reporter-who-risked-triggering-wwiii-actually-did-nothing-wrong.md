@@ -9,7 +9,7 @@ length: 184
 datetime: Thu, 24 Nov 2022 00:20:00 +0000
 tags: podcast
 guid: fired-ap-reporter-who-risked-triggering-wwiii-actually-did-nothing-wrong-0
-order: 0
+order: 2
 ---
 The definition of scapegoat...
 

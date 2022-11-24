@@ -9,7 +9,7 @@ length: 166
 datetime: Wed, 23 Nov 2022 20:40:00 +0000
 tags: podcast
 guid: anti-twitter-advertisers-have-been-under-performing-market-months-here-your-chance-short-0
-order: 1
+order: 0
 ---
 ...are these companies merely woke? Or are they really broke?
 
