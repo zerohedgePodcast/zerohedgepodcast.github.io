@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Anti-Twitter Advertisers Have Been Under-Performing The Market For Months: Here Is Your Chance To Short Them"
-audio: anti-twitter-advertisers-have-been-under-performing-market-months-here-your-chance-short-0
+audio: anti-twitter-advertisers-have-been-under-performing-market-months-here-your-chance-short-1
 category: markets
 desc: "...are these companies merely woke? Or are they really broke?"
 duration: 00:02:46
 length: 166
-datetime: Wed, 23 Nov 2022 20:40:00 +0000
+datetime: Thu, 24 Nov 2022 13:11:00 +0000
 tags: podcast
 guid: anti-twitter-advertisers-have-been-under-performing-market-months-here-your-chance-short-0
 order: 0
