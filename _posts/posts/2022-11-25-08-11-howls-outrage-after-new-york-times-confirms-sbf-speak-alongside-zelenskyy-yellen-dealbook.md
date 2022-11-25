@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Howls Of Outrage After New York Times Confirms SBF To Speak Alongside Zelenskyy, Yellen"
-audio: howls-outrage-after-new-york-times-confirms-sbf-speak-alongside-zelenskyy-yellen-dealbook-0
+audio: howls-outrage-after-new-york-times-confirms-sbf-speak-alongside-zelenskyy-yellen-dealbook-1
 category: markets
 desc: "&quot;How did this dude steal billions of dollars and is now speaking at a summit as a free man?&quot;"
-duration: 00:06:12
-length: 372
-datetime: Wed, 23 Nov 2022 21:22:00 +0000
+duration: 00:06:38
+length: 398
+datetime: Fri, 25 Nov 2022 08:11:00 +0000
 tags: podcast
 guid: howls-outrage-after-new-york-times-confirms-sbf-speak-alongside-zelenskyy-yellen-dealbook-0
-order: 1
+order: 0
 ---
 &quot;How did this dude steal billions of dollars and is now speaking at a summit as a free man?&quot;
 
