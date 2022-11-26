@@ -9,7 +9,7 @@ length: 123
 datetime: Sat, 26 Nov 2022 12:35:00 +0000
 tags: podcast
 guid: elon-musk-build-alternative-phone-if-apple-and-google-boot-twitter-app-stores-0
-order: 1
+order: 0
 ---
 &quot;I certainly hope it does not come to that ... but, yes, if there is no other choice.&quot; 
 
