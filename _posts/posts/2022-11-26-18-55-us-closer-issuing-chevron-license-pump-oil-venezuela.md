@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "US Closer To Issuing Chevron A License To Pump Oil In Venezuela"
-audio: us-closer-issuing-chevron-license-pump-oil-venezuela-0
+title: "Biden Admin Reverses Trump Ban On Chevron Pumping Venezuelan Crude"
+audio: us-closer-issuing-chevron-license-pump-oil-venezuela-1
 category: energy
-desc: "Comes as US &amp; its allies are planning to implement a price cap on Russian oil that could backfire..."
-duration: 00:01:50
-length: 110
-datetime: Sat, 26 Nov 2022 17:30:00 +0000
+desc: "US oil giant can resume limited operations there for first time in nearly three years... "
+duration: 00:04:07
+length: 247
+datetime: Sat, 26 Nov 2022 18:55:00 +0000
 tags: podcast
 guid: us-closer-issuing-chevron-license-pump-oil-venezuela-0
 order: 0
 ---
-Comes as US &amp; its allies are planning to implement a price cap on Russian oil that could backfire...
+US oil giant can resume limited operations there for first time in nearly three years... 
 
 Link: [https://www.zerohedge.com/energy/us-closer-issuing-chevron-license-pump-oil-venezuela](https://www.zerohedge.com/energy/us-closer-issuing-chevron-license-pump-oil-venezuela)
 
