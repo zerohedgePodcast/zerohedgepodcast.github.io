@@ -9,7 +9,7 @@ length: 330
 datetime: Fri, 25 Nov 2022 17:00:00 +0000
 tags: podcast
 guid: mask-wefs-klaus-schwab-declares-china-role-model-0
-order: 2
+order: 1
 ---
 &quot;...we should be very careful in imposing systems. But the Chinese model is certainly a very attractive model for quite a number of countries...&quot;
 
