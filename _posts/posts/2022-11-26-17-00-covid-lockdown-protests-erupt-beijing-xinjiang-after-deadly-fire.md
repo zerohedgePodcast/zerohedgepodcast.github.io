@@ -9,7 +9,7 @@ length: 218
 datetime: Sat, 26 Nov 2022 17:00:00 +0000
 tags: podcast
 guid: covid-lockdown-protests-erupt-beijing-xinjiang-after-deadly-fire-0
-order: 0
+order: 2
 ---
 Protestors from Urumqi were singing Chinas national anthem while waving a flag...
 
