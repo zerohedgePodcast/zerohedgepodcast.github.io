@@ -9,7 +9,7 @@ length: 418
 datetime: Sat, 26 Nov 2022 14:20:00 +0000
 tags: podcast
 guid: it-was-never-about-ukraine-0
-order: 0
+order: 2
 ---
 The war in Ukraine has always been about larger US goals. It has always been about the American ambition to maintain a unipolar world in which they were the sole polar power at the center and top of the world...
 
