@@ -9,7 +9,7 @@ length: 209
 datetime: Sun, 27 Nov 2022 12:35:00 +0000
 tags: podcast
 guid: eu-accuses-washington-making-fortune-ukraine-war-0
-order: 0
+order: 1
 ---
 Politico sours on Ukraine: &quot;officials are furious with Joe Biden's administration &amp; now accuse the Americans of making a fortune from the war, while EU countries suffer.&quot;
 
