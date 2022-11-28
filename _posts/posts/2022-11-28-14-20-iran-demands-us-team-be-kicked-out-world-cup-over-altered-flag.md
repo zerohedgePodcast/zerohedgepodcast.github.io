@@ -9,7 +9,7 @@ length: 158
 datetime: Mon, 28 Nov 2022 14:20:00 +0000
 tags: podcast
 guid: iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag-0
-order: 0
+order: 2
 ---
 US Soccer Federation confirms it removed Islamic emblem in social media post...
 
