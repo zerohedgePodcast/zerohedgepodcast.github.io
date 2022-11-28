@@ -9,7 +9,7 @@ length: 195
 datetime: Mon, 28 Nov 2022 18:54:00 +0000
 tags: podcast
 guid: apple-threatens-ban-twitter-app-store-wont-say-why-musk-0
-order: 0
+order: 2
 ---
 &quot;Apple has also threatened to withhold Twitter from its App Store, but won't tell us why..&quot;
 

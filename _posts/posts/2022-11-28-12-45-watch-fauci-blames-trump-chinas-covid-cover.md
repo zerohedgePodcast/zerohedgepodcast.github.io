@@ -9,7 +9,7 @@ length: 355
 datetime: Mon, 28 Nov 2022 12:45:00 +0000
 tags: podcast
 guid: watch-fauci-blames-trump-chinas-covid-cover-0
-order: 1
+order: 0
 ---
 Brags that GOP investigation of him is &quot;not going to happen&quot;...
 

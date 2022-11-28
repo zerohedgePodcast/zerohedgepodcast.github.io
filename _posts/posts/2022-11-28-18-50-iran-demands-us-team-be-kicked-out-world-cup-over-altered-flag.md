@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Iran Demands US Team Be Kicked Out Of World Cup Over Altered Flag"
-audio: iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag-0
+title: "US Soccer Coach Apologizes To Iran Over Flag Scandal In Unprecedented Presser"
+audio: iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag-1
 category: geopolitical
-desc: "US Soccer Federation confirms it removed Islamic emblem in social media post..."
-duration: 00:02:38
-length: 158
-datetime: Mon, 28 Nov 2022 14:20:00 +0000
+desc: "&quot;I'm not well versed on international politics. I'm a football coach.&quot; "
+duration: 00:04:24
+length: 264
+datetime: Mon, 28 Nov 2022 18:50:00 +0000
 tags: podcast
 guid: iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag-0
-order: 2
+order: 1
 ---
-US Soccer Federation confirms it removed Islamic emblem in social media post...
+&quot;I'm not well versed on international politics. I'm a football coach.&quot; 
 
 Link: [https://www.zerohedge.com/geopolitical/iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag](https://www.zerohedge.com/geopolitical/iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag)
 
