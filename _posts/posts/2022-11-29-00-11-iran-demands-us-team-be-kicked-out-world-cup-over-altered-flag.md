@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "US Soccer Coach Apologizes To Iran Over Flag Scandal In Unprecedented Presser"
-audio: iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag-1
+audio: iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag-2
 category: geopolitical
 desc: "&quot;I'm not well versed on international politics. I'm a football coach.&quot; "
 duration: 00:04:24
 length: 264
-datetime: Mon, 28 Nov 2022 18:50:00 +0000
+datetime: Tue, 29 Nov 2022 00:11:00 +0000
 tags: podcast
 guid: iran-demands-us-team-be-kicked-out-world-cup-over-altered-flag-0
-order: 1
+order: 0
 ---
 &quot;I'm not well versed on international politics. I'm a football coach.&quot; 
 
