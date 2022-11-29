@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Apple Threatens To Ban Twitter From App Store, Won't Say Why: Musk"
-audio: apple-threatens-ban-twitter-app-store-wont-say-why-musk-0
+audio: apple-threatens-ban-twitter-app-store-wont-say-why-musk-1
 category: technology
 desc: "&quot;Apple has also threatened to withhold Twitter from its App Store, but won't tell us why..&quot;"
-duration: 00:03:15
-length: 195
-datetime: Mon, 28 Nov 2022 18:54:00 +0000
+duration: 00:03:10
+length: 190
+datetime: Tue, 29 Nov 2022 11:11:00 +0000
 tags: podcast
 guid: apple-threatens-ban-twitter-app-store-wont-say-why-musk-0
-order: 1
+order: 0
 ---
 &quot;Apple has also threatened to withhold Twitter from its App Store, but won't tell us why..&quot;
 
