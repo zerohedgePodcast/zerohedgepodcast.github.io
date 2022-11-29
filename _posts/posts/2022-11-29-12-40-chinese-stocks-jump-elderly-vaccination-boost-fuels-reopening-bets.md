@@ -9,7 +9,7 @@ length: 234
 datetime: Tue, 29 Nov 2022 12:40:00 +0000
 tags: podcast
 guid: chinese-stocks-jump-elderly-vaccination-boost-fuels-reopening-bets-0
-order: 0
+order: 1
 ---
 &quot;The vaccination rate of the first dose of the vaccine for people over 60 years old has exceeded 90%...&quot; 
 
