@@ -9,7 +9,7 @@ length: 232
 datetime: Tue, 29 Nov 2022 18:20:00 +0000
 tags: podcast
 guid: lawyer-private-equity-billionaire-dies-self-inflicted-gunshot-eve-tax-fraud-trial-0
-order: 0
+order: 2
 ---
 &quot;The court is advised that defendant Kepke has passed away.&quot;
 
