@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Markets Cheer Chinese Vaccine Drive Announcement Clearing Path Toward Reopening"
-audio: chinese-stocks-jump-elderly-vaccination-boost-fuels-reopening-bets-0
+title: "Chinese Officials Plan To Ease Covid Restrictions Across iPhone City"
+audio: chinese-stocks-jump-elderly-vaccination-boost-fuels-reopening-bets-1
 category: markets
-desc: "&quot;The vaccination rate of the first dose of the vaccine for people over 60 years old has exceeded 90%...&quot; "
-duration: 00:03:54
-length: 234
-datetime: Tue, 29 Nov 2022 12:40:00 +0000
+desc: "And Apple shares tumble. "
+duration: 00:05:11
+length: 311
+datetime: Tue, 29 Nov 2022 16:35:00 +0000
 tags: podcast
 guid: chinese-stocks-jump-elderly-vaccination-boost-fuels-reopening-bets-0
-order: 1
+order: 0
 ---
-&quot;The vaccination rate of the first dose of the vaccine for people over 60 years old has exceeded 90%...&quot; 
+And Apple shares tumble. 
 
 Link: [https://www.zerohedge.com/markets/chinese-stocks-jump-elderly-vaccination-boost-fuels-reopening-bets](https://www.zerohedge.com/markets/chinese-stocks-jump-elderly-vaccination-boost-fuels-reopening-bets)
 
