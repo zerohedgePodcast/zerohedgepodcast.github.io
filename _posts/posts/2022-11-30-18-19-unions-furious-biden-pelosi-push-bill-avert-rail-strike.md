@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Unions Furious As Biden, Pelosi Push Bill To Avert Rail Strike"
-audio: unions-furious-biden-pelosi-push-bill-avert-rail-strike-0
+title: "Democrat-Run House Votes To Push Labor Deal Down Railroad Unions' Throats"
+audio: unions-furious-biden-pelosi-push-bill-avert-rail-strike-1
 category: political
 desc: "...a &quot;blatant betrayal.&quot;"
-duration: 00:02:11
-length: 131
-datetime: Tue, 29 Nov 2022 19:40:00 +0000
+duration: 00:02:12
+length: 132
+datetime: Wed, 30 Nov 2022 18:19:00 +0000
 tags: podcast
 guid: unions-furious-biden-pelosi-push-bill-avert-rail-strike-0
 order: 0
