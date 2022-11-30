@@ -9,7 +9,7 @@ length: 532
 datetime: Wed, 30 Nov 2022 18:20:00 +0000
 tags: podcast
 guid: should-market-brace-repeat-jackson-hole-heres-what-goldman-and-jpmorgan-think-powell-will-0
-order: 2
+order: 0
 ---
 &quot;It will take substantially more evidence to give comfort that inflation is actually declining. By any standard, inflation remains much too high.&quot;
 
