@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Lawyer To Private Equity Billionaire Dies Of Self-Inflicted Gunshot On Eve Of Tax-Fraud Trial"
-audio: lawyer-private-equity-billionaire-dies-self-inflicted-gunshot-eve-tax-fraud-trial-0
+audio: lawyer-private-equity-billionaire-dies-self-inflicted-gunshot-eve-tax-fraud-trial-1
 category: personal-finance
 desc: "&quot;The court is advised that defendant Kepke has passed away.&quot;"
 duration: 00:03:52
 length: 232
-datetime: Tue, 29 Nov 2022 18:20:00 +0000
+datetime: Wed, 30 Nov 2022 01:20:00 +0000
 tags: podcast
 guid: lawyer-private-equity-billionaire-dies-self-inflicted-gunshot-eve-tax-fraud-trial-0
-order: 2
+order: 0
 ---
 &quot;The court is advised that defendant Kepke has passed away.&quot;
 
