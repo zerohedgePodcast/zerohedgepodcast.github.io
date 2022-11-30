@@ -9,7 +9,7 @@ length: 217
 datetime: Wed, 30 Nov 2022 12:20:00 +0000
 tags: podcast
 guid: sbf-addresses-rumors-whether-he-laundered-ukraine-donations-i-wish-i-could-have-pulled-0
-order: 0
+order: 2
 ---
 &quot;I wish I could have pulled that off. I wish. I didn't fully understand the goal of it. I was helping Ukraine launder funds for the Democratic Party? I don't know why Ukraine is laundering funds for the Democratic Party. I don't know how they would or why they would.&quot;
 
