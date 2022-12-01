@@ -9,7 +9,7 @@ length: 166
 datetime: Thu, 01 Dec 2022 17:55:00 +0000
 tags: podcast
 guid: gop-senators-say-they-will-block-military-funding-unless-vaccine-mandate-scrapped-0
-order: 0
+order: 2
 ---
 &quot;The Biden administration is firing soldiers we invested in and trained...&quot;
 
