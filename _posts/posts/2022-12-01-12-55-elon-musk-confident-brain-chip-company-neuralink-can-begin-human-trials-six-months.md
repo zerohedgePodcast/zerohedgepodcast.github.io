@@ -9,7 +9,7 @@ length: 140
 datetime: Thu, 01 Dec 2022 12:55:00 +0000
 tags: podcast
 guid: elon-musk-confident-brain-chip-company-neuralink-can-begin-human-trials-six-months-0
-order: 0
+order: 2
 ---
 &quot;We are now confident that the Neuralink device is ready for humans, so timing is a function of working through the FDA approval process.&quot; 
 
