@@ -9,7 +9,7 @@ length: 281
 datetime: Thu, 01 Dec 2022 04:05:00 +0000
 tags: podcast
 guid: escobar-global-south-births-new-game-changing-payments-system-0
-order: 1
+order: 0
 ---
 Challenging the western monetary system, the Eurasia Economic Union is leading the Global South toward a new common payment system to bypass the US Dollar...
 
