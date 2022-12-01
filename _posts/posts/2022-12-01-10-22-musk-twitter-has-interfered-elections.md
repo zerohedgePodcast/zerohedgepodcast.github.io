@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Musk: Twitter Has &quot;Interfered In Elections&quot;"
-audio: musk-twitter-has-interfered-elections-0
+audio: musk-twitter-has-interfered-elections-1
 category: political
 desc: "&quot;The obvious reality...&quot;"
-duration: 00:02:55
-length: 175
-datetime: Wed, 30 Nov 2022 17:39:00 +0000
+duration: 00:03:49
+length: 229
+datetime: Thu, 01 Dec 2022 10:22:00 +0000
 tags: podcast
 guid: musk-twitter-has-interfered-elections-0
-order: 1
+order: 0
 ---
 &quot;The obvious reality...&quot;
 

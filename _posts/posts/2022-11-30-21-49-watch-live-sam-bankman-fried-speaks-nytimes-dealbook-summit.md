@@ -9,7 +9,7 @@ length: 517
 datetime: Wed, 30 Nov 2022 21:49:00 +0000
 tags: podcast
 guid: watch-live-sam-bankman-fried-speaks-nytimes-dealbook-summit-0
-order: 2
+order: 1
 ---
 &quot;I didn't ever try to commit fraud on anyone,&quot;
 
