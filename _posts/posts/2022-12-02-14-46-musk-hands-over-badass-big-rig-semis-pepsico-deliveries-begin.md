@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Musk Hands Over &quot;Badass&quot; Big Rig Tesla Semi To PepsiCo As Deliveries Begin"
-audio: musk-hands-over-badass-big-rig-semis-pepsico-deliveries-begin-0
+title: "Musk Hands Over &quot;Badass&quot; Big-Rig Tesla Semi To PepsiCo As Deliveries Begin"
+audio: musk-hands-over-badass-big-rig-semis-pepsico-deliveries-begin-1
 category: markets
 desc: "&quot;If you're a trucker and you want the most badass rig on the road, this is it.&quot; "
 duration: 00:02:29
 length: 149
-datetime: Fri, 02 Dec 2022 14:45:00 +0000
+datetime: Fri, 02 Dec 2022 14:46:00 +0000
 tags: podcast
 guid: musk-hands-over-badass-big-rig-semis-pepsico-deliveries-begin-0
 order: 0
