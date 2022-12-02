@@ -9,7 +9,7 @@ length: 156
 datetime: Fri, 02 Dec 2022 13:23:00 +0000
 tags: podcast
 guid: rand-paul-fauci-caused-7-million-people-die-weve-caught-him-red-handed-he-wont-get-away-0
-order: 0
+order: 1
 ---
 &quot;This is right up there with decisions, some of them malevolent or military to kill millions of people&quot;
 

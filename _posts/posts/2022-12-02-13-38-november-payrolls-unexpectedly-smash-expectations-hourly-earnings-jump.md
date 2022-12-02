@@ -9,7 +9,7 @@ length: 40
 datetime: Fri, 02 Dec 2022 13:38:00 +0000
 tags: podcast
 guid: november-payrolls-unexpectedly-smash-expectations-hourly-earnings-jump-0
-order: 0
+order: 2
 ---
 It's settled then: the BLS plans on pretending there is no recession until the Fed pushes the economy into a depression.
 
