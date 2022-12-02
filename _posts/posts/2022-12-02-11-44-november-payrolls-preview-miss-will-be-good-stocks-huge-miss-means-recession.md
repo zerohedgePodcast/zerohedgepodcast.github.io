@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "November Payrolls Preview: A Miss Will Be Good For Stocks But A Huge Miss Means Recession"
-audio: november-payrolls-preview-miss-will-be-good-stocks-huge-miss-means-recession-0
+audio: november-payrolls-preview-miss-will-be-good-stocks-huge-miss-means-recession-1
 category: economics
 desc: "We are approaching the end of the line in regards to &quot;bad is good&quot; and a huge miss, or a print &lt; 0, could spark a powerful selloff."
 duration: 00:11:28
 length: 688
-datetime: Fri, 02 Dec 2022 06:26:00 +0000
+datetime: Fri, 02 Dec 2022 11:44:00 +0000
 tags: podcast
 guid: november-payrolls-preview-miss-will-be-good-stocks-huge-miss-means-recession-0
 order: 0
