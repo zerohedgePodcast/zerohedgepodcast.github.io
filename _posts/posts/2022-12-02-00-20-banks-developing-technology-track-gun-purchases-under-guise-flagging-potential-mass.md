@@ -9,7 +9,7 @@ length: 96
 datetime: Fri, 02 Dec 2022 00:20:00 +0000
 tags: podcast
 guid: banks-developing-technology-track-gun-purchases-under-guise-flagging-potential-mass-0
-order: 0
+order: 1
 ---
 &quot;But as this is implemented, those scenarios will be used...&quot;
 
