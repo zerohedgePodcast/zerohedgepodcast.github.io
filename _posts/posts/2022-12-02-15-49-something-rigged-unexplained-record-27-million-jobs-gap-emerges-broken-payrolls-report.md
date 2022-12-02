@@ -9,7 +9,7 @@ length: 411
 datetime: Fri, 02 Dec 2022 15:49:00 +0000
 tags: podcast
 guid: something-rigged-unexplained-record-27-million-jobs-gap-emerges-broken-payrolls-report-0
-order: 2
+order: 1
 ---
 The gap that opened in March has since grown to a whopping 2.7 million &quot;workers&quot; which may or may not exist anywhere besides the spreadsheet model of some BLS (or is that BLM) political activist.
 
