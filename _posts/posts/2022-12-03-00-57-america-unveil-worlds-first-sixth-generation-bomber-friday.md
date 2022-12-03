@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "America To Unveil World's First Sixth-Generation Bomber Friday "
-audio: america-unveil-worlds-first-sixth-generation-bomber-friday-0
+title: "Watch Live: Air Force Unveils B-21 Raider Stealth Bomber"
+audio: america-unveil-worlds-first-sixth-generation-bomber-friday-1
 category: military
-desc: "&quot;The B-21 is the most advanced military aircraft ever built and is a product of pioneering innovation and technological excellence.&quot; "
-duration: 00:01:52
-length: 112
-datetime: Fri, 02 Dec 2022 04:30:00 +0000
+desc: "&quot;The unveiling of the B-21 Raider will be a historic moment for our Air Force and the nation.&quot; "
+duration: 00:02:50
+length: 170
+datetime: Sat, 03 Dec 2022 00:57:00 +0000
 tags: podcast
 guid: america-unveil-worlds-first-sixth-generation-bomber-friday-0
 order: 0
 ---
-&quot;The B-21 is the most advanced military aircraft ever built and is a product of pioneering innovation and technological excellence.&quot; 
+&quot;The unveiling of the B-21 Raider will be a historic moment for our Air Force and the nation.&quot; 
 
 Link: [https://www.zerohedge.com/military/america-unveil-worlds-first-sixth-generation-bomber-friday](https://www.zerohedge.com/military/america-unveil-worlds-first-sixth-generation-bomber-friday)
 
