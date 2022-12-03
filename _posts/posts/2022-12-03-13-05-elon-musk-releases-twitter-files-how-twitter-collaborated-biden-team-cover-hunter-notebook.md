@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Elon Musk Releases THE TWITTER FILES: How Twitter Collaborated With &quot;The Biden Team&quot; To Cover Up The Hunter Notebook Story"
-audio: elon-musk-releases-twitter-files-how-twitter-collaborated-biden-team-cover-hunter-notebook-0
+title: "Elon Musk Releases THE TWITTER FILES: How Twitter Collaborated With &quot;The Biden Team&quot; To Cover Up The Hunter Laptop Story"
+audio: elon-musk-releases-twitter-files-how-twitter-collaborated-biden-team-cover-hunter-notebook-1
 category: markets
 desc: "&quot;More to review from the Biden team.&quot; The reply would come back: &quot;Handled.&quot; "
-duration: 00:09:26
-length: 566
-datetime: Sat, 03 Dec 2022 00:05:00 +0000
+duration: 00:11:28
+length: 688
+datetime: Sat, 03 Dec 2022 13:05:00 +0000
 tags: podcast
 guid: elon-musk-releases-twitter-files-how-twitter-collaborated-biden-team-cover-hunter-notebook-0
-order: 1
+order: 0
 ---
 &quot;More to review from the Biden team.&quot; The reply would come back: &quot;Handled.&quot; 
 

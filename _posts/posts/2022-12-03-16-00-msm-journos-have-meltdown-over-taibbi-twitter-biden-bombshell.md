@@ -9,7 +9,7 @@ length: 274
 datetime: Sat, 03 Dec 2022 16:00:00 +0000
 tags: podcast
 guid: msm-journos-have-meltdown-over-taibbi-twitter-biden-bombshell-0
-order: 0
+order: 1
 ---
 And of course, corporate media still running cover...
 
