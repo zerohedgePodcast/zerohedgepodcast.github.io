@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Escobar: The Global South Births A New Game-Changing Payments System"
-audio: escobar-global-south-births-new-game-changing-payments-system-0
+audio: escobar-global-south-births-new-game-changing-payments-system-1
 category: geopolitical
 desc: "Challenging the western monetary system, the Eurasia Economic Union is leading the Global South toward a new common payment system to bypass the US Dollar..."
 duration: 00:04:41
 length: 281
-datetime: Thu, 01 Dec 2022 04:05:00 +0000
+datetime: Wed, 30 Nov 2022 19:05:00 +0000
 tags: podcast
 guid: escobar-global-south-births-new-game-changing-payments-system-0
 order: 0
