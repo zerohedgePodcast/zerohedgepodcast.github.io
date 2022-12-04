@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "MSM Journos Have Meltdown Over Taibbi-Twitter Biden Bombshell"
-audio: msm-journos-have-meltdown-over-taibbi-twitter-biden-bombshell-0
+title: "Greenwald Drags MSM Journos For 'Hive-Mind' Hackery Over Taibbi-Twitter Bombshell"
+audio: msm-journos-have-meltdown-over-taibbi-twitter-biden-bombshell-1
 category: political
 desc: "And of course, corporate media still running cover..."
-duration: 00:04:34
-length: 274
-datetime: Sat, 03 Dec 2022 16:00:00 +0000
+duration: 00:06:13
+length: 373
+datetime: Sun, 04 Dec 2022 14:00:00 +0000
 tags: podcast
 guid: msm-journos-have-meltdown-over-taibbi-twitter-biden-bombshell-0
-order: 1
+order: 0
 ---
 And of course, corporate media still running cover...
 
