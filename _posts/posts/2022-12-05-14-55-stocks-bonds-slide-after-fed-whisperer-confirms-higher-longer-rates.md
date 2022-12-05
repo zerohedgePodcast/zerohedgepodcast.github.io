@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Stocks &amp; Bonds Slide After 'Fed Whisperer' Confirms 'Higher For Longer' Rates"
-audio: stocks-bonds-slide-after-fed-whisperer-confirms-higher-longer-rates-0
+audio: stocks-bonds-slide-after-fed-whisperer-confirms-higher-longer-rates-1
 category: markets
 desc: "...elevated wage pressures could lead them to continue lifting it to higher levels than investors currently expect."
 duration: 00:02:32
 length: 152
-datetime: Mon, 05 Dec 2022 14:06:00 +0000
+datetime: Mon, 05 Dec 2022 14:55:00 +0000
 tags: podcast
 guid: stocks-bonds-slide-after-fed-whisperer-confirms-higher-longer-rates-0
-order: 1
+order: 0
 ---
 ...elevated wage pressures could lead them to continue lifting it to higher levels than investors currently expect.
 
