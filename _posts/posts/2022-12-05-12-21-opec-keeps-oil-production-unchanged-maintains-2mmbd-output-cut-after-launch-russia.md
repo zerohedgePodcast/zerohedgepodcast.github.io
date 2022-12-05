@@ -9,7 +9,7 @@ length: 323
 datetime: Mon, 05 Dec 2022 12:21:00 +0000
 tags: podcast
 guid: opec-keeps-oil-production-unchanged-maintains-2mmbd-output-cut-after-launch-russia-0
-order: 2
+order: 1
 ---
 &quot;OPEC+ rolled over the existing quotas as expected amid uncertainty around Russian flows following the price cap, and a weaker China...&quot;
 
