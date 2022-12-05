@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Oil Rises After OPEC+ Keeps Production Unchanged After Launch Of Russia Price Cap"
-audio: opec-keeps-oil-production-unchanged-maintains-2mmbd-output-cut-after-launch-russia-1
+title: "Oil Rises After Launch Of Russia Price Cap As OPEC+ Keeps Output Unchanged "
+audio: opec-keeps-oil-production-unchanged-maintains-2mmbd-output-cut-after-launch-russia-2
 category: commodities
 desc: "&quot;OPEC+ rolled over the existing quotas as expected amid uncertainty around Russian flows following the price cap, and a weaker China...&quot;"
 duration: 00:05:23
 length: 323
-datetime: Mon, 05 Dec 2022 12:21:00 +0000
+datetime: Mon, 05 Dec 2022 14:21:00 +0000
 tags: podcast
 guid: opec-keeps-oil-production-unchanged-maintains-2mmbd-output-cut-after-launch-russia-0
-order: 1
+order: 0
 ---
 &quot;OPEC+ rolled over the existing quotas as expected amid uncertainty around Russian flows following the price cap, and a weaker China...&quot;
 

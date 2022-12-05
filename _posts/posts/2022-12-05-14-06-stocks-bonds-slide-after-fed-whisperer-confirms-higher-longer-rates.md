@@ -9,7 +9,7 @@ length: 152
 datetime: Mon, 05 Dec 2022 14:06:00 +0000
 tags: podcast
 guid: stocks-bonds-slide-after-fed-whisperer-confirms-higher-longer-rates-0
-order: 2
+order: 1
 ---
 ...elevated wage pressures could lead them to continue lifting it to higher levels than investors currently expect.
 
