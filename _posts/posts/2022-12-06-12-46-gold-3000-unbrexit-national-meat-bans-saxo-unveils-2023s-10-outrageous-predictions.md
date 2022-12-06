@@ -9,7 +9,7 @@ length: 1520
 datetime: Tue, 06 Dec 2022 12:46:00 +0000
 tags: podcast
 guid: gold-3000-unbrexit-national-meat-bans-saxo-unveils-2023s-10-outrageous-predictions-0
-order: 2
+order: 1
 ---
 &quot;...any belief in a return to the disinflationary pre-pandemic dynamic is impossible because we have entered into a global war economy...&quot;
 

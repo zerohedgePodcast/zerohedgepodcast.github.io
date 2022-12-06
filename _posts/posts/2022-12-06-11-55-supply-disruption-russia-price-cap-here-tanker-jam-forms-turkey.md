@@ -9,7 +9,7 @@ length: 156
 datetime: Tue, 06 Dec 2022 11:55:00 +0000
 tags: podcast
 guid: supply-disruption-russia-price-cap-here-tanker-jam-forms-turkey-0
-order: 1
+order: 0
 ---
 The clumsy American empire works more magic  
 

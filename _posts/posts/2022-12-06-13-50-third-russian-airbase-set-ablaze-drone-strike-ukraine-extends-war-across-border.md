@@ -9,7 +9,7 @@ length: 305
 datetime: Tue, 06 Dec 2022 13:50:00 +0000
 tags: podcast
 guid: third-russian-airbase-set-ablaze-drone-strike-ukraine-extends-war-across-border-0
-order: 0
+order: 2
 ---
 Oil tankers at a Kursk base have burned for 10 hours...
 
