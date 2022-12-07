@@ -9,7 +9,7 @@ length: 62
 datetime: Wed, 07 Dec 2022 20:21:00 +0000
 tags: podcast
 guid: aoc-under-investigation-house-ethics-committee-0
-order: 2
+order: 1
 ---
 &quot;The Acting Chairwoman and Acting Ranking Member of the Committee on Ethics have jointly decided to extend the matter...&quot;
 
