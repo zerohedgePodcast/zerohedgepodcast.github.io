@@ -9,7 +9,7 @@ length: 286
 datetime: Thu, 08 Dec 2022 18:58:00 +0000
 tags: podcast
 guid: ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa-0
-order: 0
+order: 1
 ---
 350-80 vote
 
