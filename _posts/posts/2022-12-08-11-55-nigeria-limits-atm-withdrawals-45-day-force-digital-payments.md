@@ -9,7 +9,7 @@ length: 171
 datetime: Thu, 08 Dec 2022 11:55:00 +0000
 tags: podcast
 guid: nigeria-limits-atm-withdrawals-45-day-force-digital-payments-0
-order: 1
+order: 0
 ---
 &quot;Customers should be encouraged to use alternative channels - Internet banking, mobile banking apps, USSD, cards, POS, eNaira to conduct their banking transactions...&quot;
 
