@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Biden Explains Why He Swapped Russian 'Merchant Of Death' For WNBA Star"
-audio: watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star-1
+title: "Saudi Crown Prince Behind Deal To Swap Griner For 'Merchant Of Death' In Curiously Timed &quot;Breakthrough&quot;"
+audio: watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star-2
 category: political
-desc: "Devastated family of Paul Whelan demands to know, &quot;And now what?&quot;"
-duration: 00:04:13
-length: 253
-datetime: Thu, 08 Dec 2022 13:50:00 +0000
+desc: "&quot;Deal soaked in blood&quot;"
+duration: 00:06:34
+length: 394
+datetime: Thu, 08 Dec 2022 17:28:00 +0000
 tags: podcast
 guid: watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star-0
 order: 2
 ---
-Devastated family of Paul Whelan demands to know, &quot;And now what?&quot;
+&quot;Deal soaked in blood&quot;
 
 Link: [https://www.zerohedge.com/political/watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star](https://www.zerohedge.com/political/watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star)
 
