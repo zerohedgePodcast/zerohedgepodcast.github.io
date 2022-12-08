@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "&quot;People Are Losing Faith In This Institution&quot;: ECB Staff Threaten To Strike Unless Pay Hikes Keep Up With Record Inflation"
-audio: people-are-losing-faith-institution-ecb-staff-threaten-strike-unless-pay-hikes-keep-record-0
+audio: people-are-losing-faith-institution-ecb-staff-threaten-strike-unless-pay-hikes-keep-record-1
 category: markets
 desc: "&quot;What the ECB leadership is telling us is sorry we missed our own inflation target and now you, the staff, are going to pay the price.... This is playing a role in increasing inequality.&quot;"
 duration: 00:04:50
 length: 290
-datetime: Thu, 08 Dec 2022 10:45:00 +0000
+datetime: Thu, 08 Dec 2022 13:32:00 +0000
 tags: podcast
 guid: people-are-losing-faith-institution-ecb-staff-threaten-strike-unless-pay-hikes-keep-record-0
 order: 0

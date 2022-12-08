@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch Live: Biden Explains Why He Swapped Russian 'Merchant Of Death' For WNBA Star"
-audio: watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star-0
+title: "Biden Explains Why He Swapped Russian 'Merchant Of Death' For WNBA Star"
+audio: watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star-1
 category: political
-desc: "It took nearly 10 years to apprehend Viktor Bout &amp; close to 3 more years to convict him for terrorism &amp; arms trafficking. "
-duration: 00:02:34
-length: 154
-datetime: Thu, 08 Dec 2022 13:21:00 +0000
+desc: "Devastated family of Paul Whelan demands to know, &quot;And now what?&quot;"
+duration: 00:04:13
+length: 253
+datetime: Thu, 08 Dec 2022 13:50:00 +0000
 tags: podcast
 guid: watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star-0
-order: 0
+order: 1
 ---
-It took nearly 10 years to apprehend Viktor Bout &amp; close to 3 more years to convict him for terrorism &amp; arms trafficking. 
+Devastated family of Paul Whelan demands to know, &quot;And now what?&quot;
 
 Link: [https://www.zerohedge.com/political/watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star](https://www.zerohedge.com/political/watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star)
 
