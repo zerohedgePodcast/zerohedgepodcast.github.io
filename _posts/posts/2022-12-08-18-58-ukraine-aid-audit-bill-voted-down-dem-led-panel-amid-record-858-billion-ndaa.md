@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Ukraine Aid Audit Bill Voted Down By Dem-Led Panel Amid Record $858 Billion NDAA"
-audio: ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa-0
+title: "House Passes Record $858 Billion Defense Policy Bill"
+audio: ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa-1
 category: military
-desc: "&quot;I support transparency and accountability,&quot; Rep. Connolly claimed, &quot;but not now.&quot;"
-duration: 00:04:08
-length: 248
-datetime: Thu, 08 Dec 2022 17:45:00 +0000
+desc: "350-80 vote"
+duration: 00:04:46
+length: 286
+datetime: Thu, 08 Dec 2022 18:58:00 +0000
 tags: podcast
 guid: ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa-0
 order: 0
 ---
-&quot;I support transparency and accountability,&quot; Rep. Connolly claimed, &quot;but not now.&quot;
+350-80 vote
 
 Link: [https://www.zerohedge.com/military/ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa](https://www.zerohedge.com/military/ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa)
 
