@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Labor Talks &quot;Collapse&quot; As New York Times Staffers &quot;Officially&quot; Begin Strike"
-audio: labor-talks-collapse-new-york-times-staffers-officially-begin-strike-0
+title: "Hardly Anyone Cares About New York Times Strike As Tens Of People Watch Livestream"
+audio: labor-talks-collapse-new-york-times-staffers-officially-begin-strike-1
 category: markets
-desc: "&quot;We're asking readers to not engage in any New York Times platforms...&quot; "
-duration: 00:02:40
-length: 160
-datetime: Thu, 08 Dec 2022 14:45:00 +0000
+desc: "Maybe because trust in mainstream media is near a record low?"
+duration: 00:03:40
+length: 220
+datetime: Thu, 08 Dec 2022 18:39:00 +0000
 tags: podcast
 guid: labor-talks-collapse-new-york-times-staffers-officially-begin-strike-0
 order: 0
 ---
-&quot;We're asking readers to not engage in any New York Times platforms...&quot; 
+Maybe because trust in mainstream media is near a record low?
 
 Link: [https://www.zerohedge.com/markets/labor-talks-collapse-new-york-times-staffers-officially-begin-strike](https://www.zerohedge.com/markets/labor-talks-collapse-new-york-times-staffers-officially-begin-strike)
 
