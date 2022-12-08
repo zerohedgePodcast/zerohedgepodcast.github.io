@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Oil Surges After Leak Shuts Down Keystone Pipeline"
-audio: oil-surges-after-leak-shuts-down-keystone-pipeline-0
+title: "Oil Plunges Into Red For Year Despite Supply Shock From Keystone Pipeline Shutdown"
+audio: oil-surges-after-leak-shuts-down-keystone-pipeline-1
 category: energy
-desc: "The system can carry more than 600,000 barrels of crude per day."
-duration: 00:01:36
-length: 96
-datetime: Thu, 08 Dec 2022 13:08:00 +0000
+desc: "&quot;Oil markets are exhausting,&quot;"
+duration: 00:03:14
+length: 194
+datetime: Thu, 08 Dec 2022 16:23:00 +0000
 tags: podcast
 guid: oil-surges-after-leak-shuts-down-keystone-pipeline-0
 order: 0
 ---
-The system can carry more than 600,000 barrels of crude per day.
+&quot;Oil markets are exhausting,&quot;
 
 Link: [https://www.zerohedge.com/energy/oil-surges-after-leak-shuts-down-keystone-pipeline](https://www.zerohedge.com/energy/oil-surges-after-leak-shuts-down-keystone-pipeline)
 
