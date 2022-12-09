@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "After Missing Deadline, Sam Bankman-Fried Tweets 'Willingness' To Testify Next Week"
-audio: sam-bankman-fried-misses-deadline-respond-testimony-request-now-what-0
+title: "Maxine Waters Confirms Bankman-Fried Will Testify Virtually Next Week... Alongside Current FTX CEO"
+audio: sam-bankman-fried-misses-deadline-respond-testimony-request-now-what-1
 category: crypto
-desc: "&quot;...as the committee still thinks it would be useful, I am willing to testify on the 13th.&quot;"
-duration: 00:05:34
-length: 334
-datetime: Fri, 09 Dec 2022 12:20:00 +0000
+desc: "...alongside current FTX CEO John J. Ray III..."
+duration: 00:06:18
+length: 378
+datetime: Fri, 09 Dec 2022 23:25:00 +0000
 tags: podcast
 guid: sam-bankman-fried-misses-deadline-respond-testimony-request-now-what-0
 order: 0
 ---
-&quot;...as the committee still thinks it would be useful, I am willing to testify on the 13th.&quot;
+...alongside current FTX CEO John J. Ray III...
 
 Link: [https://www.zerohedge.com/crypto/sam-bankman-fried-misses-deadline-respond-testimony-request-now-what](https://www.zerohedge.com/crypto/sam-bankman-fried-misses-deadline-respond-testimony-request-now-what)
 
