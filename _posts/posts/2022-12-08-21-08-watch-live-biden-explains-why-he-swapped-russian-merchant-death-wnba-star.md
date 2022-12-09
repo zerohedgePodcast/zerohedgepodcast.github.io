@@ -9,7 +9,7 @@ length: 558
 datetime: Thu, 08 Dec 2022 21:08:00 +0000
 tags: podcast
 guid: watch-live-biden-explains-why-he-swapped-russian-merchant-death-wnba-star-0
-order: 2
+order: 1
 ---
 That's one happy arms dealer...
 

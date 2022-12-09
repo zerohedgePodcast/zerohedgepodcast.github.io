@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "House Passes Record $858 Billion Defense Policy Bill"
-audio: ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa-1
+audio: ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa-2
 category: military
 desc: "350-80 vote"
 duration: 00:04:46
 length: 286
-datetime: Thu, 08 Dec 2022 18:58:00 +0000
+datetime: Thu, 08 Dec 2022 23:11:00 +0000
 tags: podcast
 guid: ukraine-aid-audit-bill-voted-down-dem-led-panel-amid-record-858-billion-ndaa-0
-order: 1
+order: 0
 ---
 350-80 vote
 
