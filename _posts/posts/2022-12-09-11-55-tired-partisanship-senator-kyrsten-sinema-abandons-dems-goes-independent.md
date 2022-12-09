@@ -9,7 +9,7 @@ length: 347
 datetime: Fri, 09 Dec 2022 11:55:00 +0000
 tags: podcast
 guid: tired-partisanship-senator-kyrsten-sinema-abandons-dems-goes-independent-0
-order: 1
+order: 0
 ---
 &quot;I've never fit neatly into any party box. I've never really tried. I don't want to,&quot; 
 
