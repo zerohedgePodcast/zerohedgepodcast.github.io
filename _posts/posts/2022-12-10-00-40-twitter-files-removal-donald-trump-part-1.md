@@ -9,7 +9,7 @@ length: 179
 datetime: Sat, 10 Dec 2022 00:40:00 +0000
 tags: podcast
 guid: twitter-files-removal-donald-trump-part-1-0
-order: 1
+order: 0
 ---
 Behind the curtain...
 
