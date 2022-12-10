@@ -9,7 +9,7 @@ length: 244
 datetime: Fri, 09 Dec 2022 13:45:00 +0000
 tags: podcast
 guid: griners-homecoming-celebrated-ex-marine-paul-whelan-lashes-out-was-led-believe-hed-be-0
-order: 1
+order: 0
 ---
 &quot;I don't understand why I'm still sitting here.&quot;
 
