@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch Live: NASA's Orion Capsule Returns To Earth"
-audio: nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow-1
+title: "Mission Complete: NASA's Orion Spacecraft Splashes Down In Pacific Ocean"
+audio: nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow-2
 category: technology
-desc: "&quot;Orion is returning.&quot; "
-duration: 00:01:58
-length: 118
-datetime: Sun, 11 Dec 2022 16:15:00 +0000
+desc: "Moon mission complete. "
+duration: 00:02:25
+length: 145
+datetime: Sun, 11 Dec 2022 17:41:00 +0000
 tags: podcast
 guid: nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow-0
 order: 0
 ---
-&quot;Orion is returning.&quot; 
+Moon mission complete. 
 
 Link: [https://www.zerohedge.com/technology/nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow](https://www.zerohedge.com/technology/nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow)
 
