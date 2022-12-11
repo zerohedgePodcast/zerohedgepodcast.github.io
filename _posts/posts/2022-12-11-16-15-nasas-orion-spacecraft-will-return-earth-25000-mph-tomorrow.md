@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "NASA's Orion Spacecraft Will Return To Earth At 25,000 MPH, Splashing Down Off Baja California "
-audio: nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow-0
+title: "Watch Live: NASA's Orion Capsule Returns To Earth"
+audio: nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow-1
 category: technology
-desc: "&quot;At present, we are on track to have a fully successful mission...&quot; NASA's Orion Spacecraft Will Return To Earth At 25,000 MPH Tomorrow "
-duration: 00:01:20
-length: 80
-datetime: Sun, 11 Dec 2022 00:00:00 +0000
+desc: "&quot;Orion is returning.&quot; "
+duration: 00:01:58
+length: 118
+datetime: Sun, 11 Dec 2022 16:15:00 +0000
 tags: podcast
 guid: nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow-0
 order: 0
 ---
-&quot;At present, we are on track to have a fully successful mission...&quot; NASA's Orion Spacecraft Will Return To Earth At 25,000 MPH Tomorrow 
+&quot;Orion is returning.&quot; 
 
 Link: [https://www.zerohedge.com/technology/nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow](https://www.zerohedge.com/technology/nasas-orion-spacecraft-will-return-earth-25000-mph-tomorrow)
 
