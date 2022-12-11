@@ -9,7 +9,7 @@ length: 58
 datetime: Sat, 10 Dec 2022 13:45:00 +0000
 tags: podcast
 guid: russian-media-laughs-us-governments-woke-trade-griner-instead-whelan-0
-order: 1
+order: 0
 ---
 The prisoner swap is more than just foolish political gamesmanship, it is also an embarrassment for the US as a whole...
 
