@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Net Energy Gain&quot; - US Scientists Make Breakthrough In Nuclear Fusion"
-audio: net-energy-gain-us-scientists-makes-breakthrough-nuclear-fusion-0
+audio: net-energy-gain-us-scientists-makes-breakthrough-nuclear-fusion-1
 category: energy
 desc: "&quot;If this is confirmed, we are witnessing a moment of history,&quot; "
 duration: 00:02:57
 length: 177
-datetime: Mon, 12 Dec 2022 10:45:00 +0000
+datetime: Mon, 12 Dec 2022 19:55:00 +0000
 tags: podcast
 guid: net-energy-gain-us-scientists-makes-breakthrough-nuclear-fusion-0
-order: 1
+order: 0
 ---
 &quot;If this is confirmed, we are witnessing a moment of history,&quot; 
 
