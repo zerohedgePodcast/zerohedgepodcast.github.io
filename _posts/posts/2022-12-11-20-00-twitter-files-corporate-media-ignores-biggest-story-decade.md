@@ -9,7 +9,7 @@ length: 380
 datetime: Sun, 11 Dec 2022 20:00:00 +0000
 tags: podcast
 guid: twitter-files-corporate-media-ignores-biggest-story-decade-0
-order: 1
+order: 0
 ---
 Twitter was participating in a form of treason, along with the agencies that they cooperated with...
 
