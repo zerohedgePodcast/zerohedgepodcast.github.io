@@ -9,7 +9,7 @@ length: 251
 datetime: Mon, 12 Dec 2022 22:20:00 +0000
 tags: podcast
 guid: sec-chairman-gensler-scrubbed-evidence-clinton-soros-and-pelosi-meetings-foia-lawsuit-0
-order: 0
+order: 1
 ---
 &quot;This gives further credence to the widespread concern that Gensler is deeply politicizing a supposedly independent commission...&quot;
 
