@@ -9,7 +9,7 @@ length: 271
 datetime: Sun, 11 Dec 2022 00:33:00 +0000
 tags: podcast
 guid: twitter-files-removal-donald-trump-part-2-0
-order: 1
+order: 0
 ---
 Roth reassures an employee that &quot;people who care about this... aren't happy with where we are&quot;...
 
