@@ -9,7 +9,7 @@ length: 256
 datetime: Tue, 13 Dec 2022 15:35:00 +0000
 tags: podcast
 guid: justice-department-faces-questions-after-effectively-preventing-bankman-fried-testifying-0
-order: 2
+order: 1
 ---
 ...there are no coincidences in politics...
 
