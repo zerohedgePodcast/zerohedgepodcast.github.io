@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Dow Has Given Up All Its CPI-Spike Gains..."
-audio: dow-has-given-all-its-cpi-spike-gains-0
+title: "US Stock Indices Have Given Up All Their CPI-Spike Gains..."
+audio: dow-has-given-all-its-cpi-spike-gains-1
 category: markets
 desc: "Well that didn't last long..."
 duration: 00:00:18
 length: 18
-datetime: Tue, 13 Dec 2022 15:46:00 +0000
+datetime: Tue, 13 Dec 2022 17:15:00 +0000
 tags: podcast
 guid: dow-has-given-all-its-cpi-spike-gains-0
 order: 0

@@ -9,7 +9,7 @@ length: 107
 datetime: Tue, 13 Dec 2022 14:45:00 +0000
 tags: podcast
 guid: watch-live-new-ftx-ceo-throw-sbf-under-bus-congressional-hearing-0
-order: 2
+order: 1
 ---
 FTX Group's collapse appears to stem from the absolute concentration of control in the hands of a very small group of grossly inexperienced and unsophisticated individuals...
 

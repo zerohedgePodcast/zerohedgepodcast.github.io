@@ -9,7 +9,7 @@ length: 505
 datetime: Tue, 13 Dec 2022 13:38:00 +0000
 tags: podcast
 guid: headline-cpi-cools-more-expected-real-wages-continued-tumble-0
-order: 1
+order: 0
 ---
 ...energy costs and used cars were the biggest drivers of the cooling...
 
