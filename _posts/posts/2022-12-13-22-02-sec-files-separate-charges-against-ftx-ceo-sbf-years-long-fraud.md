@@ -9,7 +9,7 @@ length: 724
 datetime: Tue, 13 Dec 2022 22:02:00 +0000
 tags: podcast
 guid: sec-files-separate-charges-against-ftx-ceo-sbf-years-long-fraud-0
-order: 2
+order: 1
 ---
 ...held in custody at the Bahamas Corrections Dept until Feb. 8.
 
