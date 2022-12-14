@@ -9,7 +9,7 @@ length: 191
 datetime: Wed, 14 Dec 2022 14:01:00 +0000
 tags: podcast
 guid: ron-paul-mother-all-economic-crisis-will-lead-social-unrest-violence-0
-order: 2
+order: 1
 ---
 ...staggering amounts of debt held by individuals, businesses, and the government will soon lead to the &quot;mother of all economic crises.&quot;
 
