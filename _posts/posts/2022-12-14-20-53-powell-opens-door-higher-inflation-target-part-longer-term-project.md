@@ -9,7 +9,7 @@ length: 286
 datetime: Wed, 14 Dec 2022 20:53:00 +0000
 tags: podcast
 guid: powell-opens-door-higher-inflation-target-part-longer-term-project-0
-order: 2
+order: 0
 ---
 &quot;that's poor communication: if you are willing to change the inflection target, you signal it can be changed more than once. This irresponsible talk risks unanchoring inflation expectations&quot;
 
