@@ -9,7 +9,7 @@ length: 998
 datetime: Sat, 17 Dec 2022 23:30:00 +0000
 tags: podcast
 guid: perfect-storm-arrives-massive-wave-car-reposessions-and-loan-defaults-trigger-auto-market-0
-order: 1
+order: 0
 ---
 &quot;I've been a doubter, but after what I saw this morning, I'm now FULLY convinced that a wave of car repossessions will hit in early/mid 2023. If lenders are willing to backstab each other in order to put more loans on the road, we're in trouble.&quot;
 
