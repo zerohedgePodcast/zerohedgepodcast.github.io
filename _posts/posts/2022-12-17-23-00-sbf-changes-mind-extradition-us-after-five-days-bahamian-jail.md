@@ -9,7 +9,7 @@ length: 126
 datetime: Sat, 17 Dec 2022 23:00:00 +0000
 tags: podcast
 guid: sbf-changes-mind-extradition-us-after-five-days-bahamian-jail-0
-order: 1
+order: 0
 ---
 &quot;Sanitation was a general problem, and cells were infested with rats, maggots, and insects...&quot;
 
