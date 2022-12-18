@@ -9,7 +9,7 @@ length: 226
 datetime: Sun, 18 Dec 2022 17:00:00 +0000
 tags: podcast
 guid: notorious-washington-post-doxxer-taylor-lorenz-suspended-twitter-0
-order: 2
+order: 0
 ---
 Mainstream media pundits are in an uproar as Musk begins to apply Twitter's TOS rules fairly...
 

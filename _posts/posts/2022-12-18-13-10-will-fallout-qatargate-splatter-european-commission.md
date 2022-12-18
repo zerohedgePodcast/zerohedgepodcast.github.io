@@ -9,7 +9,7 @@ length: 672
 datetime: Sun, 18 Dec 2022 13:10:00 +0000
 tags: podcast
 guid: will-fallout-qatargate-splatter-european-commission-0
-order: 0
+order: 1
 ---
 As the Qatargate scandal widens, questions are being asked as to whether its reverberations will reach the Commission, the EU's executive branch. Recent revelations suggest the EU's Chief Diplomat Josep Borrell could be implicated...
 
