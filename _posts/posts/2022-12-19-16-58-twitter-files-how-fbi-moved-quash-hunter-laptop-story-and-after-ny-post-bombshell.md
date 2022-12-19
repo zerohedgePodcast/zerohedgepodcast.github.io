@@ -9,7 +9,7 @@ length: 350
 datetime: Mon, 19 Dec 2022 16:58:00 +0000
 tags: podcast
 guid: twitter-files-how-fbi-moved-quash-hunter-laptop-story-and-after-ny-post-bombshell-0
-order: 2
+order: 1
 ---
 Why is that? What, exactly, happened?
 
