@@ -9,7 +9,7 @@ length: 247
 datetime: Sun, 18 Dec 2022 23:00:00 +0000
 tags: podcast
 guid: ukraine-attempted-decapitation-strike-russias-top-general-even-us-tried-stop-it-0
-order: 0
+order: 1
 ---
 &quot;We told them not to do it... We were like, 'Hey, that's too much.'&quot;
 
