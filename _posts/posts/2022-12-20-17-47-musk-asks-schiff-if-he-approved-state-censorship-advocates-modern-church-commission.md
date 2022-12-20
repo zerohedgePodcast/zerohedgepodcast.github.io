@@ -9,7 +9,7 @@ length: 134
 datetime: Tue, 20 Dec 2022 17:47:00 +0000
 tags: podcast
 guid: musk-asks-schiff-if-he-approved-state-censorship-advocates-modern-church-commission-0
-order: 2
+order: 1
 ---
 And Jim Jordan asks if the government was running a 'misinformation operation' on americans
 
