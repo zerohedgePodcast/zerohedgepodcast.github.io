@@ -9,7 +9,7 @@ length: 125
 datetime: Tue, 20 Dec 2022 10:44:00 +0000
 tags: podcast
 guid: russian-city-suffers-casualties-14000-without-power-after-ukraine-cross-border-attack-0
-order: 1
+order: 0
 ---
 Follows reports that US now tacitly backs Ukrainian strikes inside Russian territory...
 

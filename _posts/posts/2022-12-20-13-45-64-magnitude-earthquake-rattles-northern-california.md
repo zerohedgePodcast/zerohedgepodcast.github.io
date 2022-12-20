@@ -9,7 +9,7 @@ length: 196
 datetime: Tue, 20 Dec 2022 13:45:00 +0000
 tags: podcast
 guid: 64-magnitude-earthquake-rattles-northern-california-0
-order: 2
+order: 1
 ---
 Humboldt officials said the county is on &quot;alert&quot; and &quot;be prepared for aftershocks.&quot; 
 
