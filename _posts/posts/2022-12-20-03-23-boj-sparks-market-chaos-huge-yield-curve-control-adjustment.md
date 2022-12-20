@@ -9,7 +9,7 @@ length: 259
 datetime: Tue, 20 Dec 2022 03:23:00 +0000
 tags: podcast
 guid: boj-sparks-market-chaos-huge-yield-curve-control-adjustment-0
-order: 0
+order: 2
 ---
 &quot;The implications go far beyond Japan...
 

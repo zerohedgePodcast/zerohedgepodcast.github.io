@@ -9,7 +9,7 @@ length: 563
 datetime: Tue, 20 Dec 2022 03:00:00 +0000
 tags: podcast
 guid: spike-fed-discount-window-usage-hints-looming-bank-crisis-0
-order: 2
+order: 1
 ---
 &quot;it is surprising that in spite of the available amount liquidity in the system, usage at the discount window still increased&quot; - JPM
 
