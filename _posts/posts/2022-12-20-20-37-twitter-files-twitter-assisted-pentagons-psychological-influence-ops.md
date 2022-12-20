@@ -9,7 +9,7 @@ length: 260
 datetime: Tue, 20 Dec 2022 20:37:00 +0000
 tags: podcast
 guid: twitter-files-twitter-assisted-pentagons-psychological-influence-ops-0
-order: 0
+order: 2
 ---
 &quot;One Twitter official who spoke to me said he feels deceived by the covert shift...&quot;
 
