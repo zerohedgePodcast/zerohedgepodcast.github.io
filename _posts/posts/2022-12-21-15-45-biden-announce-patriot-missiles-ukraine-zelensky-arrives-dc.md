@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Biden To Announce Patriot Missiles For Ukraine As Zelensky Arrives In D.C."
-audio: biden-announce-patriot-missiles-ukraine-zelensky-arrives-dc-0
+title: "Zelensky Expected To Tell Congress That $45BN In New Aid Is &quot;Not Enough&quot;"
+audio: biden-announce-patriot-missiles-ukraine-zelensky-arrives-dc-1
 category: geopolitical
-desc: "And another $2 billion in defense aid..."
-duration: 00:02:30
-length: 150
-datetime: Wed, 21 Dec 2022 12:23:00 +0000
+desc: "Touches down in US Air Force plane..."
+duration: 00:05:09
+length: 309
+datetime: Wed, 21 Dec 2022 15:45:00 +0000
 tags: podcast
 guid: biden-announce-patriot-missiles-ukraine-zelensky-arrives-dc-0
 order: 2
 ---
-And another $2 billion in defense aid...
+Touches down in US Air Force plane...
 
 Link: [https://www.zerohedge.com/geopolitical/biden-announce-patriot-missiles-ukraine-zelensky-arrives-dc](https://www.zerohedge.com/geopolitical/biden-announce-patriot-missiles-ukraine-zelensky-arrives-dc)
 

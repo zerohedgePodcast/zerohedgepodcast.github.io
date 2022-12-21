@@ -9,7 +9,7 @@ length: 144
 datetime: Wed, 21 Dec 2022 11:55:00 +0000
 tags: podcast
 guid: musk-will-resign-twitter-ceo-after-finding-someone-foolish-enough-take-job-0
-order: 1
+order: 0
 ---
 &quot;I will just run the software &amp; servers teams.&quot; 
 
