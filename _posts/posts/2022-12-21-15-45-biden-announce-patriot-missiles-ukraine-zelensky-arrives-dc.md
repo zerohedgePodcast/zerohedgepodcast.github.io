@@ -9,7 +9,7 @@ length: 309
 datetime: Wed, 21 Dec 2022 15:45:00 +0000
 tags: podcast
 guid: biden-announce-patriot-missiles-ukraine-zelensky-arrives-dc-0
-order: 2
+order: 1
 ---
 Touches down in US Air Force plane...
 

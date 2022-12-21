@@ -9,7 +9,7 @@ length: 339
 datetime: Wed, 21 Dec 2022 15:25:00 +0000
 tags: podcast
 guid: heres-whats-ugliest-omnibus-bill-ever-0
-order: 1
+order: 0
 ---
 &quot;The process stinks, it is an abomination...&quot;
 
