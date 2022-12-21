@@ -9,7 +9,7 @@ length: 265
 datetime: Wed, 21 Dec 2022 03:12:00 +0000
 tags: podcast
 guid: six-years-trump-tax-returns-made-public-dems-unleash-new-political-weapon-0
-order: 0
+order: 2
 ---
 &quot;Longstanding privacy protections for all taxpayers have been compromised...&quot;
 
