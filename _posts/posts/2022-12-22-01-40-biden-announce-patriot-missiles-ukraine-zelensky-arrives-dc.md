@@ -9,7 +9,7 @@ length: 684
 datetime: Thu, 22 Dec 2022 01:40:00 +0000
 tags: podcast
 guid: biden-announce-patriot-missiles-ukraine-zelensky-arrives-dc-0
-order: 2
+order: 1
 ---
 &quot;I can assure you that Ukrainian soldiers can perfectly operate American tanks &amp; planes themselves.&quot; 
 
