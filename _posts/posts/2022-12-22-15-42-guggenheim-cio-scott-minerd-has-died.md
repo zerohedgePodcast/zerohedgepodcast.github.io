@@ -9,7 +9,7 @@ length: 186
 datetime: Thu, 22 Dec 2022 15:42:00 +0000
 tags: podcast
 guid: guggenheim-cio-scott-minerd-has-died-0
-order: 0
+order: 1
 ---
 Scott Minerd, CIO of Guggenheim Partners, one of the best strategists on Wall Street and a passionate weightlifter, died from a heart attack during his regular workout at the age of 63.
 
