@@ -9,7 +9,7 @@ length: 531
 datetime: Thu, 22 Dec 2022 18:39:00 +0000
 tags: podcast
 guid: caroline-ellison-throws-sbf-under-bus-pleads-guilty-fraud-agrees-cooperate-doj-0
-order: 2
+order: 1
 ---
 ...consented to a bail package that include a $250 Million bond, home-detention (at his parent's residence in CA), location-monitoring, and the surrender of his passport...
 
