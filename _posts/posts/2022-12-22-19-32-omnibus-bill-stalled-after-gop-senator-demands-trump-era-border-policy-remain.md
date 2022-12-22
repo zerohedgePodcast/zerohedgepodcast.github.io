@@ -9,7 +9,7 @@ length: 369
 datetime: Thu, 22 Dec 2022 19:32:00 +0000
 tags: podcast
 guid: omnibus-bill-stalled-after-gop-senator-demands-trump-era-border-policy-remain-0
-order: 2
+order: 0
 ---
 It also includes reforms to the Electoral Count Act in response to the Jan. 6, 2021...
 
