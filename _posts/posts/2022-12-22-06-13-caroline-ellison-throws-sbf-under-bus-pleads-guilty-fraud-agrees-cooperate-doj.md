@@ -9,7 +9,7 @@ length: 319
 datetime: Thu, 22 Dec 2022 06:13:00 +0000
 tags: podcast
 guid: caroline-ellison-throws-sbf-under-bus-pleads-guilty-fraud-agrees-cooperate-doj-0
-order: 2
+order: 1
 ---
 Caroline Ellison has fucked Sam Bankman-Fried one final time...
 
