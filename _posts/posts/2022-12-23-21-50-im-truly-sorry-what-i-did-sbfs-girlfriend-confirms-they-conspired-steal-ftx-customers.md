@@ -9,7 +9,7 @@ length: 196
 datetime: Fri, 23 Dec 2022 21:50:00 +0000
 tags: podcast
 guid: im-truly-sorry-what-i-did-sbfs-girlfriend-confirms-they-conspired-steal-ftx-customers-0
-order: 1
+order: 0
 ---
 &quot;I knew that it was wrong...&quot;
 
