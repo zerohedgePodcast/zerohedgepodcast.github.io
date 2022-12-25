@@ -9,7 +9,7 @@ length: 258
 datetime: Sun, 25 Dec 2022 04:20:00 +0000
 tags: podcast
 guid: war-christmas-war-america-0
-order: 0
+order: 1
 ---
 Whatever unites us, the left is against...
 

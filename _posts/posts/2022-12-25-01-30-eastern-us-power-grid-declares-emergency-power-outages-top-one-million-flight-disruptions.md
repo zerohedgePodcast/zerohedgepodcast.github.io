@@ -9,7 +9,7 @@ length: 585
 datetime: Sun, 25 Dec 2022 01:30:00 +0000
 tags: podcast
 guid: eastern-us-power-grid-declares-emergency-power-outages-top-one-million-flight-disruptions-0
-order: 2
+order: 0
 ---
 &quot;It is 20 in Memphis, TN &amp; we are stuck in what is now a 6 hour &quot;rolling blackout&quot;... on Christmas Eve. Because of left-wing &quot;climate change&quot; lies &amp; hysteria, necessary nat gas infrastructure needed to keep the power on hasn't been built...&quot; 
 
