@@ -9,7 +9,7 @@ length: 115
 datetime: Mon, 26 Dec 2022 13:45:00 +0000
 tags: podcast
 guid: we-will-change-europe-polish-pm-tells-italian-media-he-meloni-will-return-europe-union-0
-order: 0
+order: 1
 ---
 According to Polish PM Mateusz Morawiecki, the European Union needs to return to the idea of a Europe of nations in order to be stronger and deal with the Russian threat...
 

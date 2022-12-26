@@ -9,7 +9,7 @@ length: 176
 datetime: Mon, 26 Dec 2022 14:20:00 +0000
 tags: podcast
 guid: footage-shows-looting-across-buffalo-city-plunged-chaos-after-blizzard-0
-order: 0
+order: 2
 ---
 &quot;Yo, idiots... the city is spiraling out of control .. looting, seniors dying, and you keep taking f**king pictures and pretending that everything is ok? You are truly helpless idiots...&quot; 
 
