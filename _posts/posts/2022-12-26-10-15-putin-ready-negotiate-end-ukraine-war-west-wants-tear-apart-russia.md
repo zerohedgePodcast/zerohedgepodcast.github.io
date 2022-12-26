@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Putin &quot;Ready&quot; To Negotiate End To Ukraine War, But West Wants To &quot;Tear Apart&quot; Russia"
-audio: putin-ready-negotiate-end-ukraine-war-west-wants-tear-apart-russia-0
+audio: putin-ready-negotiate-end-ukraine-war-west-wants-tear-apart-russia-1
 category: geopolitical
 desc: "&quot;We are ready to negotiate with everyone involved about acceptable solutions, but that is up to them...&quot;"
 duration: 00:02:47
 length: 167
-datetime: Sun, 25 Dec 2022 14:15:00 +0000
+datetime: Mon, 26 Dec 2022 10:15:00 +0000
 tags: podcast
 guid: putin-ready-negotiate-end-ukraine-war-west-wants-tear-apart-russia-0
-order: 1
+order: 0
 ---
 &quot;We are ready to negotiate with everyone involved about acceptable solutions, but that is up to them...&quot;
 
