@@ -9,7 +9,7 @@ length: 273
 datetime: Mon, 26 Dec 2022 15:10:00 +0000
 tags: podcast
 guid: elon-musk-says-almost-every-conspiracy-theory-people-had-about-twitter-turned-out-be-0
-order: 2
+order: 0
 ---
 &quot;Is there a conspiracy theory about Twitter that didn't turn out to be true? So far, they've all turned out to be true. If not more true than people thought...&quot;
 

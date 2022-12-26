@@ -9,7 +9,7 @@ length: 433
 datetime: Mon, 26 Dec 2022 17:15:00 +0000
 tags: podcast
 guid: twitter-files-how-twitter-rigged-covid-debate-0
-order: 0
+order: 2
 ---
 &quot;The buck stopped with higher level employees at Twitter...&quot;
 
