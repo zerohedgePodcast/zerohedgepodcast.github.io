@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "The War On Christmas Is A War On America"
-audio: war-christmas-war-america-0
+audio: war-christmas-war-america-1
 category: political
 desc: "Whatever unites us, the left is against..."
 duration: 00:04:18
 length: 258
-datetime: Sun, 25 Dec 2022 04:20:00 +0000
+datetime: Mon, 26 Dec 2022 01:10:00 +0000
 tags: podcast
 guid: war-christmas-war-america-0
-order: 1
+order: 0
 ---
 Whatever unites us, the left is against...
 

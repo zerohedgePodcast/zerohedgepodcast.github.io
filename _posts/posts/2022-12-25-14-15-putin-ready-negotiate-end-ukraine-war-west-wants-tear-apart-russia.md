@@ -9,7 +9,7 @@ length: 167
 datetime: Sun, 25 Dec 2022 14:15:00 +0000
 tags: podcast
 guid: putin-ready-negotiate-end-ukraine-war-west-wants-tear-apart-russia-0
-order: 2
+order: 1
 ---
 &quot;We are ready to negotiate with everyone involved about acceptable solutions, but that is up to them...&quot;
 
