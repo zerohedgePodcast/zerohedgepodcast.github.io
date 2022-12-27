@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "THE TWITTER FILES: How Twitter Rigged The Covid Debate"
-audio: twitter-files-how-twitter-rigged-covid-debate-0
+audio: twitter-files-how-twitter-rigged-covid-debate-1
 category: political
 desc: "&quot;The buck stopped with higher level employees at Twitter...&quot;"
 duration: 00:07:13
 length: 433
-datetime: Mon, 26 Dec 2022 17:15:00 +0000
+datetime: Mon, 26 Dec 2022 23:44:00 +0000
 tags: podcast
 guid: twitter-files-how-twitter-rigged-covid-debate-0
-order: 2
+order: 0
 ---
 &quot;The buck stopped with higher level employees at Twitter...&quot;
 
