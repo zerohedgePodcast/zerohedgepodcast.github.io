@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "&quot;Full-Blown Meltdown&quot;: Southwest Cancels Nearly 3,000 Flights As Holiday Travel Hits Perfect Storm"
-audio: full-blown-meltdown-southwest-cancels-nearly-3000-flights-holiday-travel-hits-perfect-storm-0
+title: "Southwest's Mass Flight Cancellations Continue, Prompting Transportation Department To Review"
+audio: full-blown-meltdown-southwest-cancels-nearly-3000-flights-holiday-travel-hits-perfect-storm-1
 category: markets
-desc: "&quot;This is really as bad as it gets for an airline...&quot;"
-duration: 00:04:17
-length: 257
-datetime: Tue, 27 Dec 2022 02:35:00 +0000
+desc: "&quot;This is the largest-scale event that I've ever seen.&quot; "
+duration: 00:05:45
+length: 345
+datetime: Tue, 27 Dec 2022 12:05:00 +0000
 tags: podcast
 guid: full-blown-meltdown-southwest-cancels-nearly-3000-flights-holiday-travel-hits-perfect-storm-0
-order: 0
+order: 1
 ---
-&quot;This is really as bad as it gets for an airline...&quot;
+&quot;This is the largest-scale event that I've ever seen.&quot; 
 
 Link: [https://www.zerohedge.com/markets/full-blown-meltdown-southwest-cancels-nearly-3000-flights-holiday-travel-hits-perfect-storm](https://www.zerohedge.com/markets/full-blown-meltdown-southwest-cancels-nearly-3000-flights-holiday-travel-hits-perfect-storm)
 
