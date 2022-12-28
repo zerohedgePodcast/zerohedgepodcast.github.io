@@ -9,7 +9,7 @@ length: 193
 datetime: Wed, 28 Dec 2022 20:05:00 +0000
 tags: podcast
 guid: extremely-irresponsible-china-reopens-borders-milan-sees-50-arrivals-infected-covid-0
-order: 2
+order: 1
 ---
 ...is it xenophobic?
 
