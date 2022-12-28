@@ -9,7 +9,7 @@ length: 174
 datetime: Tue, 27 Dec 2022 21:19:00 +0000
 tags: podcast
 guid: us-supreme-court-rules-keep-trump-border-policy-place-0
-order: 1
+order: 0
 ---
 Conservative Justice Gorsuch joined the liberal Justices in dissent.
 

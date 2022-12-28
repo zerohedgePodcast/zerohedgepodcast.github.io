@@ -9,7 +9,7 @@ length: 139
 datetime: Wed, 28 Dec 2022 02:40:00 +0000
 tags: podcast
 guid: aussie-cops-ask-neighbors-rat-out-anti-government-anti-police-or-covid-vaccine-conspiracy-0
-order: 0
+order: 1
 ---
 &quot;Authoritarianism, and totalitarianism, at its finest&quot;
 
