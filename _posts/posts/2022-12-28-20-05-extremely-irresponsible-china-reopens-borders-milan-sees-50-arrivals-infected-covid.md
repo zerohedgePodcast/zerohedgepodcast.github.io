@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "&quot;Extremely Irresponsible&quot; China Reopens Borders, Milan Sees 50% Of Arrivals Infected With COVID"
-audio: extremely-irresponsible-china-reopens-borders-milan-sees-50-arrivals-infected-covid-0
+title: "US To Require Negative COVID Tests After &quot;Extremely Irresponsible&quot; China Reopens Borders"
+audio: extremely-irresponsible-china-reopens-borders-milan-sees-50-arrivals-infected-covid-1
 category: covid-19
-desc: "...will it be xenophobic again to block Chinese visitors?"
-duration: 00:02:56
-length: 176
-datetime: Wed, 28 Dec 2022 16:47:00 +0000
+desc: "...is it xenophobic?"
+duration: 00:03:13
+length: 193
+datetime: Wed, 28 Dec 2022 20:05:00 +0000
 tags: podcast
 guid: extremely-irresponsible-china-reopens-borders-milan-sees-50-arrivals-infected-covid-0
-order: 0
+order: 2
 ---
-...will it be xenophobic again to block Chinese visitors?
+...is it xenophobic?
 
 Link: [https://www.zerohedge.com/covid-19/extremely-irresponsible-china-reopens-borders-milan-sees-50-arrivals-infected-covid](https://www.zerohedge.com/covid-19/extremely-irresponsible-china-reopens-borders-milan-sees-50-arrivals-infected-covid)
 

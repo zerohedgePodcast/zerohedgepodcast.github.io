@@ -9,7 +9,7 @@ length: 161
 datetime: Wed, 28 Dec 2022 14:51:00 +0000
 tags: podcast
 guid: alameda-wallets-suddenly-become-active-day-after-sbfs-bail-out-0
-order: 2
+order: 0
 ---
 The recent movement of funds from Alameda wallets just days after Sam Bankman Fried was released on bail raised many eyebrows about the timing...
 
