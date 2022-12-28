@@ -9,7 +9,7 @@ length: 99
 datetime: Wed, 28 Dec 2022 13:50:00 +0000
 tags: podcast
 guid: leaked-southwest-memo-reveals-state-operational-emergency-christmas-storm-0
-order: 2
+order: 1
 ---
 &quot;We have received an unusually high number of absences...&quot; 
 
