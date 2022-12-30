@@ -9,7 +9,7 @@ length: 195
 datetime: Fri, 30 Dec 2022 16:01:00 +0000
 tags: podcast
 guid: andrew-tate-detained-romania-human-trafficking-case-greta-gets-last-word-0
-order: 2
+order: 1
 ---
 &quot;The four suspects  appear to have created an organized crime group with the purpose of recruiting, housing and exploiting women...&quot;
 
