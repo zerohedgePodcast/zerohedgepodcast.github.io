@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "SBF Was Meeting With Senior White House Officials Shortly Before FTX Collapse"
-audio: sbf-met-senior-white-house-officials-ftx-collapse-0
+audio: sbf-met-senior-white-house-officials-ftx-collapse-1
 category: political
 desc: "Politics weren't discussed?"
 duration: 00:02:48
 length: 168
-datetime: Thu, 29 Dec 2022 22:20:00 +0000
+datetime: Fri, 30 Dec 2022 12:11:00 +0000
 tags: podcast
 guid: sbf-met-senior-white-house-officials-ftx-collapse-0
-order: 1
+order: 0
 ---
 Politics weren't discussed?
 
