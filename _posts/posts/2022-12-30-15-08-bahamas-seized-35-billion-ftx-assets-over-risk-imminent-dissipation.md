@@ -9,7 +9,7 @@ length: 177
 datetime: Fri, 30 Dec 2022 15:08:00 +0000
 tags: podcast
 guid: bahamas-seized-35-billion-ftx-assets-over-risk-imminent-dissipation-0
-order: 2
+order: 1
 ---
 The disclosure could provide relief to some FTX customers...
 
