@@ -9,7 +9,7 @@ length: 215
 datetime: Fri, 30 Dec 2022 14:41:00 +0000
 tags: podcast
 guid: twitters-covid-19-censorship-led-loss-life-says-former-white-house-adviser-dr-scott-atlas-0
-order: 0
+order: 1
 ---
 &quot;Censorship of the correct science and medical information, during this pandemic, absolutely killed people. It prevented people from making intelligent decisions. It prevented people from making the appropriate use of caution,&quot;
 

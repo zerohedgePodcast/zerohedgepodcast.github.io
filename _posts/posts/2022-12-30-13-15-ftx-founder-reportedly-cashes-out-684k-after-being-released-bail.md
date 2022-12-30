@@ -9,7 +9,7 @@ length: 270
 datetime: Fri, 30 Dec 2022 13:15:00 +0000
 tags: podcast
 guid: ftx-founder-reportedly-cashes-out-684k-after-being-released-bail-0
-order: 1
+order: 0
 ---
 SBF has allegedly cashed out $684,000 from a crypto exchange in Seychelles while being under house arrest, according to an on-chain investigation...
 
