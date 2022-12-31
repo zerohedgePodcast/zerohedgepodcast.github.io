@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The US Is The Champagne-Drinking Champion Of The World"
-audio: us-champagne-drinking-champion-world-1
+audio: us-champagne-drinking-champion-world-2
 category: personal-finance
 desc: "While French champagne only makes up around 9% of the global sparkling wine consumption, it's responsible for 33% of the market value..."
 duration: 00:01:18
