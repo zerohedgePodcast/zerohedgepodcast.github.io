@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laid-Off Silicon Valley Workers Panic Sell Start-Up Shares As Valuations Crash"
-audio: laid-silicon-valley-workers-panic-sell-start-shares-valuations-crash-1
+audio: laid-silicon-valley-workers-panic-sell-start-shares-valuations-crash-2
 category: markets
 desc: "What an epic mess. "
 duration: 00:03:00
