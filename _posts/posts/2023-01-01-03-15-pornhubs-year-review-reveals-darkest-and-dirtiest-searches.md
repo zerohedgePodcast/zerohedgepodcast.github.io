@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pornhub's 2022 Year In Review Reveals World's Darkest And Dirtiest Searches"
-audio: pornhubs-year-review-reveals-darkest-and-dirtiest-searches-0
+audio: pornhubs-year-review-reveals-darkest-and-dirtiest-searches-1
 category: markets
 desc: "Yet another website has published its year-in-review. This one comes from Pornhub's statisticians, who have published its users' consumption habits in colorful infographics for the ninth year. Let's begin with the US, the country with the highest daily traffic to Pornhub this year. "
 duration: 00:01:23

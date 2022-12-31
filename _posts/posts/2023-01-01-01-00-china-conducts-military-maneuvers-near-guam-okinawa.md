@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China Conducts Military Maneuvers Near US Bases At Guam, Okinawa"
-audio: china-conducts-military-maneuvers-near-guam-okinawa-2
+audio: china-conducts-military-maneuvers-near-guam-okinawa-3
 category: military
 desc: "Large flotilla conducts drills near US military Pacific bases..."
 duration: 00:03:25

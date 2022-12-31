@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Multipolar Shift With Energy And Dollar Disruptions"
-audio: multipolar-shift-energy-and-dollar-disruptions-1
+audio: multipolar-shift-energy-and-dollar-disruptions-2
 category: geopolitical
 desc: "...more local currency trade settlements would erode dollar flows and Federal Reserve's influence..."
 duration: 00:05:07
