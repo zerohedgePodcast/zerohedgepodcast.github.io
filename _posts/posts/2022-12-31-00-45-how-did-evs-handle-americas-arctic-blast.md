@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Did EVs Handle America's Arctic Blast?"
-audio: how-did-evs-handle-americas-arctic-blast-5
+audio: how-did-evs-handle-americas-arctic-blast-6
 category: technology
 desc: "The Arctic blast that chilled much of the &quot;Lower 48&quot; last week showcased the EV range hit to more Americans than ever, and also yielded a few more lessons. "
 duration: 00:03:28
