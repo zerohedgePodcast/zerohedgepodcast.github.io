@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Pope Benedict, 1st Pontiff In 600 Years To Resign, Dies At 95"
-audio: former-pope-benedict-who-was-1st-pontiff-600-years-resign-dies-95-10
+audio: former-pope-benedict-who-was-1st-pontiff-600-years-resign-dies-95-1
 category: political
 desc: "Considered a polarizing figure for his conservative moral stances, he had condemned the &quot;dictatorship of relativism.&quot;"
 duration: 00:04:10
