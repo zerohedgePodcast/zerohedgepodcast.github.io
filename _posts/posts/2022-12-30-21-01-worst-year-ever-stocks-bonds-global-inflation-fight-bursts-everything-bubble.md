@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Worst Year Ever' For Stocks &amp; Bonds - Global Inflation Fight Bursts 'Everything Bubble'"
-audio: worst-year-ever-stocks-bonds-global-inflation-fight-bursts-everything-bubble-3
+audio: worst-year-ever-stocks-bonds-global-inflation-fight-bursts-everything-bubble-4
 category: markets
 desc: "&quot;This has been a year to be in the bunker,&quot;"
 duration: 00:06:46

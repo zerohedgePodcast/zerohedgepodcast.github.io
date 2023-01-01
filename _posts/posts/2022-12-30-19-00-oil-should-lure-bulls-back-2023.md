@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oil Should Lure Bulls Back in 2023"
-audio: oil-should-lure-bulls-back-2023-9
+audio: oil-should-lure-bulls-back-2023-10
 category: commodities
 desc: "There are plenty of reasons why oil is poised for a renewed surge next year."
 duration: 00:01:48

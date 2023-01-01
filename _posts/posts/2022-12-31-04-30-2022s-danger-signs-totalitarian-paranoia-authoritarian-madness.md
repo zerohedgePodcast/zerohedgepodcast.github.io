@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022's Danger Signs: From Totalitarian Paranoia To Authoritarian Madness"
-audio: 2022s-danger-signs-totalitarian-paranoia-authoritarian-madness-7
+audio: 2022s-danger-signs-totalitarian-paranoia-authoritarian-madness-8
 category: political
 desc: "...if there is any means left to us for thwarting the government in its relentless march towards outright dictatorship, it rests - as it always has - at the local level, with &quot;we the people.&quot;"
 duration: 00:12:10

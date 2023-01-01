@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China Hit By Tsunami Of COVID Infections In Reopening Scramble But It's All Just Omicron, As No New Variants Emerge"
-audio: china-hit-tsunami-covid-infections-reopening-scramble-its-all-just-omicron-no-new-variants-0
+audio: china-hit-tsunami-covid-infections-reopening-scramble-its-all-just-omicron-no-new-variants-1
 category: covid-19
 desc: "&quot;The variants continue to circulate without any significant changes that raise any specter of concern.  You do not have any kind of data that suggest anything but business as usual.&quot;"
 duration: 00:05:23
