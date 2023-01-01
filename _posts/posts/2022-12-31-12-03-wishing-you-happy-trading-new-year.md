@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BS, seasonality and some puts..."
-audio: wishing-you-happy-trading-new-year-5
+audio: wishing-you-happy-trading-new-year-6
 category: the-market-ear
 desc: 
 duration: 00:02:53
