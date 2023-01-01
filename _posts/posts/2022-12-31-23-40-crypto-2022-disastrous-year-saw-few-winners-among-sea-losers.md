@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crypto 2022: A Disastrous Year That Saw Few Winners Among A Sea Of Losers"
-audio: crypto-2022-disastrous-year-saw-few-winners-among-sea-losers-9
+audio: crypto-2022-disastrous-year-saw-few-winners-among-sea-losers-10
 category: crypto
 desc: "2022 was an eventful year for the crypto world but not everyone came on top of it, we look at some of the biggest winners and losers from 2022..."
 duration: 00:07:52
