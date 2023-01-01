@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "28-Year-Old Charged in Killing Of 4 Idaho College Students"
-audio: 28-year-old-charged-killing-4-idaho-college-students-8
+audio: 28-year-old-charged-killing-4-idaho-college-students-9
 category: political
 desc: "He is being held for extradition to Idaho on a warrant for first degree murder, according to arrest paperwork filed in Monroe County Court."
 duration: 00:02:41
