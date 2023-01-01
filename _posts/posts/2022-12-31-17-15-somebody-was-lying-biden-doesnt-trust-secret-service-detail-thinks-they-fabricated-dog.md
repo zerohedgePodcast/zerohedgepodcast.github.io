@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "&quot;Somebody Was Lying&quot;: Biden Doesn't Trust Secret Service Detail, Thinks They Fabricated Dog Biting Incident"
-audio: somebody-was-lying-biden-doesnt-trust-secret-service-detail-thinks-they-fabricated-dog-6
+audio: somebody-was-lying-biden-doesnt-trust-secret-service-detail-thinks-they-fabricated-dog-7
 category: markets
 desc: "Both incidents?"
 duration: 00:02:03
