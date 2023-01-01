@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Home Depot Co-Founder Rails Against Socialism And &quot;Woke People,&quot; Warns 'Capitalism In Dire Straits'"
-audio: home-depot-co-founder-rails-against-socialism-and-woke-people-warns-capitalism-dire-5
+audio: home-depot-co-founder-rails-against-socialism-and-woke-people-warns-capitalism-dire-6
 category: political
 desc: "President Biden is &quot;the worst president in the history of this country.&quot; "
 duration: 00:01:53

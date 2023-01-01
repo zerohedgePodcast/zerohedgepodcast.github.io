@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022 Same Shit, Different Year: 55 Years Of Failed Eco-pocalyptic Predictions"
-audio: 2022-same-shit-different-year-55-years-failed-eco-pocalyptic-predictions-6
+audio: 2022-same-shit-different-year-55-years-failed-eco-pocalyptic-predictions-7
 category: weather
 desc: "Modern doomsayers have been predicting imminent climate and environmental disaster since the 1960s. They continue to do so today..."
 duration: 00:07:59

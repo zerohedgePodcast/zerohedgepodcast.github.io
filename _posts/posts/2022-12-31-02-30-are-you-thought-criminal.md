@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are You A &quot;Thought Criminal&quot;?"
-audio: are-you-thought-criminal-6
+audio: are-you-thought-criminal-7
 category: political
 desc: "If we are not free to think what we want, we do not have a free society.  It really is that simple..."
 duration: 00:07:10
