@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Sudden Stratospheric Warming Event' Could Wreak Havoc Across Britain"
-audio: sudden-stratospheric-warming-event-could-wreak-havoc-across-britain-2
+audio: sudden-stratospheric-warming-event-could-wreak-havoc-across-britain-3
 category: weather
 desc: "&quot;If an SSW event does set in, colder weather could hit Britons around the middle of January.&quot; "
 duration: 00:02:24

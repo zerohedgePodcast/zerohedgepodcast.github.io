@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MIT Adopts Free Speech Resolution: &quot;We Cannot Prohibit Speech As Offensive Or Injurious&quot;"
-audio: mit-adopts-free-speech-resolution-we-cannot-prohibit-speech-offensive-or-injurious-2
+audio: mit-adopts-free-speech-resolution-we-cannot-prohibit-speech-offensive-or-injurious-3
 category: political
 desc: "It is a triumph for free speech. However, while 98 faculty voted for the resolution, 52 professors voted against the free speech principles..."
 duration: 00:03:51
