@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UK Announces COVID-19 Restrictions On China Arrivals"
-audio: uk-announces-covid-19-restrictions-china-arrivals-2
+audio: uk-announces-covid-19-restrictions-china-arrivals-3
 category: covid-19
 desc: "&quot;If there are improvements in information sharing and greater transparency then temporary measures will be reviewed,&quot; "
 duration: 00:05:20

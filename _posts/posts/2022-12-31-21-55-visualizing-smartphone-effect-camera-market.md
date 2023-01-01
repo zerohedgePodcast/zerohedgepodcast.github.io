@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visualizing The Smartphone Effect On The Camera Market"
-audio: visualizing-smartphone-effect-camera-market-2
+audio: visualizing-smartphone-effect-camera-market-3
 category: technology
 desc: "The smartphone camera has come a long way since the early 2000s, and its impact on the overall camera market cannot be understated..."
 duration: 00:05:01
