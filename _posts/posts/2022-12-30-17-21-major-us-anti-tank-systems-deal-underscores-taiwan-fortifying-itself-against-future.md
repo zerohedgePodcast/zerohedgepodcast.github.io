@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Major US Anti-Tank Systems Deal Underscores Taiwan Fortifying Itself Against Future Invasion"
-audio: major-us-anti-tank-systems-deal-underscores-taiwan-fortifying-itself-against-future-0
+audio: major-us-anti-tank-systems-deal-underscores-taiwan-fortifying-itself-against-future-1
 category: military
 desc: "Volcano system will boost the island's &quot;asymmetric warfare&quot; capabilities..."
 duration: 00:02:06
