@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researcher Reveals Google Home Speakers Could've Been Hijacked And Turned Into Wiretaps"
-audio: researcher-reveals-google-home-speakers-couldve-been-hijacked-and-turned-wiretaps-7
+audio: researcher-reveals-google-home-speakers-couldve-been-hijacked-and-turned-wiretaps-8
 category: technology
 desc: "&quot;I was recently rewarded a total of $107,500 by Google for responsibly disclosing security issues...&quot; "
 duration: 00:01:59
