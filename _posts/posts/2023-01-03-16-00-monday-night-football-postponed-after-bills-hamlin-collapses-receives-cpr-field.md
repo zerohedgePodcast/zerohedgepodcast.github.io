@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Buffalo Bills Confirm Hamlin Suffered &quot;Cardiac Arrest&quot;, Remains In Critical Condition"
-audio: monday-night-football-postponed-after-bills-hamlin-collapses-receives-cpr-field-1
+audio: monday-night-football-postponed-after-bills-hamlin-collapses-receives-cpr-field-2
 category: medical
 desc: "24-year-old player intubated and in critical condition..."
 duration: 00:05:19
 length: 319
-datetime: Tue, 03 Jan 2023 15:20:00 +0000
+datetime: Tue, 03 Jan 2023 16:00:00 +0000
 tags: podcast
 guid: monday-night-football-postponed-after-bills-hamlin-collapses-receives-cpr-field-0
-order: 2
+order: 0
 ---
 24-year-old player intubated and in critical condition...
 
