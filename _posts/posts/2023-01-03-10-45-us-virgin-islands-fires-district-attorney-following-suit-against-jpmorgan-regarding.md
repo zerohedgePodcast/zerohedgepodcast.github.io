@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Virgin Islands AG Fired Three Days After Suing JPMorgan Over Jeffrey Epstein"
-audio: us-virgin-islands-fires-district-attorney-following-suit-against-jpmorgan-regarding-0
+audio: us-virgin-islands-fires-district-attorney-following-suit-against-jpmorgan-regarding-1
 category: political
 desc: "Denise George's firing comes just days after her office implicated JPMorgan Chase in Epstein's crimes. "
 duration: 00:05:22
 length: 322
-datetime: Mon, 02 Jan 2023 22:45:00 +0000
+datetime: Tue, 03 Jan 2023 10:45:00 +0000
 tags: podcast
 guid: us-virgin-islands-fires-district-attorney-following-suit-against-jpmorgan-regarding-0
-order: 2
+order: 0
 ---
 Denise George's firing comes just days after her office implicated JPMorgan Chase in Epstein's crimes. 
 
