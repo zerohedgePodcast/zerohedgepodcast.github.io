@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Of Economic Crises &amp; Pandemics: Facebook As Fact, Government As Truth, Big Pharma As God"
-audio: economic-crises-pandemics-facebook-fact-government-truth-big-pharma-god-0
+audio: economic-crises-pandemics-facebook-fact-government-truth-big-pharma-god-1
 category: geopolitical
 desc: "If events since March 2020 have shown us anything, it is that fear is a powerful weapon for securing hegemony..."
 duration: 00:10:46

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Judge Keeps Oregon's Strict Gun Control Measure On Ice"
-audio: judge-keeps-oregons-strict-gun-control-measure-ice-0
+audio: judge-keeps-oregons-strict-gun-control-measure-ice-1
 category: political
 desc: "Harney County circuit judge to rule on temporary restraining orders by Jan. 3"
 duration: 00:05:20

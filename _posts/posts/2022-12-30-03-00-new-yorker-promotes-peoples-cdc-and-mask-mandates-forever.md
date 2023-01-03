@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The New Yorker Promotes &quot;People's CDC&quot; And Mask Mandates Forever "
-audio: new-yorker-promotes-peoples-cdc-and-mask-mandates-forever-0
+audio: new-yorker-promotes-peoples-cdc-and-mask-mandates-forever-1
 category: covid-19
 desc: "What the covid debate really amounts to is a conflict between those that support individual liberty vs those that do not."
 duration: 00:05:20

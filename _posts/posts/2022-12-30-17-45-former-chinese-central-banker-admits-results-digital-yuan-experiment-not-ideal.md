@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Chinese Central Banker Admits Results Of Digital Yuan Experiment &quot;Not Ideal&quot;"
-audio: former-chinese-central-banker-admits-results-digital-yuan-experiment-not-ideal-7
+audio: former-chinese-central-banker-admits-results-digital-yuan-experiment-not-ideal-8
 category: crypto
 desc: "...the &quot;usage has been low, highly inactive&quot;."
 duration: 00:02:20

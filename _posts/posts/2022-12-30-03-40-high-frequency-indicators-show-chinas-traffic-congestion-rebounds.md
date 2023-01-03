@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Despite Massive COVID Wave, High-Frequency Indicators Show China's Traffic Congestion Rebounds "
-audio: high-frequency-indicators-show-chinas-traffic-congestion-rebounds-0
+audio: high-frequency-indicators-show-chinas-traffic-congestion-rebounds-1
 category: markets
 desc: "&quot;China is opening back up. &quot;"
 duration: 00:02:24

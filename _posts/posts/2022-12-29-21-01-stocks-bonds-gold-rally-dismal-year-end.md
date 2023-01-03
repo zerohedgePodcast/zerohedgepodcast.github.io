@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stocks, Bonds, Gold Rally Into Dismal Year-End "
-audio: stocks-bonds-gold-rally-dismal-year-end-0
+audio: stocks-bonds-gold-rally-dismal-year-end-1
 category: markets
 desc: "...as the dollar dives to post-CPI lows..."
 duration: 00:01:52

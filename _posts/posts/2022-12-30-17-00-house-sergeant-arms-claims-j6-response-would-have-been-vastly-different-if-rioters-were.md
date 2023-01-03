@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "House Sergeant-At-Arms Claims J6 Response Would Have Been &quot;Vastly Different&quot; If Rioters Were Black"
-audio: house-sergeant-arms-claims-j6-response-would-have-been-vastly-different-if-rioters-were-1
+audio: house-sergeant-arms-claims-j6-response-would-have-been-vastly-different-if-rioters-were-2
 category: political
 desc: "Capitol police would have carried out a bloodbath if the mostly white Jan 6 protesters were black..."
 duration: 00:03:35

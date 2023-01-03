@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Futures Slide On Final Trading Day Of 2022"
-audio: futures-slide-final-trading-day-2022-0
+audio: futures-slide-final-trading-day-2022-1
 category: markets
 desc: "&quot;On equities, I expect a choppy first few weeks of the year, while central banks keep their hawkish tone, but then a more positive second quarter and onwards as inflation declines.&quot;"
 duration: 00:09:35

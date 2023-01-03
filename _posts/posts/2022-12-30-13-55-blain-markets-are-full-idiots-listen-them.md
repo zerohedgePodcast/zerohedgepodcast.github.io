@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blain: The Markets Are Full Of Idiots... Listen To Them"
-audio: blain-markets-are-full-idiots-listen-them-0
+audio: blain-markets-are-full-idiots-listen-them-1
 category: markets
 desc: "Herd stupidity is a problem, but it's also an opportunity..."
 duration: 00:05:33

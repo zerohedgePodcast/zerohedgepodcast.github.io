@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "South Korea Vows More Aggressive Response To North's 'Provocations'"
-audio: south-korea-vows-more-aggressive-response-norths-provocations-1
+audio: south-korea-vows-more-aggressive-response-norths-provocations-2
 category: geopolitical
 desc: "Yoon reportedly &quot;berated&quot; his Defense Minister over the failure to bring down the drones... "
 duration: 00:02:39

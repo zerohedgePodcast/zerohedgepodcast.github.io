@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chicago PMI Bounces But Remains Worst December Since 2015"
-audio: chicago-pmi-bounces-remains-worst-december-2015-0
+audio: chicago-pmi-bounces-remains-worst-december-2015-1
 category: economics
 desc: "...remaining deep in contraction territory..."
 duration: 00:01:06

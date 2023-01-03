@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Austrian Defense Minister Warns Europeans Are Unprepared For Coming Days-Long Blackouts"
-audio: austrian-defense-minister-warns-europeans-are-unprepared-coming-days-long-blackouts-0
+audio: austrian-defense-minister-warns-europeans-are-unprepared-coming-days-long-blackouts-1
 category: energy
 desc: "Leaving one third of citizens unable to &quot;supply themselves.&quot;"
 duration: 00:02:39

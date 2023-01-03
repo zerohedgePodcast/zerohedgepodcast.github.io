@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "California Lawmaker Introduces Bill To Legalize Magic Mushrooms, Other Psychedelics"
-audio: california-lawmaker-introduces-bill-legalize-magic-mushrooms-other-psychedelics-0
+audio: california-lawmaker-introduces-bill-legalize-magic-mushrooms-other-psychedelics-1
 category: political
 desc: "...psychedelics &quot;have huge promise&quot; when it comes to helping those suffering from mental health issues such as opioid addiction, depression, anxiety, and PTSD."
 duration: 00:04:24

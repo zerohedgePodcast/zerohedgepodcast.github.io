@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Biden Awkwardly Congratulates Most Extreme Right Government In Israel's History"
-audio: biden-congratulates-most-extreme-right-government-israels-history-netanyahu-sworn-0
+audio: biden-congratulates-most-extreme-right-government-israels-history-netanyahu-sworn-1
 category: political
 desc: "Biden says administration will &quot;oppose policies that endanger&quot; the two-state solution as Netanyahu sworn in."
 duration: 00:02:37

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Consumers Ditch Champagne For Prosecco Ahead Of New Years As Inflation Bites"
-audio: consumers-ditch-champagne-prosecco-new-years-inflation-bites-0
+audio: consumers-ditch-champagne-prosecco-new-years-inflation-bites-1
 category: markets
 desc: "Let's hope consumers don't get a headache the next morning from this switch. "
 duration: 00:02:28

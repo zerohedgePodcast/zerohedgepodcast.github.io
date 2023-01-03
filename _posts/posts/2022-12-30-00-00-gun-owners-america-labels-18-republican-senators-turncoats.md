@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gun Owners Of America Labels 18 Republican Senators &quot;Turncoats&quot;"
-audio: gun-owners-america-labels-18-republican-senators-turncoats-0
+audio: gun-owners-america-labels-18-republican-senators-turncoats-1
 category: political
 desc: "Lobby group slams members who voted to pass Omnibus spending bill that it says funds Biden gun-control programs..."
 duration: 00:05:20

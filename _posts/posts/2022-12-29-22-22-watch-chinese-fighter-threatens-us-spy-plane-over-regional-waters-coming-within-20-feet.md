@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Watch: Chinese Fighter Threatens US Spy Plane Over Regional Waters, Coming Within 20 Feet"
-audio: watch-chinese-fighter-threatens-us-spy-plane-over-regional-waters-coming-within-20-feet-1
+audio: watch-chinese-fighter-threatens-us-spy-plane-over-regional-waters-coming-within-20-feet-2
 category: military
 desc: "&quot;evasive maneuvers to avoid a collision&quot;"
 duration: 00:02:14

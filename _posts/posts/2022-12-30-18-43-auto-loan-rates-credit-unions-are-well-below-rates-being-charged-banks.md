@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auto-Loan Rates From Credit Unions Are &quot;Well Below&quot; Rates Being Charged By Banks"
-audio: auto-loan-rates-credit-unions-are-well-below-rates-being-charged-banks-9
+audio: auto-loan-rates-credit-unions-are-well-below-rates-being-charged-banks-10
 category: markets
 desc: "Keeping rates low has allowed some credit unions to add &quot;billion of dollars&quot; worth of auto loans to their books over the year..."
 duration: 00:06:14

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Times Square Crowne Plaza Hotel Goes Bankrupt"
-audio: times-square-crowne-plaza-hotel-goes-bankrupt-0
+audio: times-square-crowne-plaza-hotel-goes-bankrupt-1
 category: markets
 desc: "Some 88,000 square feet, or 45%, of the office space at 1601 Broadway remains vacant."
 duration: 00:04:06

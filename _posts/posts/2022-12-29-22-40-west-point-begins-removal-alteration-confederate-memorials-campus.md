@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "West Point Begins Removal, Alteration Of Confederate Memorials On Campus"
-audio: west-point-begins-removal-alteration-confederate-memorials-campus-0
+audio: west-point-begins-removal-alteration-confederate-memorials-campus-1
 category: political
 desc: "&quot;Memorabilia removed during this process will be relocated to appropriate sites...&quot;"
 duration: 00:04:43

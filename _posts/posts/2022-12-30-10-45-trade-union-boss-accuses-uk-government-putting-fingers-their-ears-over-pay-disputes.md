@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trade Union Boss Accuses UK Government Of Putting &quot;Fingers In Their Ears&quot; Over Pay Disputes"
-audio: trade-union-boss-accuses-uk-government-putting-fingers-their-ears-over-pay-disputes-0
+audio: trade-union-boss-accuses-uk-government-putting-fingers-their-ears-over-pay-disputes-1
 category: political
 desc: "&quot;There is overwhelming support for NHS workers, so it is not good enough for government ministers to continue to put their fingers in their ears...&quot;"
 duration: 00:05:38

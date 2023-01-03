@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Top 500 Richest People In The World Lost $1.4 Trillion In 2022"
-audio: top-500-richest-people-world-lost-14-trillion-2022-0
+audio: top-500-richest-people-world-lost-14-trillion-2022-1
 category: markets
 desc: "Elon Musk, in addition to Jeff Bezos, Changpeng Zhao and Mark Zuckerberg, saw a combined $392 billion in paper wealth evaporate."
 duration: 00:02:35

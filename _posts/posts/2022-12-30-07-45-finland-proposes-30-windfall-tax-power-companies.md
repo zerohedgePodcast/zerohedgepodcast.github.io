@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finland Proposes 30% Windfall Tax On Power Companies"
-audio: finland-proposes-30-windfall-tax-power-companies-0
+audio: finland-proposes-30-windfall-tax-power-companies-1
 category: commodities
 desc: "Dubbed the &quot;EU energy crisis contribution&quot;..."
 duration: 00:02:28

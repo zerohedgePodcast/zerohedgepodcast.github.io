@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laid Off Tech Workers Are Having No Trouble Finding New Jobs"
-audio: laid-tech-workers-are-having-no-trouble-finding-new-jobs-0
+audio: laid-tech-workers-are-having-no-trouble-finding-new-jobs-1
 category: markets
 desc: " &quot;I was surprised at how quickly I was able to secure an offer for a job...&quot;"
 duration: 00:02:42

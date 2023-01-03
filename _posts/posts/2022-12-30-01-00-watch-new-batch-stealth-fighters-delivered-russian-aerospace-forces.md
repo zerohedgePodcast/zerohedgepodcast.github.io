@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Watch: New Batch Of Stealth Fighters Delivered To Russian Aerospace Forces"
-audio: watch-new-batch-stealth-fighters-delivered-russian-aerospace-forces-0
+audio: watch-new-batch-stealth-fighters-delivered-russian-aerospace-forces-1
 category: military
 desc: "&quot;This aircraft is the future of Russian military aviation, embodies advanced technologies and design solutions.&quot; "
 duration: 00:02:02

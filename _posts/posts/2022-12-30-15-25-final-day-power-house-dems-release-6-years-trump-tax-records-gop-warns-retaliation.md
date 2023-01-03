@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Final Day Of Power, House Dems Release 6 Years Of Trump Tax Records; GOP Warns Of Retaliation"
-audio: final-day-power-house-dems-release-6-years-trump-tax-records-gop-warns-retaliation-0
+audio: final-day-power-house-dems-release-6-years-trump-tax-records-gop-warns-retaliation-1
 category: political
 desc: "&quot;The Democrats should have never done it, the Supreme Court should have never approved it, and it's going to lead to horrible things for so many people.&quot;"
 duration: 00:03:36

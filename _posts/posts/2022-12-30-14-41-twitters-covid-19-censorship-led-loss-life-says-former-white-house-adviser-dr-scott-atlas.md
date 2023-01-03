@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Twitter's COVID-19 Censorship Led To Loss Of Life, Says Former White House Adviser Dr. Scott Atlas"
-audio: twitters-covid-19-censorship-led-loss-life-says-former-white-house-adviser-dr-scott-atlas-0
+audio: twitters-covid-19-censorship-led-loss-life-says-former-white-house-adviser-dr-scott-atlas-1
 category: covid-19
 desc: "&quot;Censorship of the correct science and medical information, during this pandemic, absolutely killed people. It prevented people from making intelligent decisions. It prevented people from making the appropriate use of caution,&quot;"
 duration: 00:03:35

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World Economic Forum Cancels Twitter, Directs Followers To Chinese Social Media Apps"
-audio: world-economic-forum-cancels-twitter-directs-followers-chinese-social-media-apps-0
+audio: world-economic-forum-cancels-twitter-directs-followers-chinese-social-media-apps-1
 category: political
 desc: "&quot;Twitter, which has freed itself from the grasp of the WEF-endorsed censorship-compliant social apps, is no longer included...&quot;"
 duration: 00:02:42
