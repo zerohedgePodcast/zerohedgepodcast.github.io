@@ -9,7 +9,7 @@ length: 117
 datetime: Tue, 03 Jan 2023 14:20:00 +0000
 tags: podcast
 guid: bankman-fried-asks-judge-hide-identities-bail-guarantors-0
-order: 0
+order: 1
 ---
 &quot;No need for public disclosure...&quot;
 
