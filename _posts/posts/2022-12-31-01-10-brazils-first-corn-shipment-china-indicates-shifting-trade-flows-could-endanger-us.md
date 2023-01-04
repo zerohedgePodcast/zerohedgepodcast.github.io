@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brazil's First Corn Shipment To China Indicates Shifting Trade Flows Could Endanger US Dominance"
-audio: brazils-first-corn-shipment-china-indicates-shifting-trade-flows-could-endanger-us-9
+audio: brazils-first-corn-shipment-china-indicates-shifting-trade-flows-could-endanger-us-10
 category: commodities
 desc: "Beijing decided to purchase Brazilian grains in May to &quot;reduce dependence on the US and replace supplies from Ukraine cut off by the Russian invasion.&quot; "
 duration: 00:01:01
