@@ -9,7 +9,7 @@ length: 338
 datetime: Thu, 05 Jan 2023 19:07:00 +0000
 tags: podcast
 guid: day-three-mccarthy-caves-concessions-republican-holdouts-stand-ground-0
-order: 2
+order: 1
 ---
 21 Republicans are still holding the line...
 
