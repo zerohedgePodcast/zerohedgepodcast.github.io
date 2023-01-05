@@ -9,7 +9,7 @@ length: 382
 datetime: Thu, 05 Jan 2023 16:09:00 +0000
 tags: podcast
 guid: russias-patriarch-kirill-calls-both-sides-implement-truce-orthodox-christmas-0
-order: 2
+order: 1
 ---
 Russian forces must leave the occupied territories - only then will it have a &quot;temporary truce&quot;...
 
