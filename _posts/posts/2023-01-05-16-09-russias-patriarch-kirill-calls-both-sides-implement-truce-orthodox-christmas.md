@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Putin Orders 36-Hour Orthodox Christmas Truce In Ukraine"
-audio: russias-patriarch-kirill-calls-both-sides-implement-truce-orthodox-christmas-0
+title: "Ukraine Rejects Putin's Christmas Truce Proposal As &quot;Hypocrisy&quot; &amp; &quot;A Trap&quot;"
+audio: russias-patriarch-kirill-calls-both-sides-implement-truce-orthodox-christmas-1
 category: geopolitical
-desc: "Ukrainian officials earlier denounced Patriarch Kirill's urging holiday ceasefire as &quot;a trap&quot;..."
-duration: 00:05:13
-length: 313
-datetime: Thu, 05 Jan 2023 15:18:00 +0000
+desc: "Russian forces must leave the occupied territories - only then will it have a &quot;temporary truce&quot;..."
+duration: 00:06:22
+length: 382
+datetime: Thu, 05 Jan 2023 16:09:00 +0000
 tags: podcast
 guid: russias-patriarch-kirill-calls-both-sides-implement-truce-orthodox-christmas-0
-order: 0
+order: 2
 ---
-Ukrainian officials earlier denounced Patriarch Kirill's urging holiday ceasefire as &quot;a trap&quot;...
+Russian forces must leave the occupied territories - only then will it have a &quot;temporary truce&quot;...
 
 Link: [https://www.zerohedge.com/geopolitical/russias-patriarch-kirill-calls-both-sides-implement-truce-orthodox-christmas](https://www.zerohedge.com/geopolitical/russias-patriarch-kirill-calls-both-sides-implement-truce-orthodox-christmas)
 
