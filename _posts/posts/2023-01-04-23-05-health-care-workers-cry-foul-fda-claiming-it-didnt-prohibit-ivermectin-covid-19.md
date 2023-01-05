@@ -9,7 +9,7 @@ length: 560
 datetime: Wed, 04 Jan 2023 23:05:00 +0000
 tags: podcast
 guid: health-care-workers-cry-foul-fda-claiming-it-didnt-prohibit-ivermectin-covid-19-0
-order: 2
+order: 0
 ---
 &quot;It clearly states in this letter that according to the FDA, you must cease and desist in prescribing ivermectin to New York State residents...&quot;
 
