@@ -9,7 +9,7 @@ length: 215
 datetime: Fri, 06 Jan 2023 15:33:00 +0000
 tags: podcast
 guid: were-going-shock-you-mccarthy-confident-he-can-overcome-never-kevin-holdouts-speaker-0
-order: 2
+order: 1
 ---
 GOP leaders now believe they're reaching a tipping point...
 

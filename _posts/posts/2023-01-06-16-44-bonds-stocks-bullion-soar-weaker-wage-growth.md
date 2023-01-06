@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Bonds, Stocks, &amp; Bullion Soar On Weaker Wage Growth"
-audio: bonds-stocks-bullion-soar-weaker-wage-growth-0
+title: "S&amp;P Stalls At Critical Resistance, Bond Buying-Panic Continues"
+audio: bonds-stocks-bullion-soar-weaker-wage-growth-1
 category: markets
-desc: "...forget the record low under-employment rate?!"
-duration: 00:00:57
-length: 57
-datetime: Fri, 06 Jan 2023 14:01:00 +0000
+desc: "We would imagine Mr.Powell and his pals are displeased by this &quot;unwarranted&quot; easing."
+duration: 00:01:39
+length: 99
+datetime: Fri, 06 Jan 2023 16:44:00 +0000
 tags: podcast
 guid: bonds-stocks-bullion-soar-weaker-wage-growth-0
 order: 0
 ---
-...forget the record low under-employment rate?!
+We would imagine Mr.Powell and his pals are displeased by this &quot;unwarranted&quot; easing.
 
 Link: [https://www.zerohedge.com/markets/bonds-stocks-bullion-soar-weaker-wage-growth](https://www.zerohedge.com/markets/bonds-stocks-bullion-soar-weaker-wage-growth)
 
