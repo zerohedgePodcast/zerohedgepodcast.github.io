@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Putin's Unilateral Christmas Ceasefire Holding; Ukraine Warns Of 'False Flag' Attack On Churches"
-audio: putins-unilateral-christmas-ceasefire-holding-ukraine-warns-false-flag-attack-churches-0
+title: "Russia Blames Ukraine For Shelling Frontlines, Hours Into Christmas Ceasefire"
+audio: putins-unilateral-christmas-ceasefire-holding-ukraine-warns-false-flag-attack-churches-1
 category: geopolitical
-desc: "Deputy PM Vereshchuk: &quot;Ukraine has received information that Russians are preparing terrorist attacks in churches.&quot;"
-duration: 00:03:58
-length: 238
-datetime: Fri, 06 Jan 2023 12:51:00 +0000
+desc: "Ukraine has meanwhile claimed Russia is plotting 'false flag' attacks on churches... "
+duration: 00:05:44
+length: 344
+datetime: Fri, 06 Jan 2023 14:29:00 +0000
 tags: podcast
 guid: putins-unilateral-christmas-ceasefire-holding-ukraine-warns-false-flag-attack-churches-0
-order: 1
+order: 2
 ---
-Deputy PM Vereshchuk: &quot;Ukraine has received information that Russians are preparing terrorist attacks in churches.&quot;
+Ukraine has meanwhile claimed Russia is plotting 'false flag' attacks on churches... 
 
 Link: [https://www.zerohedge.com/geopolitical/putins-unilateral-christmas-ceasefire-holding-ukraine-warns-false-flag-attack-churches](https://www.zerohedge.com/geopolitical/putins-unilateral-christmas-ceasefire-holding-ukraine-warns-false-flag-attack-churches)
 
