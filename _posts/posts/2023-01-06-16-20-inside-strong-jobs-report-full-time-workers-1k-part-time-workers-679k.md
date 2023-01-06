@@ -9,7 +9,7 @@ length: 351
 datetime: Fri, 06 Jan 2023 16:20:00 +0000
 tags: podcast
 guid: inside-strong-jobs-report-full-time-workers-1k-part-time-workers-679k-0
-order: 0
+order: 2
 ---
 The BLS is back to its old gimmicks...
 
