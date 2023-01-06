@@ -9,7 +9,7 @@ length: 132
 datetime: Fri, 06 Jan 2023 13:43:00 +0000
 tags: podcast
 guid: december-payrolls-beat-expectations-wage-growth-disappoints-lowest-august-2021-0
-order: 1
+order: 0
 ---
 Strong jobs data, poor wage growth.
 
