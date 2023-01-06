@@ -9,7 +9,7 @@ length: 472
 datetime: Fri, 06 Jan 2023 20:51:00 +0000
 tags: podcast
 guid: were-going-shock-you-mccarthy-confident-he-can-overcome-never-kevin-holdouts-speaker-0
-order: 2
+order: 1
 ---
 &quot;McCarthy just told me he has the votes to be elected speaker tonight...&quot;
 

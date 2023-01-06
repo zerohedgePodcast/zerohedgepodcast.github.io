@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Inside The &quot;Strong&quot; Jobs Report: Full-Time Workers -1K; Part-Time Workers +679K"
-audio: inside-strong-jobs-report-full-time-workers-1k-part-time-workers-679k-0
+audio: inside-strong-jobs-report-full-time-workers-1k-part-time-workers-679k-1
 category: markets
 desc: "The BLS is back to its old gimmicks..."
 duration: 00:05:51
 length: 351
-datetime: Fri, 06 Jan 2023 16:20:00 +0000
+datetime: Fri, 06 Jan 2023 20:11:00 +0000
 tags: podcast
 guid: inside-strong-jobs-report-full-time-workers-1k-part-time-workers-679k-0
-order: 1
+order: 0
 ---
 The BLS is back to its old gimmicks...
 
