@@ -9,7 +9,7 @@ length: 592
 datetime: Sat, 07 Jan 2023 05:19:00 +0000
 tags: podcast
 guid: were-going-shock-you-mccarthy-confident-he-can-overcome-never-kevin-holdouts-speaker-0
-order: 1
+order: 0
 ---
 Gaetz voted 'present...'
 
