@@ -9,7 +9,7 @@ length: 356
 datetime: Sat, 07 Jan 2023 16:00:00 +0000
 tags: podcast
 guid: here-are-concessions-mccarthy-had-make-speakership-0
-order: 2
+order: 1
 ---
 The devil, as always, is in the details...
 

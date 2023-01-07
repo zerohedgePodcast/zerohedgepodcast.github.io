@@ -9,7 +9,7 @@ length: 175
 datetime: Sat, 07 Jan 2023 14:55:00 +0000
 tags: podcast
 guid: 6-year-old-shoots-teacher-virginia-elementary-school-0
-order: 1
+order: 0
 ---
 Society is crumbling before our eyes...
 
