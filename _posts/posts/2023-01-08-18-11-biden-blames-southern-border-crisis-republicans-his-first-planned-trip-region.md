@@ -9,7 +9,7 @@ length: 249
 datetime: Sun, 08 Jan 2023 18:11:00 +0000
 tags: podcast
 guid: biden-blames-southern-border-crisis-republicans-his-first-planned-trip-region-0
-order: 0
+order: 1
 ---
 Biden also argued that conservatives prefer that the crisis continues so that they can use it to gain more votes in future elections.
 
