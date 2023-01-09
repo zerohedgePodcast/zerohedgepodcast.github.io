@@ -9,7 +9,7 @@ length: 414
 datetime: Mon, 09 Jan 2023 19:47:00 +0000
 tags: podcast
 guid: mccarthy-faces-first-test-house-rules-package-including-vote-cut-irs-funding-0
-order: 2
+order: 1
 ---
 Asked if members have received a copy: &quot;I don't know if everybody has.&quot;
 
