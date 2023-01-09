@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "CDC Finally Releases VAERS Safety Monitoring Analyses For COVID Vaccines"
-audio: cdc-finally-releases-vaers-safety-monitoring-analyses-covid-vaccines-0
+audio: cdc-finally-releases-vaers-safety-monitoring-analyses-covid-vaccines-1
 category: markets
 desc: "And now it's clear why they tried to hide them..."
 duration: 00:27:16
 length: 1636
-datetime: Mon, 09 Jan 2023 10:00:00 +0000
+datetime: Mon, 09 Jan 2023 12:25:00 +0000
 tags: podcast
 guid: cdc-finally-releases-vaers-safety-monitoring-analyses-covid-vaccines-0
 order: 0
