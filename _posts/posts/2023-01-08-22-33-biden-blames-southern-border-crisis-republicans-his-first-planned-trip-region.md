@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Biden Blames Southern Border Crisis On Republicans Before His First Planned Trip To The Region"
-audio: biden-blames-southern-border-crisis-republicans-his-first-planned-trip-region-1
+audio: biden-blames-southern-border-crisis-republicans-his-first-planned-trip-region-2
 category: geopolitical
 desc: "Biden also argued that conservatives prefer that the crisis continues so that they can use it to gain more votes in future elections."
 duration: 00:04:09
 length: 249
-datetime: Sun, 08 Jan 2023 18:11:00 +0000
+datetime: Sun, 08 Jan 2023 22:33:00 +0000
 tags: podcast
 guid: biden-blames-southern-border-crisis-republicans-his-first-planned-trip-region-0
-order: 1
+order: 0
 ---
 Biden also argued that conservatives prefer that the crisis continues so that they can use it to gain more votes in future elections.
 
