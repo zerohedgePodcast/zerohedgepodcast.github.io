@@ -9,7 +9,7 @@ length: 242
 datetime: Tue, 10 Jan 2023 12:50:00 +0000
 tags: podcast
 guid: torrential-rains-trigger-flash-floods-across-california-0
-order: 2
+order: 1
 ---
 &quot;Just how bad is the flooding in California? ... My daughter just sent me this photo from downtown San Luis Obispo.&quot; 
 

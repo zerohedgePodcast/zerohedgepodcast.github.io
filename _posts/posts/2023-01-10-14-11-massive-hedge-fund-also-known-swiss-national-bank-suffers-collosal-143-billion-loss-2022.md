@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Massive Hedge Fund, Also Known As Swiss National Bank, Suffers Colossal $143 Billion Loss In 2022"
-audio: massive-hedge-fund-also-known-swiss-national-bank-suffers-collosal-143-billion-loss-2022-0
+audio: massive-hedge-fund-also-known-swiss-national-bank-suffers-collosal-143-billion-loss-2022-1
 category: markets
 desc: "&quot;The SNB's colossal losses will not change its monetary policy at all&quot;"
 duration: 00:03:53
 length: 233
-datetime: Tue, 10 Jan 2023 11:55:00 +0000
+datetime: Tue, 10 Jan 2023 14:11:00 +0000
 tags: podcast
 guid: massive-hedge-fund-also-known-swiss-national-bank-suffers-collosal-143-billion-loss-2022-0
-order: 1
+order: 0
 ---
 &quot;The SNB's colossal losses will not change its monetary policy at all&quot;
 
