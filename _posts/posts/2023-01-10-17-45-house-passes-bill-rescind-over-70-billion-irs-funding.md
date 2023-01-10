@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "House Passes Bill To Rescind Over $70 Billion In IRS Funding"
-audio: house-passes-bill-rescind-over-70-billion-irs-funding-0
+audio: house-passes-bill-rescind-over-70-billion-irs-funding-1
 category: political
 desc: "&quot;We need more customer service capabilities for the IRS, not four Army divisions (87,000) worth of auditors...&quot;"
 duration: 00:03:57
 length: 237
-datetime: Tue, 10 Jan 2023 14:00:00 +0000
+datetime: Tue, 10 Jan 2023 17:45:00 +0000
 tags: podcast
 guid: house-passes-bill-rescind-over-70-billion-irs-funding-0
 order: 0
