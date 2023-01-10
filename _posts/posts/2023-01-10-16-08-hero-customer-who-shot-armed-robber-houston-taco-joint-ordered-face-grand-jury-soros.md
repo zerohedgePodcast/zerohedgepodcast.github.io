@@ -9,7 +9,7 @@ length: 198
 datetime: Tue, 10 Jan 2023 16:08:00 +0000
 tags: podcast
 guid: hero-customer-who-shot-armed-robber-houston-taco-joint-ordered-face-grand-jury-soros-0
-order: 0
+order: 2
 ---
 The Soros-funded prosecutor let the career criminal he put down out on bond...
 
