@@ -9,7 +9,7 @@ length: 233
 datetime: Tue, 10 Jan 2023 11:55:00 +0000
 tags: podcast
 guid: massive-hedge-fund-also-known-swiss-national-bank-suffers-collosal-143-billion-loss-2022-0
-order: 0
+order: 1
 ---
 &quot;The SNB's colossal losses will not change its monetary policy at all&quot;
 
