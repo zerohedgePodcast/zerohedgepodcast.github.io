@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "FAA Resumes Air Traffic Nationwide But Causes 4,000 Flights To Be Delayed"
-audio: flights-across-us-affected-after-faa-computer-system-failed-2
+title: "FAA Outage Sparks Nationwide Travel Chaos: 7,000 Delays, 1,000 Cancellations"
+audio: flights-across-us-affected-after-faa-computer-system-failed-3
 category: markets
-desc: "&quot;If you're surprised that the FAA's systems went down this morning grounding all domestic flights, you shouldn't be. Below are DOT and FAA's...&quot;  "
-duration: 00:05:52
-length: 352
-datetime: Wed, 11 Jan 2023 14:00:00 +0000
+desc: "&quot;MAYOR Pete an expert? Where in the hell was the backup system dude?&quot; "
+duration: 00:07:42
+length: 462
+datetime: Wed, 11 Jan 2023 17:10:00 +0000
 tags: podcast
 guid: flights-across-us-affected-after-faa-computer-system-failed-0
 order: 0
 ---
-&quot;If you're surprised that the FAA's systems went down this morning grounding all domestic flights, you shouldn't be. Below are DOT and FAA's...&quot;  
+&quot;MAYOR Pete an expert? Where in the hell was the backup system dude?&quot; 
 
 Link: [https://www.zerohedge.com/markets/flights-across-us-affected-after-faa-computer-system-failed](https://www.zerohedge.com/markets/flights-across-us-affected-after-faa-computer-system-failed)
 
