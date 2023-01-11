@@ -9,7 +9,7 @@ length: 352
 datetime: Wed, 11 Jan 2023 14:00:00 +0000
 tags: podcast
 guid: flights-across-us-affected-after-faa-computer-system-failed-0
-order: 1
+order: 0
 ---
 &quot;If you're surprised that the FAA's systems went down this morning grounding all domestic flights, you shouldn't be. Below are DOT and FAA's...&quot;  
 
