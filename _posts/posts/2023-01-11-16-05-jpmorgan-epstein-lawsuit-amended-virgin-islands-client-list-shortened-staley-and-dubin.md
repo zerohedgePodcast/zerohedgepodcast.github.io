@@ -9,7 +9,7 @@ length: 401
 datetime: Wed, 11 Jan 2023 16:05:00 +0000
 tags: podcast
 guid: jpmorgan-epstein-lawsuit-amended-virgin-islands-client-list-shortened-staley-and-dubin-0
-order: 2
+order: 0
 ---
 Of course...
 
