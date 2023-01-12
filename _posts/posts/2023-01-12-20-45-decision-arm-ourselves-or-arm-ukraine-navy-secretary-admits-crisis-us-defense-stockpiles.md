@@ -9,7 +9,7 @@ length: 187
 datetime: Thu, 12 Jan 2023 20:45:00 +0000
 tags: podcast
 guid: decision-arm-ourselves-or-arm-ukraine-navy-secretary-admits-crisis-us-defense-stockpiles-0
-order: 0
+order: 2
 ---
 Unusually candid remarks came after an admiral alluded to US needing to choose between itself and Ukraine...
 
