@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Deadline Passes For Pfizer To Submit Results Of Post-Vaccination Heart Inflammation Study To US Regulators"
-audio: deadline-passes-pfizer-submit-results-post-vaccination-heart-inflammation-study-us-0
+audio: deadline-passes-pfizer-submit-results-post-vaccination-heart-inflammation-study-us-1
 category: covid-19
 desc: "Why are FDA officials dragging their feet?"
 duration: 00:05:37
 length: 337
-datetime: Thu, 12 Jan 2023 11:30:00 +0000
+datetime: Thu, 12 Jan 2023 14:44:00 +0000
 tags: podcast
 guid: deadline-passes-pfizer-submit-results-post-vaccination-heart-inflammation-study-us-0
-order: 1
+order: 0
 ---
 Why are FDA officials dragging their feet?
 

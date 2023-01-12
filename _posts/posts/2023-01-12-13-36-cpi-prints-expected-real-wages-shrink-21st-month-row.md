@@ -9,7 +9,7 @@ length: 88
 datetime: Thu, 12 Jan 2023 13:36:00 +0000
 tags: podcast
 guid: cpi-prints-expected-real-wages-shrink-21st-month-row-0
-order: 2
+order: 1
 ---
 ...not 'cooler than expected'
 
