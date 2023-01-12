@@ -9,7 +9,7 @@ length: 337
 datetime: Thu, 12 Jan 2023 11:30:00 +0000
 tags: podcast
 guid: deadline-passes-pfizer-submit-results-post-vaccination-heart-inflammation-study-us-0
-order: 0
+order: 1
 ---
 Why are FDA officials dragging their feet?
 
