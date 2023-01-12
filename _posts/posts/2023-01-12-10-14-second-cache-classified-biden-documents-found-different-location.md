@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Second Cache Of Classified Biden Documents Found At Different Location"
-audio: second-cache-classified-biden-documents-found-different-location-0
+title: "Sen. Graham Demands Special Counsel Probe As Biden Breaks Silence Over Classified Docs"
+audio: second-cache-classified-biden-documents-found-different-location-1
 category: political
-desc: "The classification level, number and precise location of the additional documents was not immediately clear..."
-duration: 00:01:52
-length: 112
-datetime: Wed, 11 Jan 2023 21:35:00 +0000
+desc: "&quot;I don't know what's in the documents...we're cooperating fully&quot;"
+duration: 00:04:38
+length: 278
+datetime: Thu, 12 Jan 2023 10:14:00 +0000
 tags: podcast
 guid: second-cache-classified-biden-documents-found-different-location-0
-order: 1
+order: 0
 ---
-The classification level, number and precise location of the additional documents was not immediately clear...
+&quot;I don't know what's in the documents...we're cooperating fully&quot;
 
 Link: [https://www.zerohedge.com/political/second-cache-classified-biden-documents-found-different-location](https://www.zerohedge.com/political/second-cache-classified-biden-documents-found-different-location)
 
