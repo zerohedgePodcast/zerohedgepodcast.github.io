@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "'Decision To Arm Ourselves Or Arm Ukraine': Navy Secretary Admits Crisis In US Defense Stockpiles"
-audio: decision-arm-ourselves-or-arm-ukraine-navy-secretary-admits-crisis-us-defense-stockpiles-0
+audio: decision-arm-ourselves-or-arm-ukraine-navy-secretary-admits-crisis-us-defense-stockpiles-1
 category: military
 desc: "Unusually candid remarks came after an admiral alluded to US needing to choose between itself and Ukraine..."
 duration: 00:03:07
 length: 187
-datetime: Thu, 12 Jan 2023 20:45:00 +0000
+datetime: Fri, 13 Jan 2023 01:45:00 +0000
 tags: podcast
 guid: decision-arm-ourselves-or-arm-ukraine-navy-secretary-admits-crisis-us-defense-stockpiles-0
-order: 2
+order: 0
 ---
 Unusually candid remarks came after an admiral alluded to US needing to choose between itself and Ukraine...
 
