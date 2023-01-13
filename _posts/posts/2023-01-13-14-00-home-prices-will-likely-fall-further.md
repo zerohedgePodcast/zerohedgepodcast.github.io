@@ -9,7 +9,7 @@ length: 379
 datetime: Fri, 13 Jan 2023 14:00:00 +0000
 tags: podcast
 guid: home-prices-will-likely-fall-further-0
-order: 2
+order: 0
 ---
 Not only are further home price declines possible, but it is also probable they could be deeper than many currently expect...
 
