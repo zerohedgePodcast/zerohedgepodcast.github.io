@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "What Is The US &quot;Gas Stove Ban&quot; Really About?"
-audio: what-us-gas-stove-ban-really-about-1
+audio: what-us-gas-stove-ban-really-about-2
 category: geopolitical
 desc: "What sounds like overeach in itself, is actually a cover for something potentially far, far worse..."
 duration: 00:07:39
 length: 459
-datetime: Sat, 14 Jan 2023 16:00:00 +0000
+datetime: Sat, 14 Jan 2023 15:55:00 +0000
 tags: podcast
 guid: what-us-gas-stove-ban-really-about-0
-order: 2
+order: 0
 ---
 What sounds like overeach in itself, is actually a cover for something potentially far, far worse...
 
