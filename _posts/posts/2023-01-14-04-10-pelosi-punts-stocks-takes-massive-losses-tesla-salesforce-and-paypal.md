@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Pelosi Punts Stocks, Takes Huge Losses In Tesla, Salesforce And PayPal"
-audio: pelosi-punts-stocks-takes-massive-losses-tesla-salesforce-and-paypal-0
+audio: pelosi-punts-stocks-takes-massive-losses-tesla-salesforce-and-paypal-1
 category: political
 desc: "Why doesn't she detail her gain or loss in Alphabet?"
 duration: 00:01:03
 length: 63
-datetime: Fri, 13 Jan 2023 16:30:00 +0000
+datetime: Sat, 14 Jan 2023 04:10:00 +0000
 tags: podcast
 guid: pelosi-punts-stocks-takes-massive-losses-tesla-salesforce-and-paypal-0
 order: 0
