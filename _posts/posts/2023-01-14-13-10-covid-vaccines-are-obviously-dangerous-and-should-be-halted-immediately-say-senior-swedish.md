@@ -9,7 +9,7 @@ length: 557
 datetime: Sat, 14 Jan 2023 13:10:00 +0000
 tags: podcast
 guid: covid-vaccines-are-obviously-dangerous-and-should-be-halted-immediately-say-senior-swedish-0
-order: 0
+order: 1
 ---
 &quot;Key to this in our current predicament is to press on with critical questions...&quot;
 

@@ -9,7 +9,7 @@ length: 151
 datetime: Fri, 13 Jan 2023 13:40:00 +0000
 tags: podcast
 guid: catastrophic-outcomes-davos-elite-worried-about-global-volatility-cost-living-crisis-0
-order: 1
+order: 0
 ---
 &quot;Very few leaders in today's generation have been through these kind of traditional risks...&quot;
 
