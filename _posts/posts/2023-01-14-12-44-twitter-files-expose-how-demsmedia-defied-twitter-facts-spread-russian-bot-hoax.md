@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Twitter Files Expose How Dems/Media Defied Twitter 'Facts' To Spread 'Russian Bot' Hoax"
-audio: twitter-files-expose-how-demsmedia-defied-twitter-facts-spread-russian-bot-hoax-0
+audio: twitter-files-expose-how-demsmedia-defied-twitter-facts-spread-russian-bot-hoax-1
 category: political
 desc: "Rep. Adam Schiff repeatedly pushed Twitter to remove perfectly legal content that they found offensive..."
 duration: 00:07:17
 length: 437
-datetime: Fri, 13 Jan 2023 16:50:00 +0000
+datetime: Sat, 14 Jan 2023 12:44:00 +0000
 tags: podcast
 guid: twitter-files-expose-how-demsmedia-defied-twitter-facts-spread-russian-bot-hoax-0
-order: 2
+order: 0
 ---
 Rep. Adam Schiff repeatedly pushed Twitter to remove perfectly legal content that they found offensive...
 
