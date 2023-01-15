@@ -9,7 +9,7 @@ length: 119
 datetime: Sun, 15 Jan 2023 00:00:00 +0000
 tags: podcast
 guid: cdc-says-stroke-concerns-over-pfizer-jab-warrant-investigation-0
-order: 2
+order: 0
 ---
 &quot;There was a safety concern...&quot;
 
