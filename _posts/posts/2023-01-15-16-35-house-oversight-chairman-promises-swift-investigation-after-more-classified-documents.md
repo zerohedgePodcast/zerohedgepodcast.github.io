@@ -9,7 +9,7 @@ length: 320
 datetime: Sun, 15 Jan 2023 16:35:00 +0000
 tags: podcast
 guid: house-oversight-chairman-promises-swift-investigation-after-more-classified-documents-0
-order: 0
+order: 2
 ---
 &quot;It is unclear when the Department first came to learn about the existence of these documents, and whether it actively concealed this information from the public on the eve of the 2022 election,&quot;
 
