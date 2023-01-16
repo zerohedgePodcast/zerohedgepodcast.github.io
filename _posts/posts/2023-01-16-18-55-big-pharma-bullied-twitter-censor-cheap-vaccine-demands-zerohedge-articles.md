@@ -9,7 +9,7 @@ length: 339
 datetime: Mon, 16 Jan 2023 18:55:00 +0000
 tags: podcast
 guid: big-pharma-bullied-twitter-censor-cheap-vaccine-demands-zerohedge-articles-0
-order: 2
+order: 1
 ---
 A 'massive lobbying blitz...'
 
