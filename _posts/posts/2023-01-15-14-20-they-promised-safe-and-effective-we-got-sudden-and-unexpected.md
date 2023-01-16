@@ -9,7 +9,7 @@ length: 935
 datetime: Sun, 15 Jan 2023 14:20:00 +0000
 tags: podcast
 guid: they-promised-safe-and-effective-we-got-sudden-and-unexpected-0
-order: 1
+order: 0
 ---
 We're one tragedy away from pitchforks &amp; torches...
 
