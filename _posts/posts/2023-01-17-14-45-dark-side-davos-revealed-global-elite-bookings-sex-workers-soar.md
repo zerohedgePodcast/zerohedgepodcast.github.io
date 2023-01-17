@@ -9,7 +9,7 @@ length: 97
 datetime: Tue, 17 Jan 2023 14:45:00 +0000
 tags: podcast
 guid: dark-side-davos-revealed-global-elite-bookings-sex-workers-soar-0
-order: 0
+order: 1
 ---
 &quot;Bosses book escorts in the hotel suite for themselves and their employees.&quot; 
 

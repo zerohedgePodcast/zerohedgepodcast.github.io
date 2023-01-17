@@ -9,7 +9,7 @@ length: 206
 datetime: Tue, 17 Jan 2023 15:45:00 +0000
 tags: podcast
 guid: san-fran-city-panel-urges-reparations-5-million-black-adult-0
-order: 0
+order: 2
 ---
 ...and total debt forgiveness...and $97,000 a year until the year 2273 and....
 
