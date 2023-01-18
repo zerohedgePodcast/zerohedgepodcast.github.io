@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Microsoft Reportedly Plans To Cut Thousands Of Jobs This Week"
-audio: microsoft-plans-cut-thousands-jobs-sky-news-reports-0
+title: "Microsoft CEO Confirms 10,000 Job Cuts As Tech Layoffs Intensify "
+audio: microsoft-plans-cut-thousands-jobs-sky-news-reports-1
 category: commodities
-desc: "&quot;A massive number of managers in Bing got a critical confidential meeting scheduled for Tuesday morning ... But the time of this mass meeting lines up with the speculated Jan 17 - 18 layoff date.&quot; "
-duration: 00:02:26
-length: 146
-datetime: Tue, 17 Jan 2023 19:01:00 +0000
+desc: "&quot;We're living through times of significant change, and as I meet with customers and partners, a few things are clear.&quot;"
+duration: 00:06:35
+length: 395
+datetime: Wed, 18 Jan 2023 14:38:00 +0000
 tags: podcast
 guid: microsoft-plans-cut-thousands-jobs-sky-news-reports-0
 order: 0
 ---
-&quot;A massive number of managers in Bing got a critical confidential meeting scheduled for Tuesday morning ... But the time of this mass meeting lines up with the speculated Jan 17 - 18 layoff date.&quot; 
+&quot;We're living through times of significant change, and as I meet with customers and partners, a few things are clear.&quot;
 
 Link: [https://www.zerohedge.com/commodities/microsoft-plans-cut-thousands-jobs-sky-news-reports](https://www.zerohedge.com/commodities/microsoft-plans-cut-thousands-jobs-sky-news-reports)
 
