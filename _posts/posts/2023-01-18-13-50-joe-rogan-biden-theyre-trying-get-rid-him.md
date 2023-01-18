@@ -9,7 +9,7 @@ length: 166
 datetime: Wed, 18 Jan 2023 13:50:00 +0000
 tags: podcast
 guid: joe-rogan-biden-theyre-trying-get-rid-him-0
-order: 1
+order: 0
 ---
 Top Dems sabotaging president to prevent 2024 run...
 

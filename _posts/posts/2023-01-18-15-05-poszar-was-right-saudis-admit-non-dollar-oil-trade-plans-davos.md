@@ -9,7 +9,7 @@ length: 151
 datetime: Wed, 18 Jan 2023 15:05:00 +0000
 tags: podcast
 guid: poszar-was-right-saudis-admit-non-dollar-oil-trade-plans-davos-0
-order: 2
+order: 1
 ---
 &quot;...dusk for the petrodollar... and dawn for the petroyuan.&quot;
 
