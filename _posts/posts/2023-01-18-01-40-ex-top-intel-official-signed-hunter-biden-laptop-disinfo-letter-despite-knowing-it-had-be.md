@@ -9,7 +9,7 @@ length: 262
 datetime: Wed, 18 Jan 2023 01:40:00 +0000
 tags: podcast
 guid: ex-top-intel-official-signed-hunter-biden-laptop-disinfo-letter-despite-knowing-it-had-be-0
-order: 0
+order: 2
 ---
 But of course...  
 
