@@ -9,7 +9,7 @@ length: 157
 datetime: Thu, 19 Jan 2023 16:12:00 +0000
 tags: podcast
 guid: alec-baldwin-be-charged-felony-over-rust-film-shooting-0
-order: 0
+order: 2
 ---
 Baldwin, meanwhile, has sued several crew members...
 
