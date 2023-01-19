@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Alec Baldwin To Be Charged With Felony Over 'Rust' Film Shooting"
-audio: alec-baldwin-be-charged-felony-over-rust-film-shooting-0
+audio: alec-baldwin-be-charged-felony-over-rust-film-shooting-1
 category: political
 desc: "Baldwin, meanwhile, has sued several crew members..."
 duration: 00:02:37
 length: 157
-datetime: Thu, 19 Jan 2023 16:12:00 +0000
+datetime: Thu, 19 Jan 2023 18:55:00 +0000
 tags: podcast
 guid: alec-baldwin-be-charged-felony-over-rust-film-shooting-0
-order: 1
+order: 0
 ---
 Baldwin, meanwhile, has sued several crew members...
 
