@@ -9,7 +9,7 @@ length: 318
 datetime: Thu, 19 Jan 2023 21:01:00 +0000
 tags: podcast
 guid: us-consumer-has-cracked-discover-plunges-after-shocking-charge-forecast-0
-order: 0
+order: 1
 ---
 One week ago we looked at the latest consumer credit data where we found not one but two flashing red alerts:
 
