@@ -9,7 +9,7 @@ length: 97
 datetime: Thu, 19 Jan 2023 21:45:00 +0000
 tags: podcast
 guid: al-gore-attempts-own-greta-moment-unhinged-davos-rant-equivalent-600000-hiroshima-bombs-0
-order: 0
+order: 2
 ---
 [climate change] is &quot;boiling the oceans&quot; and creating &quot;rain bombs&quot; and &quot;atmospheric rivers&quot; resulting in millions of &quot;climate refugees&quot;.
 
