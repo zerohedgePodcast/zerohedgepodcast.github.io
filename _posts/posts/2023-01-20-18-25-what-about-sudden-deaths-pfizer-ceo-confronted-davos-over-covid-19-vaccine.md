@@ -9,7 +9,7 @@ length: 163
 datetime: Fri, 20 Jan 2023 18:25:00 +0000
 tags: podcast
 guid: what-about-sudden-deaths-pfizer-ceo-confronted-davos-over-covid-19-vaccine-0
-order: 0
+order: 2
 ---
 Some actual journalism...
 
