@@ -9,7 +9,7 @@ length: 234
 datetime: Fri, 20 Jan 2023 09:15:00 +0000
 tags: podcast
 guid: morgan-stanley-ceo-says-inflation-clearly-peaked-decries-davos-echo-chamber-0
-order: 1
+order: 0
 ---
 &quot;Everybody's basically repeating back to each other what they've heard from the last person...&quot;
 

@@ -9,7 +9,7 @@ length: 309
 datetime: Fri, 20 Jan 2023 12:05:00 +0000
 tags: podcast
 guid: i-have-difficult-news-share-google-ceo-tells-employees-12000-jobs-will-be-cut-0
-order: 2
+order: 1
 ---
 &quot;We've already sent a separate email to employees in the US who are affected.&quot;
 
