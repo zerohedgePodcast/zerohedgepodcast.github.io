@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;I Have Difficult News To Share&quot;: Google CEO Tells Employees 12,000 Jobs Will Be Cut"
-audio: i-have-difficult-news-share-google-ceo-tells-employees-12000-jobs-will-be-cut-0
+audio: i-have-difficult-news-share-google-ceo-tells-employees-12000-jobs-will-be-cut-1
 category: markets
 desc: "&quot;We've already sent a separate email to employees in the US who are affected.&quot;"
 duration: 00:05:09
 length: 309
-datetime: Fri, 20 Jan 2023 12:05:00 +0000
+datetime: Fri, 20 Jan 2023 21:11:00 +0000
 tags: podcast
 guid: i-have-difficult-news-share-google-ceo-tells-employees-12000-jobs-will-be-cut-0
-order: 1
+order: 0
 ---
 &quot;We've already sent a separate email to employees in the US who are affected.&quot;
 
