@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "10 Dead, 10 More Injured In Mass Shooting During California Lunar New Year Celebrations"
-audio: 10-dead-10-more-injured-mass-shooting-during-california-lunar-new-yea-celebrations-0
+title: "Police Say California Mass Shooting Suspect Is Asian Male, Still At Large"
+audio: 10-dead-10-more-injured-mass-shooting-during-california-lunar-new-yea-celebrations-1
 category: political
-desc: "&quot;The suspect is still on the loose, according to PD on scene.&quot; "
-duration: 00:02:35
-length: 155
-datetime: Sun, 22 Jan 2023 13:10:00 +0000
+desc: "&quot;There goes the &quot;white supremacy&quot; narrative out the window.&quot;"
+duration: 00:03:23
+length: 203
+datetime: Sun, 22 Jan 2023 17:40:00 +0000
 tags: podcast
 guid: 10-dead-10-more-injured-mass-shooting-during-california-lunar-new-yea-celebrations-0
 order: 0
 ---
-&quot;The suspect is still on the loose, according to PD on scene.&quot; 
+&quot;There goes the &quot;white supremacy&quot; narrative out the window.&quot;
 
 Link: [https://www.zerohedge.com/political/10-dead-10-more-injured-mass-shooting-during-california-lunar-new-yea-celebrations](https://www.zerohedge.com/political/10-dead-10-more-injured-mass-shooting-during-california-lunar-new-yea-celebrations)
 
