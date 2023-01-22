@@ -9,7 +9,7 @@ length: 288
 datetime: Sun, 22 Jan 2023 12:12:00 +0000
 tags: podcast
 guid: atlanta-rioters-torch-police-car-vandalize-office-tower-0
-order: 2
+order: 0
 ---
 &quot;You heard that correctly, explosives.&quot;
 

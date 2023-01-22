@@ -9,7 +9,7 @@ length: 60
 datetime: Sun, 22 Jan 2023 00:30:00 +0000
 tags: podcast
 guid: six-more-classified-documents-discovered-bidens-house-0
-order: 1
+order: 0
 ---
 Where didn't Biden illegally store classified documents?
 
