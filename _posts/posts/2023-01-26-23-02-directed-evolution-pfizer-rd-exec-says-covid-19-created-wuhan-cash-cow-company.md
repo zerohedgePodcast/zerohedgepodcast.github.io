@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "&quot;Directed Evolution&quot;? Pfizer R&amp;D Exec Says Covid-19 Created In Wuhan, Is 'Cash Cow' For Company"
-audio: directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company-0
+title: "Busted Pfizer R&amp;D Exec Claims He Lied About &quot;Mutating COVID&quot; To &quot;Impress A Date Like Normal People&quot;"
+audio: directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company-1
 category: political
-desc: "&quot;You have to promise you won't tell anyone...&quot;"
-duration: 00:04:33
-length: 273
-datetime: Thu, 26 Jan 2023 11:55:00 +0000
+desc: "&quot;I was on a third date with a man and like normal people you lie to impress a date...&quot;"
+duration: 00:06:44
+length: 404
+datetime: Thu, 26 Jan 2023 23:02:00 +0000
 tags: podcast
 guid: directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company-0
-order: 1
+order: 2
 ---
-&quot;You have to promise you won't tell anyone...&quot;
+&quot;I was on a third date with a man and like normal people you lie to impress a date...&quot;
 
 Link: [https://www.zerohedge.com/political/directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company](https://www.zerohedge.com/political/directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company)
 
