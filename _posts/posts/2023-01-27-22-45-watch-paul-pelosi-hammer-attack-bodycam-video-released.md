@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: Paul Pelosi Hammer Attack Bodycam Video Released"
-audio: watch-paul-pelosi-hammer-attack-bodycam-video-released-0
+audio: watch-paul-pelosi-hammer-attack-bodycam-video-released-1
 category: markets
 desc: "Where are Paul's pants?"
-duration: 00:03:36
-length: 216
-datetime: Fri, 27 Jan 2023 17:31:00 +0000
+duration: 00:03:44
+length: 224
+datetime: Fri, 27 Jan 2023 22:45:00 +0000
 tags: podcast
 guid: watch-paul-pelosi-hammer-attack-bodycam-video-released-0
-order: 1
+order: 0
 ---
 Where are Paul's pants?
 

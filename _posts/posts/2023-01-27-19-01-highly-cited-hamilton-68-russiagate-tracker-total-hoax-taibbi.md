@@ -9,7 +9,7 @@ length: 481
 datetime: Fri, 27 Jan 2023 19:01:00 +0000
 tags: podcast
 guid: highly-cited-hamilton-68-russiagate-tracker-total-hoax-taibbi-0
-order: 2
+order: 1
 ---
 &quot;Virtually every major news organization in America is implicated...&quot;
 
