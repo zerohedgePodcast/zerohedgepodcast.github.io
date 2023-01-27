@@ -9,7 +9,7 @@ length: 216
 datetime: Fri, 27 Jan 2023 17:31:00 +0000
 tags: podcast
 guid: watch-paul-pelosi-hammer-attack-bodycam-video-released-0
-order: 2
+order: 1
 ---
 Where are Paul's pants?
 
