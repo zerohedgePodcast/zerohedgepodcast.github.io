@@ -9,7 +9,7 @@ length: 404
 datetime: Thu, 26 Jan 2023 23:02:00 +0000
 tags: podcast
 guid: directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company-0
-order: 1
+order: 0
 ---
 &quot;I was on a third date with a man and like normal people you lie to impress a date...&quot;
 
