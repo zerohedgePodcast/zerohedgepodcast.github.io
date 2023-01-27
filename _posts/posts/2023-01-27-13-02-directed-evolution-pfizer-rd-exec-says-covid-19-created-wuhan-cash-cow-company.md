@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Busted Pfizer R&amp;D Exec Claims He Lied About &quot;Mutating COVID&quot; To &quot;Impress A Date Like Normal People&quot;"
-audio: directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company-1
+audio: directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company-2
 category: political
 desc: "&quot;I was on a third date with a man and like normal people you lie to impress a date...&quot;"
 duration: 00:06:44
 length: 404
-datetime: Thu, 26 Jan 2023 23:02:00 +0000
+datetime: Fri, 27 Jan 2023 13:02:00 +0000
 tags: podcast
 guid: directed-evolution-pfizer-rd-exec-says-covid-19-created-wuhan-cash-cow-company-0
 order: 0
