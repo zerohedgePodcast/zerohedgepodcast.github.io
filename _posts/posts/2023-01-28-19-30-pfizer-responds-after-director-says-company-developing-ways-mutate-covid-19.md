@@ -9,7 +9,7 @@ length: 327
 datetime: Sat, 28 Jan 2023 19:30:00 +0000
 tags: podcast
 guid: pfizer-responds-after-director-says-company-developing-ways-mutate-covid-19-0
-order: 0
+order: 2
 ---
 Pfizer has &quot;engineered&quot; the COVID-19 virus &quot;to enable the assessment of antiviral activity in cells.&quot;
 
