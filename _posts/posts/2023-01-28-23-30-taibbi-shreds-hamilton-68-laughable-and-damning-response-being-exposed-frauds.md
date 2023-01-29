@@ -9,7 +9,7 @@ length: 497
 datetime: Sat, 28 Jan 2023 23:30:00 +0000
 tags: podcast
 guid: taibbi-shreds-hamilton-68-laughable-and-damning-response-being-exposed-frauds-0
-order: 2
+order: 1
 ---
 &quot;This has to go down as one of the great media frauds of all time...&quot;
 
