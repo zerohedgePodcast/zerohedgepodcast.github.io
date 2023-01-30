@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;The Deep State Is Real&quot;, UK's Dominic Cummings Admits"
-audio: deep-state-real-uks-dominic-cummings-admits-0
+audio: deep-state-real-uks-dominic-cummings-admits-1
 category: geopolitical
 desc: "... it's often &quot;very good, sensible, intelligent,&quot; and experienced officials trying to &quot;stop the idiots who are being elected doing terrible things&quot;..."
 duration: 00:05:23
 length: 323
-datetime: Mon, 30 Jan 2023 08:30:00 +0000
+datetime: Mon, 30 Jan 2023 16:55:00 +0000
 tags: podcast
 guid: deep-state-real-uks-dominic-cummings-admits-0
-order: 1
+order: 0
 ---
 ... it's often &quot;very good, sensible, intelligent,&quot; and experienced officials trying to &quot;stop the idiots who are being elected doing terrible things&quot;...
 

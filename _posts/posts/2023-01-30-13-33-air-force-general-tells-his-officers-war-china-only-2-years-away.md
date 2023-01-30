@@ -9,7 +9,7 @@ length: 162
 datetime: Mon, 30 Jan 2023 13:33:00 +0000
 tags: podcast
 guid: air-force-general-tells-his-officers-war-china-only-2-years-away-0
-order: 2
+order: 1
 ---
 Memo is particularly unusual given it instructs commanders under him to get &quot;their personal affairs&quot; in order...
 
