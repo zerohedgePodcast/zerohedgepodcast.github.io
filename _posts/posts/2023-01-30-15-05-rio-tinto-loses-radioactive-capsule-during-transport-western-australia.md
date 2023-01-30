@@ -9,7 +9,7 @@ length: 99
 datetime: Mon, 30 Jan 2023 15:05:00 +0000
 tags: podcast
 guid: rio-tinto-loses-radioactive-capsule-during-transport-western-australia-0
-order: 0
+order: 1
 ---
 &quot;There is a radioactive substance risk in parts of the Pilbara, Midwest Gascoyne, Goldfields-Midlands and Perth Metropolitan regions.&quot; 
 
