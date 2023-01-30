@@ -9,7 +9,7 @@ length: 252
 datetime: Mon, 30 Jan 2023 21:34:00 +0000
 tags: podcast
 guid: ukraine-says-expedited-talks-f-16-jets-underway-germany-says-not-option-0
-order: 2
+order: 1
 ---
 Biden last March: &quot;The idea that we're going to send in offensive equipment &amp; have planes &amp; tanks... that's called World War III.&quot;
 

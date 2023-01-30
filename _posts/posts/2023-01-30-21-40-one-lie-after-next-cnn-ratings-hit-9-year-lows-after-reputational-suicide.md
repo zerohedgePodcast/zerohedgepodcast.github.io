@@ -9,7 +9,7 @@ length: 148
 datetime: Mon, 30 Jan 2023 21:40:00 +0000
 tags: podcast
 guid: one-lie-after-next-cnn-ratings-hit-9-year-lows-after-reputational-suicide-0
-order: 0
+order: 2
 ---
 What did they think was going to happen?
 
