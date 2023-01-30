@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "&quot;It's The Perfect Storm&quot;: More Americans Can't Afford Their Car Payments Than During The Peak Of Financial Crisis"
-audio: its-perfect-storm-more-americans-cant-afford-their-car-payments-during-peak-financial-0
+audio: its-perfect-storm-more-americans-cant-afford-their-car-payments-during-peak-financial-1
 category: economics
-desc: "Jeremy Cross, the president of International Recovery Systems in Pennsylvania, said he can't find enough repo men to meet the demand or space to hold all the cars his company has been tasked with repossessing"
+desc: "...can't find enough repo men to meet the demand or space to hold all the cars his company has been tasked with repossessing..."
 duration: 00:17:18
 length: 1038
-datetime: Sun, 29 Jan 2023 21:00:00 +0000
+datetime: Mon, 30 Jan 2023 11:22:00 +0000
 tags: podcast
 guid: its-perfect-storm-more-americans-cant-afford-their-car-payments-during-peak-financial-0
-order: 2
+order: 0
 ---
-Jeremy Cross, the president of International Recovery Systems in Pennsylvania, said he can't find enough repo men to meet the demand or space to hold all the cars his company has been tasked with repossessing
+...can't find enough repo men to meet the demand or space to hold all the cars his company has been tasked with repossessing...
 
 Link: [https://www.zerohedge.com/economics/its-perfect-storm-more-americans-cant-afford-their-car-payments-during-peak-financial](https://www.zerohedge.com/economics/its-perfect-storm-more-americans-cant-afford-their-car-payments-during-peak-financial)
 
