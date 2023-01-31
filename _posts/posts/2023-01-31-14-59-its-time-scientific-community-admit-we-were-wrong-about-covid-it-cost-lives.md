@@ -9,7 +9,7 @@ length: 503
 datetime: Tue, 31 Jan 2023 14:59:00 +0000
 tags: podcast
 guid: its-time-scientific-community-admit-we-were-wrong-about-covid-it-cost-lives-0
-order: 2
+order: 1
 ---
 &quot;Intellectual elitism, credentialism, and classism must end. Restoring trust in public health - and our democracy - depends on it.&quot;
 
