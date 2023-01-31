@@ -9,7 +9,7 @@ length: 158
 datetime: Tue, 31 Jan 2023 17:03:00 +0000
 tags: podcast
 guid: biden-family-corruption-covid-origins-weaponized-government-and-border-crisis-house-gop-0
-order: 0
+order: 2
 ---
 &quot;Republicans had been plotting extensive investigations into the Biden administration for more than a year before the midterm elections...&quot;
 
