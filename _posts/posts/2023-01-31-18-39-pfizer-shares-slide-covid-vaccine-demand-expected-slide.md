@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Pfizer Stumbles As Vaccine Demand Expected To Slide "
-audio: pfizer-shares-slide-covid-vaccine-demand-expected-slide-0
+title: "Pfizer Suffers Largest Monthly Loss Of Value Since 2009"
+audio: pfizer-shares-slide-covid-vaccine-demand-expected-slide-1
 category: markets
 desc: "What's clear in this quarterly report is that Americans are pushing back against taking their gene therapy..."
-duration: 00:02:21
-length: 141
-datetime: Tue, 31 Jan 2023 14:39:00 +0000
+duration: 00:04:15
+length: 255
+datetime: Tue, 31 Jan 2023 18:39:00 +0000
 tags: podcast
 guid: pfizer-shares-slide-covid-vaccine-demand-expected-slide-0
 order: 0
