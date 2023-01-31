@@ -9,7 +9,7 @@ length: 107
 datetime: Tue, 31 Jan 2023 13:20:00 +0000
 tags: podcast
 guid: switzerland-weighs-break-centuries-old-policy-neutrality-0
-order: 2
+order: 1
 ---
 Swiss neutrality has held strong since at least 1815...
 
