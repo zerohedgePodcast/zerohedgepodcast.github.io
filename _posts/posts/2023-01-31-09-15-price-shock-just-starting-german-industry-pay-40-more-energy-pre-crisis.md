@@ -9,7 +9,7 @@ length: 167
 datetime: Tue, 31 Jan 2023 09:15:00 +0000
 tags: podcast
 guid: price-shock-just-starting-german-industry-pay-40-more-energy-pre-crisis-0
-order: 0
+order: 1
 ---
 Price increases will soon hit corporate profits across Europe by 1-1.5% and lead to lower investment, which in Germany's case would amount to 25 billion euros ($27 billion),
 
