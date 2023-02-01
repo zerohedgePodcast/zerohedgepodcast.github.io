@@ -9,7 +9,7 @@ length: 620
 datetime: Wed, 01 Feb 2023 03:40:00 +0000
 tags: podcast
 guid: fed-preview-25bps-tomorrow-and-then-end-very-much-sight-0
-order: 2
+order: 1
 ---
 What matters to stocks is i) will this be the final rate hike and ii) how long will the Fed keep rates here before starting to cut.
 
