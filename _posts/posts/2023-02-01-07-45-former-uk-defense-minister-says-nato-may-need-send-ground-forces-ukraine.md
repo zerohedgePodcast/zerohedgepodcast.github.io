@@ -9,7 +9,7 @@ length: 90
 datetime: Wed, 01 Feb 2023 07:45:00 +0000
 tags: podcast
 guid: former-uk-defense-minister-says-nato-may-need-send-ground-forces-ukraine-0
-order: 0
+order: 1
 ---
 Are western citizens willing to fight and die for Ukraine?  It's highly unlikely...
 
