@@ -9,7 +9,7 @@ length: 324
 datetime: Wed, 01 Feb 2023 15:17:00 +0000
 tags: podcast
 guid: objectivity-has-got-go-news-leaders-call-end-objective-journalism-0
-order: 2
+order: 1
 ---
 ...journalism needed to &quot;free itself from this notion of objectivity to develop a sense of social justice.&quot; 
 

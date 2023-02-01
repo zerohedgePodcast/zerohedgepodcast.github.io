@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Former UK Defense Minister Says NATO May Need To Send Ground Forces To Ukraine"
-audio: former-uk-defense-minister-says-nato-may-need-send-ground-forces-ukraine-0
+audio: former-uk-defense-minister-says-nato-may-need-send-ground-forces-ukraine-1
 category: geopolitical
 desc: "Are western citizens willing to fight and die for Ukraine?  It's highly unlikely..."
 duration: 00:01:30
 length: 90
-datetime: Wed, 01 Feb 2023 07:45:00 +0000
+datetime: Wed, 01 Feb 2023 16:45:00 +0000
 tags: podcast
 guid: former-uk-defense-minister-says-nato-may-need-send-ground-forces-ukraine-0
-order: 1
+order: 0
 ---
 Are western citizens willing to fight and die for Ukraine?  It's highly unlikely...
 
