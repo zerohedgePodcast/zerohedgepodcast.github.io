@@ -9,7 +9,7 @@ length: 284
 datetime: Tue, 31 Jan 2023 23:00:00 +0000
 tags: podcast
 guid: prestigious-liberal-watchdog-condemns-new-york-times-russiagate-coverage-0
-order: 0
+order: 1
 ---
 &quot;[A]bsolutely devastating how casually, frequently, recklessly and eagerly the press lied on Russiagate...&quot;
 
