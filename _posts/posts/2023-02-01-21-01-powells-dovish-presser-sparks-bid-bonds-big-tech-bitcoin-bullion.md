@@ -9,7 +9,7 @@ length: 238
 datetime: Wed, 01 Feb 2023 21:01:00 +0000
 tags: podcast
 guid: powells-dovish-presser-sparks-bid-bonds-big-tech-bitcoin-bullion-0
-order: 2
+order: 0
 ---
 Where did the Jackson Hole hellraiser go?
 
