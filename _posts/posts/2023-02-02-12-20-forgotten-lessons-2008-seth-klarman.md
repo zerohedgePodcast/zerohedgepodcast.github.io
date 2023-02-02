@@ -9,7 +9,7 @@ length: 720
 datetime: Thu, 02 Feb 2023 12:20:00 +0000
 tags: podcast
 guid: forgotten-lessons-2008-seth-klarman-0
-order: 0
+order: 1
 ---
 ...these lessons &quot;were either never learned or else were immediately forgotten by most market participants&quot;...
 
