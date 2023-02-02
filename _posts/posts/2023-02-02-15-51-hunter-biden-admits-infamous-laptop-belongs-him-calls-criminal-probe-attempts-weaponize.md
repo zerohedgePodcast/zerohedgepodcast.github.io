@@ -9,7 +9,7 @@ length: 341
 datetime: Thu, 02 Feb 2023 15:51:00 +0000
 tags: podcast
 guid: hunter-biden-admits-infamous-laptop-belongs-him-calls-criminal-probe-attempts-weaponize-0
-order: 2
+order: 1
 ---
 &quot;This failed dirty political trick directly resulted in the exposure, exploitation, and manipulation of Mr. Biden's private and personal information...&quot;
 
