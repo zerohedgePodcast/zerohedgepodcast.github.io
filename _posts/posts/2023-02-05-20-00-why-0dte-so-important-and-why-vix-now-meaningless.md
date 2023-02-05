@@ -9,7 +9,7 @@ length: 791
 datetime: Sun, 05 Feb 2023 20:00:00 +0000
 tags: podcast
 guid: why-0dte-so-important-and-why-vix-now-meaningless-0
-order: 0
+order: 1
 ---
 And no, 0DTE does not stand for Zero Dark Thirty...
 
