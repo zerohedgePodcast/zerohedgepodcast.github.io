@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Theater Of The Absurd In J6 Courtrooms"
-audio: theater-absurd-j6-courtrooms-4
+audio: theater-absurd-j6-courtrooms-5
 category: political
 desc: "As judges hand down one absurd sentence after another, one might be inclined to laugh at the absurdity of it all except, of course, it's not funny..."
 duration: 00:07:48
 length: 468
-datetime: Sun, 05 Feb 2023 00:00:00 +0000
+datetime: Sun, 05 Feb 2023 04:00:00 +0000
 tags: podcast
 guid: theater-absurd-j6-courtrooms-0
 order: 0

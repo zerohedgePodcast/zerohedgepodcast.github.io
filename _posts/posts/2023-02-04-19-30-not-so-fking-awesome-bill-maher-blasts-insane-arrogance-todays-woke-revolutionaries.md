@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Not So &quot;F**king Awesome&quot;... Bill Maher Blasts &quot;Insane Arrogance&quot; Of Today's 'Woke Revolutionaries'"
-audio: not-so-fking-awesome-bill-maher-blasts-insane-arrogance-todays-woke-revolutionaries-5
+audio: not-so-fking-awesome-bill-maher-blasts-insane-arrogance-todays-woke-revolutionaries-6
 category: political
 desc: "&quot;If you're part of today's woke revolution, you need to study the part of revolutions where they spin out of control...&quot;"
 duration: 00:03:49
 length: 229
-datetime: Sat, 04 Feb 2023 12:00:00 +0000
+datetime: Sat, 04 Feb 2023 19:30:00 +0000
 tags: podcast
 guid: not-so-fking-awesome-bill-maher-blasts-insane-arrogance-todays-woke-revolutionaries-0
 order: 1
