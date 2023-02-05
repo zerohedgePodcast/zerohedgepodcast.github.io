@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "N.Korea Warns Of 'Toughest Reaction' After Bigger US-South Korea Drills Announced"
-audio: nkorea-warns-toughest-reaction-after-bigger-us-south-korea-drills-announced-2
+audio: nkorea-warns-toughest-reaction-after-bigger-us-south-korea-drills-announced-3
 category: geopolitical
 desc: "North will respond under the principle of &quot;nuke for nuke &amp; an all-out confrontation for an all-out confrontation.&quot;"
 duration: 00:01:38

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Big Misses From Alphabet, Amazon, And Apple Confirm &quot;The Web 2.0 Bubble Is Bursting&quot;"
-audio: big-misses-alphabet-amazon-and-apple-confirm-web-20-bubble-bursting-1
+audio: big-misses-alphabet-amazon-and-apple-confirm-web-20-bubble-bursting-2
 category: markets
 desc: "The Web 2.0 bubble is bursting, with far-reaching consequences. But to understand the consequences, let's begin with a brief history of the web: how it evolved from the original Web 1.0 to the current Web 2.0, and how it will evolve to the coming Web 3.0."
 duration: 00:06:50

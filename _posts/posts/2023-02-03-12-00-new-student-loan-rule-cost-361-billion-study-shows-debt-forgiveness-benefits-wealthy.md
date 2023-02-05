@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Student Loan Rule To Cost $361 Billion; Study Shows Debt Forgiveness Benefits The Wealthy"
-audio: new-student-loan-rule-cost-361-billion-study-shows-debt-forgiveness-benefits-wealthy-1
+audio: new-student-loan-rule-cost-361-billion-study-shows-debt-forgiveness-benefits-wealthy-2
 category: political
 desc: "&quot;Continuing to extend the student loan payment pause is expensive and regressive. It costs at least $5 billion per month and delivers the bulk of the benefits to upper-income families.&quot;"
 duration: 00:05:14

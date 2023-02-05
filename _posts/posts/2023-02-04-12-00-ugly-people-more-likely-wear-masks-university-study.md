@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It's Official: Ugly People More Likely To Wear Masks - University Study"
-audio: ugly-people-more-likely-wear-masks-university-study-3
+audio: ugly-people-more-likely-wear-masks-university-study-5
 category: covid-19
 desc: "...if only the CDC had urged wearing bags on our heads"
 duration: 00:02:26

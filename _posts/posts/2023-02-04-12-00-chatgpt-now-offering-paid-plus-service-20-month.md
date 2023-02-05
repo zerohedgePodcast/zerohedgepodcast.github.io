@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ChatGPT Now Offering Paid &quot;Plus&quot; Service For $20 Per Month"
-audio: chatgpt-now-offering-paid-plus-service-20-month-2
+audio: chatgpt-now-offering-paid-plus-service-20-month-3
 category: markets
 desc: "We love our free users and will continue to offer free access to ChatGPT. By offering this subscription pricing, we will be able to help support free access availability to as many people as possible."
 duration: 00:02:37

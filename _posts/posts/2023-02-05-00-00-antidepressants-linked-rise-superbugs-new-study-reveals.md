@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Antidepressants Linked To Rise In SuperbugsNew Study Reveals"
-audio: antidepressants-linked-rise-superbugs-new-study-reveals-2
+audio: antidepressants-linked-rise-superbugs-new-study-reveals-4
 category: medical
 desc: "Antibiotic resistance is making pathogens we routinely encounter potentially deadlyagain"
 duration: 00:06:53

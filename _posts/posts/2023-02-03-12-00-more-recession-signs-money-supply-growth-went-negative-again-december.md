@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Recession Signs: Money Supply Growth Went Negative Again In December"
-audio: more-recession-signs-money-supply-growth-went-negative-again-december-1
+audio: more-recession-signs-money-supply-growth-went-negative-again-december-2
 category: markets
 desc: "...the so-called soft landing promised by the Fed is unlikely to ever be a reality."
 duration: 00:04:55

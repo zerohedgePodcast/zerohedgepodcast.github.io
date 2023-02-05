@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "These Were The Best And Worst Performing Assets To Start The Year"
-audio: these-were-best-and-worst-performing-assets-start-year-1
+audio: these-were-best-and-worst-performing-assets-start-year-2
 category: markets
 desc: "Markets got the year off to a stellar start in January"
 duration: 00:07:16

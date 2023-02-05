@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stockman: What Inflation Would Look Like In A True Free-Market Economy"
-audio: stockman-what-inflation-would-look-true-free-market-economy-1
+audio: stockman-what-inflation-would-look-true-free-market-economy-2
 category: markets
 desc: "There is not a shred of historical evidence that the US economy needs a 2.00% inflation guardrail to thrive, or any fixed rate of inflation at all..."
 duration: 00:05:57

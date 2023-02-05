@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 Things Most People Don't Know About Gold, Bitcoin, And Money"
-audio: 3-things-most-people-dont-know-about-gold-bitcoin-and-money-2
+audio: 3-things-most-people-dont-know-about-gold-bitcoin-and-money-3
 category: crypto
 desc: "Bitcoin is misunderstood by almost everyone. But that's actually a huge blessing in disguise..."
 duration: 00:09:59

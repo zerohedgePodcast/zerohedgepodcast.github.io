@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jim Jordan Subpoenas Garland, Wray Over School Board Memo Used Against 'Domestic Terrorist' Parents"
-audio: jim-jordan-subpoenas-garland-wray-over-school-board-memo-used-activate-fbi-2
+audio: jim-jordan-subpoenas-garland-wray-over-school-board-memo-used-activate-fbi-3
 category: political
 desc: "The DOJ used the memo to justify labeling parents 'domestic terrorists.'"
 duration: 00:03:45

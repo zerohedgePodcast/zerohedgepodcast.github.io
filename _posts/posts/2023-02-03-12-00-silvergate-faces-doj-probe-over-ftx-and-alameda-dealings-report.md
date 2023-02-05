@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Silvergate Faces DOJ Probe Over FTX And Alameda Dealings: Report"
-audio: silvergate-faces-doj-probe-over-ftx-and-alameda-dealings-report-1
+audio: silvergate-faces-doj-probe-over-ftx-and-alameda-dealings-report-2
 category: crypto
 desc: "The crypto bank hasn't been accused of wrongdoing, but prosecutors want to see how deep the dealings between the crypto bank and FTX went..."
 duration: 00:02:21

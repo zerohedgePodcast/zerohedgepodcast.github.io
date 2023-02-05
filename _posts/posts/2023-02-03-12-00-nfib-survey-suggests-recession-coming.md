@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NFIB Survey Suggests A Recession Is Coming"
-audio: nfib-survey-suggests-recession-coming-1
+audio: nfib-survey-suggests-recession-coming-2
 category: markets
 desc: "While the most recent survey showed hope about the &quot;economy,&quot; they remain unwilling to &quot;bet&quot; their capital on it..."
 duration: 00:06:33

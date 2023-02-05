@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EU To Train 30,000 Ukrainian Troops As Kiev's Losses Mount"
-audio: eu-train-30000-ukrainian-troops-kievs-losses-mount-1
+audio: eu-train-30000-ukrainian-troops-kievs-losses-mount-2
 category: geopolitical
 desc: "Doubles its pledge to train Ukrainian forces from 15,000 to 30,000 troops."
 duration: 00:02:32
