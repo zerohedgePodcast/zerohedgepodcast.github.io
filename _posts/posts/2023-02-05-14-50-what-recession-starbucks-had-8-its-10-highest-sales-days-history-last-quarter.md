@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Recession: Starbucks Had 8 Of Its 10 Highest Sales Days In History Last Quarter"
-audio: what-recession-starbucks-had-8-its-10-highest-sales-days-history-last-quarter-0
+audio: what-recession-starbucks-had-8-its-10-highest-sales-days-history-last-quarter-2
 category: economics
 desc: "&quot;At a time when people are generally trading down, and there's a lot of discounting going on, we had the highest average ticket in our history in the month of December&quot;"
 duration: 00:03:36

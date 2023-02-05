@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US To Open 4 New Sites In Philippines, Accelerating 'Pivot To Asia'"
-audio: us-open-4-new-sites-philippines-accelerating-pivot-asia-5
+audio: us-open-4-new-sites-philippines-accelerating-pivot-asia-7
 category: geopolitical
 desc: "Access to 4 additional military bases means 'front seat' to monitor China-Taiwan standoff..."
 duration: 00:02:46

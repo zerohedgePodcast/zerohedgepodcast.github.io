@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Australia Becomes 1st Country To Legalize Therapeutic Use Of MDMA &amp; Psilocybin"
-audio: australia-becomes-1st-country-legalize-therapeutic-use-mdma-psilocybin-4
+audio: australia-becomes-1st-country-legalize-therapeutic-use-mdma-psilocybin-7
 category: medical
 desc: "For the treatment of two medical conditions, used &quot;in a controlled medical setting&quot;..."
 duration: 00:05:22
 length: 322
-datetime: Sun, 05 Feb 2023 00:00:00 +0000
+datetime: Sun, 05 Feb 2023 04:30:00 +0000
 tags: podcast
 guid: australia-becomes-1st-country-legalize-therapeutic-use-mdma-psilocybin-0
 order: 0

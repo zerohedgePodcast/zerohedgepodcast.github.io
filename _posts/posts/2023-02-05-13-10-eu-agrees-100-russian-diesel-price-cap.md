@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EU Agrees To $100 Russian Diesel Price Cap"
-audio: eu-agrees-100-russian-diesel-price-cap-0
+audio: eu-agrees-100-russian-diesel-price-cap-2
 category: commodities
 desc: "The EU's ban on Russian seaborne crude oil products imports, including diesel and naphtha, is scheduled to go into effect on February 5."
 duration: 00:01:43
