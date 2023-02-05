@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sales Of $10 Million-Plus Homes In Brooklyn Reach A Record In 2022"
-audio: sales-10-million-plus-homes-brooklyn-reach-record-2022-4
+audio: sales-10-million-plus-homes-brooklyn-reach-record-2022-5
 category: markets
 desc: "&quot;...It has nothing to do with price. It has everything to do with quality of life...&quot;"
 duration: 00:02:08

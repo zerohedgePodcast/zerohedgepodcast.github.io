@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ford Sold Almost All Of Its Stake In Rivian Last Year"
-audio: ford-sold-almost-all-its-stake-rivian-last-year-0
+audio: ford-sold-almost-all-its-stake-rivian-last-year-1
 category: markets
 desc: "At the end of last year, the legacy Detroit automaker held only about 11 million of its initial 101.9 million share stake in the company. "
 duration: 00:02:37
