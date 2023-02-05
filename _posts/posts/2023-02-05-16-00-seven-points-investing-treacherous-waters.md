@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seven Points On Investing In Treacherous Waters"
-audio: seven-points-investing-treacherous-waters-3
+audio: seven-points-investing-treacherous-waters-8
 category: markets
 desc: "What's truly valuable has no price and cannot be bought..."
 duration: 00:06:55

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gun Background-Checks Reveal Firearms Demand Slumped After COVID Mania "
-audio: gun-buying-mania-subsides-background-checks-show-10
+audio: gun-buying-mania-subsides-background-checks-show-1
 category: markets
 desc: "...though demand remains elevated. "
 duration: 00:01:49

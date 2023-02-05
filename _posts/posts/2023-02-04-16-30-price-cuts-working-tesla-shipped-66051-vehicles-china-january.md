@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Price Cuts Working: Tesla Shipped 66,051 Vehicles In China In January, Up 18% From December"
-audio: price-cuts-working-tesla-shipped-66051-vehicles-china-january-6
+audio: price-cuts-working-tesla-shipped-66051-vehicles-china-january-7
 category: markets
 desc: "The figure is up 18% from December."
 duration: 00:02:09

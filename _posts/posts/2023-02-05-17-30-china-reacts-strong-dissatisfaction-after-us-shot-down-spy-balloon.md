@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China Reacts With &quot;Strong Dissatisfaction&quot; After US Shot Down Spy Balloon"
-audio: china-reacts-strong-dissatisfaction-after-us-shot-down-spy-balloon-1
+audio: china-reacts-strong-dissatisfaction-after-us-shot-down-spy-balloon-7
 category: geopolitical
 desc: "&quot;For the United States to insist on using armed force is clearly an excessive reaction.&quot;"
 duration: 00:03:07

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Italy Hit With Widespread Internet Outage After &quot;International Interconnection Problem&quot; "
-audio: italy-hit-nationwide-internet-outage-4
+audio: italy-hit-nationwide-internet-outage-9
 category: geopolitical
 desc: "&quot;An international interconnection problem impacting the service at the national level was detected.&quot;"
 duration: 00:01:35
@@ -9,7 +9,7 @@ length: 95
 datetime: Sun, 05 Feb 2023 16:50:00 +0000
 tags: podcast
 guid: italy-hit-nationwide-internet-outage-0
-order: 0
+order: 2
 ---
 &quot;An international interconnection problem impacting the service at the national level was detected.&quot;
 

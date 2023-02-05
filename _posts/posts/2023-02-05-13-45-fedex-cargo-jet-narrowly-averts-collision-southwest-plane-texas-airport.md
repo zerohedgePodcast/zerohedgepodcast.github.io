@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FedEx Cargo Jet Narrowly Averts Collision With Southwest Plane At Texas Airport"
-audio: fedex-cargo-jet-narrowly-averts-collision-southwest-plane-texas-airport-4
+audio: fedex-cargo-jet-narrowly-averts-collision-southwest-plane-texas-airport-9
 category: markets
 desc: "&quot;Initial ADS-B data show the landing 767 overflying the departing 737.&quot; "
 duration: 00:01:34

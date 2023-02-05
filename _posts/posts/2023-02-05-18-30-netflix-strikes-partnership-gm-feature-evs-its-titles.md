@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Netflix Strikes Partnership With GM To Feature EVs On Its Titles "
-audio: netflix-strikes-partnership-gm-feature-evs-its-titles-0
+audio: netflix-strikes-partnership-gm-feature-evs-its-titles-5
 category: markets
 desc: "Netflix said it will increase the presence of electric vehicles in its original programming &quot;where relevant&quot;. Which likely means everywhere. "
 duration: 00:01:46
