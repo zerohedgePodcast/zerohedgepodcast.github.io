@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bonds Die, CPI's Lie, &amp; Gold Flies"
-audio: bonds-die-cpis-lie-gold-flies-0
+audio: bonds-die-cpis-lie-gold-flies-2
 category: markets
 desc: "///we look at Gold's rise in a backdrop of more bond destruction in the public markets and more truth destruction in the war on inflation..."
 duration: 00:11:36

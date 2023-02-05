@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "&quot;Woke Ideology Has Infected Every Aspect Of American Life&quot;, Sen. Rubio Warns"
-audio: woke-ideology-has-infected-every-aspect-american-life-sen-rubio-warns-1
+audio: woke-ideology-has-infected-every-aspect-american-life-sen-rubio-warns-2
 category: political
 desc: "...the Pentagon &quot;is not supposed to be a woke social engineering experiment wrapped in a uniform...&quot; "
 duration: 00:02:27

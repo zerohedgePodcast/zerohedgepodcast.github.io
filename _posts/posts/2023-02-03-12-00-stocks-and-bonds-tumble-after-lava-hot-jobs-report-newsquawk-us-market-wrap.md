@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stocks and bonds tumble after lava-hot jobs report - Newsquawk US Market Wrap"
-audio: stocks-and-bonds-tumble-after-lava-hot-jobs-report-newsquawk-us-market-wrap-1
+audio: stocks-and-bonds-tumble-after-lava-hot-jobs-report-newsquawk-us-market-wrap-2
 category: markets
 desc: "Super-hot NFP; Strong ISM Services; Plethora of hawkish ECB speak; Dovishly-perceived Pill; AAPL, AMZN &amp; GOOGL earnings all disappoint; US postpone China trip over spy balloon; Daly leans on data-dependence."
 duration: 00:21:51

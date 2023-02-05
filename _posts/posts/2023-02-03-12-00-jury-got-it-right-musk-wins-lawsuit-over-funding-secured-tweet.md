@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "&quot;The Jury Got It Right&quot; - Musk Wins Lawsuit Over 'Funding Secured' Tweet"
-audio: jury-got-it-right-musk-wins-lawsuit-over-funding-secured-tweet-1
+audio: jury-got-it-right-musk-wins-lawsuit-over-funding-secured-tweet-2
 category: markets
 desc: "...an opportunity to &quot;clear the record.&quot;"
 duration: 00:02:06

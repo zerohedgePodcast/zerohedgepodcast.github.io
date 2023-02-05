@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Phone Runs On Cobalt From DR Congo"
-audio: your-phone-runs-cobalt-dr-congo-1
+audio: your-phone-runs-cobalt-dr-congo-2
 category: commodities
 desc: "The use of child labor in the mining of cobalt in DRC is well documented, with the U.S. Department of Labor estimating that 40,000 children, some as young as 6 years old, work in the mines there..."
 duration: 00:00:55

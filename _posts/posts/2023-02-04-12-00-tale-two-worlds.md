@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Tale Of Two Worlds"
-audio: tale-two-worlds-0
+audio: tale-two-worlds-1
 category: geopolitical
 desc: "In the war between the western alliance and the Asian axis, the media focus is on the Ukrainian battlefield. The real war is in currencies, with Russia capable of destroying the dollar..."
 duration: 00:30:44

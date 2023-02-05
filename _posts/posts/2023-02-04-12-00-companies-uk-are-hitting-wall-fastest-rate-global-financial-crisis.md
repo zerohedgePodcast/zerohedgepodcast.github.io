@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Companies In UK Are Hitting The Wall At Fastest Rate Since Global Financial Crisis"
-audio: companies-uk-are-hitting-wall-fastest-rate-global-financial-crisis-1
+audio: companies-uk-are-hitting-wall-fastest-rate-global-financial-crisis-2
 category: personal-finance
 desc: "As the price of everything, including debt, continues to soar, life is getting harder and harder for the UK's heavily indebted businesses..."
 duration: 00:10:24

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Americans Continue To Flee High-Tax New York And California -- Here's Where They're Going"
-audio: americans-fleeing-high-tax-new-york-and-california-heres-where-theyre-going-2
+audio: americans-fleeing-high-tax-new-york-and-california-heres-where-theyre-going-3
 category: personal-finance
 desc: "&quot;Something else that makes these areas popular is the robust job market recovery after the pandemic...&quot;"
 duration: 00:02:37

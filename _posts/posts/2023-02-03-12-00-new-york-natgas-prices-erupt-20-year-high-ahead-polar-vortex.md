@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New York NatGas Prices Erupt To 20-Year High Ahead Of Polar Vortex"
-audio: new-york-natgas-prices-erupt-20-year-high-ahead-polar-vortex-0
+audio: new-york-natgas-prices-erupt-20-year-high-ahead-polar-vortex-1
 category: commodities
 desc: "Canadian NatGas into New York jumped to $164.80 per million British thermal units...."
 duration: 00:01:22

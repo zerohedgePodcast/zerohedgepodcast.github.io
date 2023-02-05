@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Americans Hosting Super Bowl Parties Breathe A Sigh Of Relief After Chicken Wing, Avocado Prices Drop"
-audio: americans-hosting-super-bowl-parties-breathe-sigh-relief-after-chicken-wing-avocado-1
+audio: americans-hosting-super-bowl-parties-breathe-sigh-relief-after-chicken-wing-avocado-2
 category: commodities
 desc: "How long until President Biden's 70-person social media team tweets about these savings?"
 duration: 00:01:53

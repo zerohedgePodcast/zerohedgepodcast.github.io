@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ChatGPT Maker OpenAI Releases Tool To Check If Text Was Written By A Human"
-audio: chatgpt-maker-openai-releases-tool-check-if-text-was-written-human-1
+audio: chatgpt-maker-openai-releases-tool-check-if-text-was-written-human-2
 category: political
 desc: "&quot;It should not be used as a primary decision-making tool, but instead as a complement to other methods of determining the source of a piece of text...&quot;"
 duration: 00:02:25

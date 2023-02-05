@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Watch: Biden Says &quot;More Than Half The Women In My Administration Are Women&quot;"
-audio: watch-biden-says-more-half-women-my-administration-are-women-0
+audio: watch-biden-says-more-half-women-my-administration-are-women-1
 category: markets
 desc: "Biden spoke about sexual assaults on women with Bill Clinton standing awkwardly behind him..."
 duration: 00:02:17

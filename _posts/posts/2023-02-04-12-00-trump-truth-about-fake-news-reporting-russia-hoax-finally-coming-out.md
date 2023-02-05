@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump: Truth About &quot;Fake News&quot; Reporting On &quot;Russia Hoax&quot; Is Finally Coming Out"
-audio: trump-truth-about-fake-news-reporting-russia-hoax-finally-coming-out-1
+audio: trump-truth-about-fake-news-reporting-russia-hoax-finally-coming-out-2
 category: political
 desc: "&quot;A STAGGERING, detailed account of the lies, disinformation, and complete lack of journalistic integrity...&quot;"
 duration: 00:04:29
