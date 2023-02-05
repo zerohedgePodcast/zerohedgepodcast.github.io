@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mile-High Dinosaur-Killer Tsunami Recreated In NOAA Simulation "
-audio: mile-high-dinosaur-killer-tsunami-recreated-noaa-simulation-5
+audio: mile-high-dinosaur-killer-tsunami-recreated-noaa-simulation-6
 category: technology
 desc: "Remember the wave scene in the movie Interstellar? "
 duration: 00:01:26

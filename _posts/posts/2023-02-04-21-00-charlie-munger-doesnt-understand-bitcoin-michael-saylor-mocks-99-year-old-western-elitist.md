@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charlie Munger Doesn't Understand Bitcoin, Michael Saylor Mocks 99-Year-Old Western Elitist"
-audio: charlie-munger-doesnt-understand-bitcoin-michael-saylor-mocks-99-year-old-western-elitist-6
+audio: charlie-munger-doesnt-understand-bitcoin-michael-saylor-mocks-99-year-old-western-elitist-7
 category: crypto
 desc: "Buffett's right-hand man hasn't taken the time to understand Bitcoin..."
 duration: 00:03:00

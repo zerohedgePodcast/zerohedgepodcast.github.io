@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Chinese 'Spy Balloon' Story As Manufactured Crisis: An Alternative Reading"
-audio: chinese-spy-balloon-story-manufactured-crisis-alternative-reading-8
+audio: chinese-spy-balloon-story-manufactured-crisis-alternative-reading-9
 category: geopolitical
 desc: "The real story is probably why this story became a story in the first place..."
 duration: 00:06:01
