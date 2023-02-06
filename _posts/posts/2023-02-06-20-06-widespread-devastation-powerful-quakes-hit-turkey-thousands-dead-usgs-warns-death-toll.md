@@ -9,7 +9,7 @@ length: 507
 datetime: Mon, 06 Feb 2023 20:06:00 +0000
 tags: podcast
 guid: widespread-devastation-powerful-quakes-hit-turkey-thousands-dead-usgs-warns-death-toll-0
-order: 1
+order: 2
 ---
 &quot;Footage of the earthquake aftermath shows where everything almost collapsed...&quot; 
 

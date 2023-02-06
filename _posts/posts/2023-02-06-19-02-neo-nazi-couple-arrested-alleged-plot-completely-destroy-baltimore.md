@@ -9,7 +9,7 @@ length: 140
 datetime: Mon, 06 Feb 2023 19:02:00 +0000
 tags: podcast
 guid: neo-nazi-couple-arrested-alleged-plot-completely-destroy-baltimore-0
-order: 0
+order: 1
 ---
 &quot;It would probably permanently completely lay this city to waste if we could do that successfully.&quot; 
 
