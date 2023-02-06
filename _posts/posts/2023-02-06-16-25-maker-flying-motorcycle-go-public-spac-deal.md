@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Maker Of Flying Motorcycle To Go Public In SPAC Deal"
-audio: maker-flying-motorcycle-go-public-spac-deal-0
+title: "Flying Motorcycle SPAC Collapses By 55% "
+audio: maker-flying-motorcycle-go-public-spac-deal-1
 category: markets
-desc: "SPACs are back?"
-duration: 00:01:32
-length: 92
-datetime: Mon, 06 Feb 2023 11:55:00 +0000
+desc: "SPACs aren't back.  "
+duration: 00:02:32
+length: 152
+datetime: Mon, 06 Feb 2023 16:25:00 +0000
 tags: podcast
 guid: maker-flying-motorcycle-go-public-spac-deal-0
 order: 0
 ---
-SPACs are back?
+SPACs aren't back.  
 
 Link: [https://www.zerohedge.com/markets/maker-flying-motorcycle-go-public-spac-deal](https://www.zerohedge.com/markets/maker-flying-motorcycle-go-public-spac-deal)
 
