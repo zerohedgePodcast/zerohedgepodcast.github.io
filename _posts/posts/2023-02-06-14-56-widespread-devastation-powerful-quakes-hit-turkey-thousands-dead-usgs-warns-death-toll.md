@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Widespread Devastation: Powerful Quakes Hit Turkey, Thousands Dead; USGS Warns Death Toll Could Hit 10,000"
-audio: widespread-devastation-powerful-quakes-hit-turkey-thousands-dead-usgs-warns-death-toll-0
+title: "&quot;Horrible Scenes&quot; - 1900 Dead So Far In Turkey-Syria Quake, 1000s of Buildings Collapsed"
+audio: widespread-devastation-powerful-quakes-hit-turkey-thousands-dead-usgs-warns-death-toll-1
 category: weather
-desc: "&quot;Horrible scenes keep coming!!!&quot; "
-duration: 00:04:37
-length: 277
-datetime: Mon, 06 Feb 2023 12:04:00 +0000
+desc: "&quot;Footage of the earthquake aftermath shows where everything almost collapsed in an industrial and business area...&quot; "
+duration: 00:06:50
+length: 410
+datetime: Mon, 06 Feb 2023 14:56:00 +0000
 tags: podcast
 guid: widespread-devastation-powerful-quakes-hit-turkey-thousands-dead-usgs-warns-death-toll-0
 order: 1
 ---
-&quot;Horrible scenes keep coming!!!&quot; 
+&quot;Footage of the earthquake aftermath shows where everything almost collapsed in an industrial and business area...&quot; 
 
 Link: [https://www.zerohedge.com/weather/widespread-devastation-powerful-quakes-hit-turkey-thousands-dead-usgs-warns-death-toll](https://www.zerohedge.com/weather/widespread-devastation-powerful-quakes-hit-turkey-thousands-dead-usgs-warns-death-toll)
 
