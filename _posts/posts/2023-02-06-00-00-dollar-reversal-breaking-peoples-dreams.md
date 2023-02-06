@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "everybody hates the dollar...."
-audio: dollar-reversal-breaking-peoples-dreams-7
+audio: dollar-reversal-breaking-peoples-dreams-8
 category: the-market-ear
 desc: 
 duration: 00:02:12
