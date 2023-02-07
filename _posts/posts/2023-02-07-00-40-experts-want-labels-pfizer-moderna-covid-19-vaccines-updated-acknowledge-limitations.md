@@ -9,7 +9,7 @@ length: 224
 datetime: Tue, 07 Feb 2023 00:40:00 +0000
 tags: podcast
 guid: experts-want-labels-pfizer-moderna-covid-19-vaccines-updated-acknowledge-limitations-0
-order: 2
+order: 0
 ---
 &quot;We are concerned that current FDA-approved labeling for the mRNA COVID vaccines is seriously out of date...&quot;
 
