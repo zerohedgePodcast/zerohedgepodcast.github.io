@@ -9,7 +9,7 @@ length: 176
 datetime: Tue, 07 Feb 2023 16:54:00 +0000
 tags: podcast
 guid: watch-live-will-fed-chair-powell-pull-dovish-rug-out-under-market-0
-order: 2
+order: 0
 ---
 &quot;It feels like there are a lot of mixed signals out there, but the pain trade remains up...&quot;
 
