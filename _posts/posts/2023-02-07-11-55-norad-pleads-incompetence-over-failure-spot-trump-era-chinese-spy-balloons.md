@@ -9,7 +9,7 @@ length: 224
 datetime: Tue, 07 Feb 2023 11:55:00 +0000
 tags: podcast
 guid: norad-pleads-incompetence-over-failure-spot-trump-era-chinese-spy-balloons-0
-order: 2
+order: 1
 ---
 A &quot;domain awareness gap.&quot;
 

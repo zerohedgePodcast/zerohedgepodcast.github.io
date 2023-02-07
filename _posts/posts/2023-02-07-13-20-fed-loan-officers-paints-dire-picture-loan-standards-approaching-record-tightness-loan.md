@@ -9,7 +9,7 @@ length: 396
 datetime: Tue, 07 Feb 2023 13:20:00 +0000
 tags: podcast
 guid: fed-loan-officers-paints-dire-picture-loan-standards-approaching-record-tightness-loan-0
-order: 0
+order: 2
 ---
 Loan standards tightened and demand weakened broadly for commercial and industrial loans for firms of all sizes as well as for all types of commercial real estate loans.
 
