@@ -9,7 +9,7 @@ length: 199
 datetime: Tue, 07 Feb 2023 20:30:00 +0000
 tags: podcast
 guid: us-consumers-hit-brick-wall-december-credit-rises-slowest-pace-2-years-interest-rates-soar-0
-order: 2
+order: 0
 ---
 Did the US consumer finally tap out?
 
